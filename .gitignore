@@ -1,3 +1,5 @@
+# Data
+data/
 # Python
 __pycache__/
 *.py[cod]
@@ -22,14 +24,6 @@ config.py
 *.swp
 *.swo
 .DS_Store
-
-# Data files
-data/
-dementia_data/
-*.csv
-*.json
-!data/processed/.gitkeep
-test.xlsx
 
 # Logs
 logs/

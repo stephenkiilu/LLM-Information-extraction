@@ -5,7 +5,7 @@ import json
 import csv
 import time
 from typing import List, Dict, Any, Tuple
-import pandas as pd
+
 
 from openai import OpenAI
 from dotenv import load_dotenv
@@ -20,8 +20,8 @@ load_dotenv()
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Constants
-WHITEMATTER_JSON_PATH = "data/processed/whitematter_data.json"
-DEFAULT_OUTPUT_CSV = "data/processed/whittematter_predicted_data.csv"
+WHITEMATTER_JSON_PATH = "data/processed/whitematter_full_data.json"
+DEFAULT_OUTPUT_CSV = "data/processed/whitematter_full_predicted_data_GPT_5_mini.csv"
 
 # Define all extraction fields
 EXTRACTION_FIELDS = [
@@ -43,7 +43,7 @@ EXTRACTION_FIELDS = [
 ]
 
 # CSV fieldnames (paper metadata + extraction fields)
-CSV_FIELDNAMES = ["pmcid", "title"] + EXTRACTION_FIELDS
+CSV_FIELDNAMES = ["PMID", "title"] + EXTRACTION_FIELDS
 
 # Load white matter data
 with open(WHITEMATTER_JSON_PATH, "r", encoding="utf-8") as f:
@@ -51,8 +51,40 @@ with open(WHITEMATTER_JSON_PATH, "r", encoding="utf-8") as f:
 
 def _get_paper_field(paper: Dict[str, Any], field: str) -> str:
     """Extract and convert a paper field to string, handling None values."""
-    value = paper.get(field)
+    # Check metadata first
+    metadata = paper.get("metadata", {})
+    if field in metadata:
+        value = metadata.get(field)
+    else:
+        value = paper.get(field)
     return str(value) if value is not None else ""
+
+
+def _clean_content(content: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Recursively clean content structure of the paper.
+    Removes empty sections and subsections.
+    """
+    cleaned = {}
+    
+    for section_title, section_data in content.items():
+        new_section = {}
+        
+        # Keep text if present and not empty/None
+        if "text" in section_data and section_data["text"]:
+            new_section["text"] = section_data["text"]
+            
+        # Process subsections recursively
+        if "subsections" in section_data and isinstance(section_data["subsections"], dict):
+            cleaned_subs = _clean_content(section_data["subsections"])
+            if cleaned_subs:
+                new_section["subsections"] = cleaned_subs
+        
+        # Only add section if it has content (text or subsections)
+        if new_section:
+            cleaned[section_title] = new_section
+            
+    return cleaned
 
 
 def process_data(paper: Dict[str, Any], processing_mode: int) -> Tuple[str, List[str]]:
@@ -60,65 +92,37 @@ def process_data(paper: Dict[str, Any], processing_mode: int) -> Tuple[str, List
     Preprocess paper data according to the selected processing mode.
     
     Args:
-        paper: Dictionary containing paper details (title, abstract, keywords, body)
-        processing_mode: Processing strategy
-            1 - Combine all fields without chunking
-            2 - Split body into sections for chunking
-            3 - Title, abstract, and keywords only (no body)
+        paper: Dictionary containing paper details
+        processing_mode: Processing strategy (Only mode 1 used for this version)
     
     Returns:
-        Tuple of (combined_data, body_chunks)
+        Tuple of (combined_data_json_string, body_chunks)
     """
-    # Extract paper fields
-    body = _get_paper_field(paper, "body")
-    abstract = _get_paper_field(paper, "abstract")
-    title = _get_paper_field(paper, "title")
-    keywords = _get_paper_field(paper, "keywords")
-
-    if processing_mode == 1:
-        # Mode 1: Combine all fields without chunking
-        data = f"Title: {title}\n\nAbstract: {abstract}\n\nKeywords: {keywords}\n\nBody:\n{body}"
-        return data, []
-
-    elif processing_mode == 2:
-        # Mode 2: Split body into sections for chunking
-        data = f"Title: {title}\n\nAbstract: {abstract}\n\nKeywords: {keywords}"
-        body_chunks = _split_body_into_chunks(body)
-        return data, body_chunks
-
-    elif processing_mode == 3:
-        # Mode 3: Only metadata (no body)
-        data = f"Title: {title}\n\nAbstract: {abstract}\n\nKeywords: {keywords}"
-        return data, []
-
-    return "", []
-
-
-def _split_body_into_chunks(body: str) -> List[str]:
-    """Split body text into chunks based on section markers (##)."""
-    sections = body.split("##")
-    body_chunks = []
-    current_section = ""
-
-    for section in sections:
-        section = section.strip()
-        if not section:
-            continue
-        
-        if section.startswith("#"):
-            # Subsection - append to current section
-            current_section += " " + section
-        else:
-            # New section - save current and start new
-            if current_section:
-                body_chunks.append(current_section.strip())
-            current_section = section.strip()
-
-    # Add final section if exists
-    if current_section:
-        body_chunks.append(current_section.strip())
+    # 1. Prepare Metadata (excluding authors)
+    metadata = paper.get("metadata", {}).copy()
+    if "authors" in metadata:
+        del metadata["authors"]
     
-    return body_chunks
+    # Ensure title/abstract are present if missing in metadata but in root (fallback)
+    if "title" not in metadata and "title" in paper:
+        metadata["title"] = paper["title"]
+    if "abstract" not in metadata and "abstract" in paper:
+        metadata["abstract"] = paper["abstract"]
+
+    # 2. Prepare Content (Cleaned Structure)
+    content = paper.get("content", {})
+    cleaned_content = _clean_content(content)
+    
+    # 3. Construct Final Structure
+    final_structure = {
+        "metadata": metadata,
+        "body": cleaned_content
+    }
+    
+    # Convert to JSON string
+    data = json.dumps(final_structure, ensure_ascii=False)
+    
+    return data, []
 
 
 def extract_one(WM_paper: Dict[str, Any], 
@@ -130,15 +134,16 @@ def extract_one(WM_paper: Dict[str, Any],
     Args:
         WM_paper: Dictionary containing paper details
         model: OpenAI model identifier (default: gpt-4o-mini)
-        processing_mode: Data processing mode (1=all, 2=chunked, 3=metadata only)
+        processing_mode: Data processing mode (ignored, always full text)
     
     Returns:
         Dictionary containing extracted fields with lists of values
     """
-    data, body_chunks = process_data(WM_paper, processing_mode)
+    # Force processing mode 1 logic implicitly via new process_data
+    data, _ = process_data(WM_paper, processing_mode)
 
-    # Prepare chunks for processing
-    chunks = [data] if processing_mode in [1, 3] else [data] + body_chunks
+    # Prepare chunks for processing (single chunk)
+    chunks = [data]
 
     # Initialize results dictionary
     all_data = {field: [] for field in EXTRACTION_FIELDS}
@@ -193,9 +198,14 @@ def _merge_chunk_results(all_data: Dict[str, List], chunk_result: Dict[str, Any]
 
 def _build_csv_row(paper: Dict[str, Any], extracted_data: Dict[str, List]) -> Dict[str, str]:
     """Build a CSV row from paper metadata and extracted data."""
+    # pmcid is not present in the new structure, defaulting to empty
+    # title is in metadata
+    title = _get_paper_field(paper, "title")
+    pmid = _get_paper_field(paper, "PMID")
+    
     row = {
-        "pmcid": paper.get("pmcid", ""),
-        "title": paper.get("title", "")
+        "PMID": pmid, 
+        "title": title
     }
     
     # Add extracted fields with semicolon-separated values
@@ -203,6 +213,7 @@ def _build_csv_row(paper: Dict[str, Any], extracted_data: Dict[str, List]) -> Di
         row[field] = ";".join(extracted_data.get(field, []))
     
     return row
+
 
 #gpt-4o-mini
 def extract_all(WM_papers: List[Dict[str, Any]],
@@ -235,7 +246,7 @@ def extract_all(WM_papers: List[Dict[str, Any]],
         print(row)
         results.append(row)
         
-        print(f"Processed {i}/{total_papers}: {paper.get('pmcid', 'Unknown')}")
+        print(f"Processed {i}/{total_papers}: {row.get('PMID', 'Unknown')}")
         time.sleep(sleep_sec)
        
     
@@ -244,7 +255,6 @@ def extract_all(WM_papers: List[Dict[str, Any]],
     print(f"✅ Successfully saved {len(results)} records to {out_csv}")
 
     return results
-
 
 def _write_results_to_csv(results: List[Dict[str, str]], output_path: str) -> None:
     """Write extraction results to a CSV file."""
@@ -256,12 +266,11 @@ def _write_results_to_csv(results: List[Dict[str, str]], output_path: str) -> No
 def main():
     """Main execution function."""
     print(f"Starting extraction for {len(whitematter_json)} papers...")
-    extract_all(whitematter_json[0:50], processing_mode=1)
+    extract_all(whitematter_json, processing_mode=1)
     print("Extraction complete!")
 
 
 if __name__ == "__main__":
-    main()
-
-
+    # main()
+    extract_all(whitematter_json)
 

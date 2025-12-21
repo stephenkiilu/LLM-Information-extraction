@@ -2,17 +2,14 @@
 import os
 import pandas as pd
 import json
-from dotenv import load_dotenv
+import glob
 
-# Load environment variables (e.g., API keys, etc.)
-load_dotenv()  # Load environment variables from .env file
 
 # Paths for data
 RAW_DATA_PATH = 'data/raw'  # Raw data 
 PROCESSED_DATA_PATH = 'data/processed'  # Processed data directory
+RAW_JSON_DIR = 'data/raw/WM_full_data_json' # Raw JSON data directory
 
-# Create processed directory if it doesn't exist
-#os.makedirs(PROCESSED_DATA_PATH, exist_ok=True)  # Ensure the directory exists
 
 os.path.dirname(os.path.dirname(__file__))
 
@@ -42,7 +39,7 @@ def process_data():
     # Strip 'PMC' from the PMCID column
     pmcids = pmcids.str.replace('PMC', '', regex=False)  # Remove 'PMC' prefix
 
-    # Save cleaned pmcids to processed folder
+    # Save cleaned pmcids to processed folder --- myfile of all pmcids i.e pmcid.txt
     pmcids.to_csv(get_file_path('pmcid.txt', 'processed'), index=False, header=False)  # Save to processed folder
 
     # Read pmcid.txt, clean the PMC IDs and save them
@@ -50,10 +47,10 @@ def process_data():
     save_processed_data(pmcid_ids, 'pmcids.csv')
 
     # Read extracted data
-    text_csv = pd.read_csv(get_file_path('text.csv', 'raw'))
+    text_csv = pd.read_csv(get_file_path('text.csv', 'raw')) # this is the data from the pubget, but it is reshuffled, I want to put it in the order of my validation set
     ordered_ids = pd.read_csv(get_file_path('pmcids.csv', 'processed'))
 
-    # Merge the data on PMCID
+    # Merge the data on PMCID - the data is to be ordered in the same way as my validation set
     ordered_text = ordered_ids.merge(
         text_csv[["pmcid", "title", "keywords", "abstract", "body"]],
         on="pmcid",
@@ -62,13 +59,12 @@ def process_data():
     )
 
     # Save ordered text data to processed folder
-    save_processed_data(ordered_text, 'ordered_txt.csv')
+    save_processed_data(ordered_text, 'Whitematter_data.csv')
 
-    # Generate JSON from processed data
-    generate_json_file(ordered_text)
-
-def generate_json_file(data, output="whitematter_data.json"):
+def generate_json_file(file_name: str, output="whitematter_data.json"):
     """Generate a JSON file from the processed data."""
+    file_name = get_file_path(file_name, 'processed')
+    data = pd.read_csv(file_name)
     whitematter_pmcid = data['pmcid'].tolist()
     whitematter_title = data['title'].tolist()
     whitematter_keyword = data['keywords'].tolist()  # Not used but extracted
@@ -79,7 +75,7 @@ def generate_json_file(data, output="whitematter_data.json"):
     whitematter_json = []
     for pmcid, abstract, title, keyword, body in zip(whitematter_pmcid, whitematter_abstract, whitematter_title, whitematter_keyword, whitematter_body):
         whitematter_json.append({
-            "pmcid": pmcid,
+            "PMID": pmcid,
             "title": title,
             "keywords": keyword,
             "abstract": abstract,
@@ -92,28 +88,94 @@ def generate_json_file(data, output="whitematter_data.json"):
         json.dump(whitematter_json, f, indent=4, ensure_ascii=False)
 
     print(f"JSON data saved to {output_path}")
+    print(f"JSON data saved to {output_path}")
 
-def save_abstract_data(json_file="whitematter_data.json"):
-    """Extract abstracts and save to JSON."""
-    # Read JSON file
-    json_file = get_file_path(json_file, 'processed')
-    with open(json_file, "r", encoding="utf-8") as f:
-        whitematter_json = json.load(f)
+def consolidate_json_files(output_filename='whitematter_full_data.json'):
+    """
+    Consolidate all JSON files from the RAW_JSON_DIR into a single list
+    and save it to the processed folder.
+    """
+    json_files = glob.glob(os.path.join(get_file_path('', 'raw'), '..', 'WM_full_data_json', '*.json'))
+    # Adjust path because get_file_path defaults to data/raw, but we need data/raw/WM_full_data_json
+    # Actually, let's fix get_file_path usage or just construct path directly for clarity relative to project root
+    # Using the constant RAW_JSON_DIR relative to project root:
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    json_dir = os.path.join(base_dir, RAW_JSON_DIR)
+    
+    # Sort files numerically by prefix (e.g. 1_x.json before 10_x.json)
+    def numerical_sort_key(filepath):
+        basename = os.path.basename(filepath)
+        prefix = basename.split('_')[0]
+        try:
+            return int(prefix)
+        except ValueError:
+            return 999999
+            
+    json_files = sorted(glob.glob(os.path.join(json_dir, '*.json')), key=numerical_sort_key)
+    print(f"Found {len(json_files)} JSON files to consolidate.")
+    
+    consolidated_data = []
+    
+    for file_path in json_files:
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+                # Rename pmcid to PMID
+                if "pmcid" in data:
+                    data["PMID"] = data.pop("pmcid")
+                if "metadata" in data and "pmcid" in data["metadata"]:
+                    data["metadata"]["PMID"] = data["metadata"].pop("pmcid")
+                
+                # Reorder to ensure PMID is first in metadata and removed from root
+                
+                # 1. Ensure PMID in metadata
+                pmid_val = data.get("PMID") or (data.get("metadata", {}).get("PMID"))
 
-    # Extract abstract data
-    abstract_data = [{k: v for k, v in d.items() if k != "body" and k != "pmcid"} for d in whitematter_json]
+                # Fallback: Extract from filename
+                if not pmid_val:
+                    basename = os.path.basename(file_path)
+                    try:
+                        name_parts = os.path.splitext(basename)[0].split('_')
+                        if len(name_parts) >= 2:
+                            pmid_val = name_parts[-1]
+                    except Exception:
+                        pass
 
-    # Save abstract data to JSON file
-    abstract_output_path = get_file_path('whitematter_abstract.json', 'processed')  # Save to processed folder
-    with open(abstract_output_path, "w", encoding="utf-8") as f:
-        json.dump(abstract_data, f, indent=4, ensure_ascii=False)
+                if pmid_val:
+                    if "metadata" not in data:
+                        data["metadata"] = {}
+                    data["metadata"]["PMID"] = str(pmid_val)
+                    
+                # 2. Remove PMID from root if exists
+                if "PMID" in data:
+                    del data["PMID"]
 
-    print(f"Abstract JSON data saved to {abstract_output_path}")
+                # 3. Helper to reorder a dict (PMID then title then others)
+                def reorder_metadata(d):
+                    new_d = {}
+                    if "PMID" in d:
+                        new_d["PMID"] = d["PMID"]
+                    if "title" in d:
+                        new_d["title"] = d["title"]
+                    for k, v in d.items():
+                        if k not in ["PMID", "title"]:
+                            new_d[k] = v
+                    return new_d
 
-# Run the data processing functions
-process_data()
-ordered_csv = load_raw_data(get_file_path('ordered_txt.csv', 'processed'))
-generate_json_file(ordered_csv)
-save_abstract_data()
+                if "metadata" in data and isinstance(data["metadata"], dict):
+                    data["metadata"] = reorder_metadata(data["metadata"])
+                
+                consolidated_data.append(data)
+        except Exception as e:
+            print(f"Error reading {file_path}: {e}")
+            
+    # Save the consolidated list
+    output_path = get_file_path(output_filename, 'processed')
+    with open(output_path, 'w') as f:
+        json.dump(consolidated_data, f, indent=4, ensure_ascii=False)
+        
+    print(f"Successfully consolidated {len(consolidated_data)} records to {output_path}")
 
+# process_data()
+# generate_json_file('Whitematter_data.csv')
 
