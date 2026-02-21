@@ -1,0 +1,12 @@
+ROI,RD,RD,AD,AD,AD,Trace,Trace,Trace,Trace
+Unnamed: 0_level_1,t0,SD,p-value,t0,SD,p-value,t0,SD,p-value.1
+Body Corpus Callosum,320,29,<0.01,326,29,<0.01,324,29,<0.01
+Caudate,329,26,<0.01,328,25,<0.01,328,24,<0.01
+Globus Pallidus,233,44,<0.01,242,53,0.01,223,45,<0.01
+Putamen,247,44,<0.01,272,44,<0.01,252,43,<0.01
+Superior Corona Radiata,272,30,0.02,201,37,0.02,253,24,0.01
+Uncinate Fasciculus,405,35,<0.01,365,41,0.02,331,41,0.04
+Anterior Limb Internal Capsule,292,43,<0.01,257,39,0.06*,286,34,<0.01
+Posterior Thalamic Radiation,269,49,0.02,347,53,0.04,363,56,0.08*
+Sagittal Stratum,259,43,0.01,242,44,0.43*,249,35,0.04
+Thalamus,319,38,0.02,290,47,0.27*,329,41,0.02

@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "title": "Changes in the connection network of whole-brain fiber tracts in patients with Alzheimers disease have a tendency of lateralization",
+    "authors": [
+      "Fangmei He",
+      "Youjun Li",
+      "Chenxi Li",
+      "Jie Zhao",
+      "Tian Liu"
+    ],
+    "abstract": "",
+    "publication_date": ""
+  },
+  "content": {
+    "Untitled Section 1": {
+      "text": "full txt links Neuroreport 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 4 1 2 3",
+      "subsections": {}
+    },
+    "Abstract": {
+      "text": "Alzheimers disease is a common progressive neurodegenerative disorder in the elderly. Diffusion tensor imaging (DTI) has been widely used to explore structural integrity and to describe white matter degeneration in Alzheimers disease. Previous research has indicated that the change of connections between white matter fiber tracts is very important for investigating the brain function of Alzheimers disease patients. However, whether white matter features can be used as potential biomarkers for predicting Alzheimers disease tendency requires more in-depth research. In this study, we investigated the relationship between the damage in white matter tracts and the decline of cognitive function in Alzheimers disease. DTI data were collected from 38 Alzheimers disease patients and 30 normal controls. Fiber assignment by continuous tracking approach was used to establish connections between different brain regions of the whole brain, network-based statistical analysis and support vector machine classification analysis were used to explore the connection of whole-brain fiber bundles between the two groups. Most importantly, our results showed that the connections between brain regions of Alzheimers disease patients were damaged, and the damage were mainly located in the right hemisphere, there was a certain degree of lateralization effect. Using whole-brain fiber bundle connection network as a feature for classification, we found it helped to improve the classification accuracy in Alzheimers disease patients, which is useful for early clinical diagnosis of Alzheimers disease. These findings further suggested that we can use the whole-brain fiber bundle connection network of Alzheimers disease patients as a potential diagnostic indicator of Alzheimers disease in the future.",
+      "subsections": {}
+    }
+  }
+}

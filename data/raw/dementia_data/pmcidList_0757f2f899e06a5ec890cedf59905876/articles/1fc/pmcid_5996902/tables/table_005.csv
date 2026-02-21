@@ -1,0 +1,16 @@
+Unnamed: 0,Unnamed: 1,Patients (n = 58),AD (n = 31),VaD (n = 27)
+FA,CC genu,<0.001,0.005,–
+,CC anterior body,<0.001,0.006,0.007
+,CC posterior body,0.002,0.002,–
+,CC splenium,0.01,0.010,–
+,Thal radiation right,<0.001,0.009,–
+,Thal radiation left,<0.001,–,–
+,Parahipp tract left,–,0.005,–
+MD,CC genu,<0.001,–,–
+,CC anterior body,<0.001,–,0.007
+,CC posterior body,<0.001,0.002,–
+,CC splenium,0.001,0.01,0.005
+,Thal radiation right,<0.001,0.001,0.007
+,Thal radiation left,<0.001,<0.001,–
+,Cingulum right,0.001,0.005,–
+,Cingulum left,<0.001,0.010,–

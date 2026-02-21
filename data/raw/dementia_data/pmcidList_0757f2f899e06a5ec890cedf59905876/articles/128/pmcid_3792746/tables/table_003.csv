@@ -1,0 +1,13 @@
+Unnamed: 0_level_0,FA,FA,MD,MD,RD,RD,A × D,A × D
+Unnamed: 0_level_1,ROI,p-Value,ROI,p-Value,ROI,p-Value,ROI,p-Value
+CDR-sobMCI,–,–,SCC,9.62E− 4,–,–,SCC,9.78E− 5
+CDR-sobMCI,–,–,SLF R,1.17E− 3,–,–,SLF L,9.22E− 4
+CDR-sobMCI,–,–,CGC R,3.61E− 3,–,–,SLF R,9.59E− 4
+CDR-sobMCI,–,–,PTR R,4.03E− 3,–,–,TOTAL,1.06E− 3
+CDR-sobMCI,–,–,TOTAL,4.53E− 3,–,–,PCR R,1.89E− 3
+CDR-sobMCI,–,–,SLF L,8.51E− 3,–,–,SCR R,2.23E− 3
+CDR-sobMCI,–,–,SCR R,9.19E− 3,–,–,PTR R,4.29E− 3
+CDR-sobMCI,–,–,CGC L,9.49E− 3,–,–,SumCC,6.19E− 3
+CDR-sobMCI,–,–,PCR R,1.09E− 2,–,–,PCR L,8.46E− 3
+CDR-sobMCI,–,–,CGH R,1.17E− 2,–,–,SCR L,1.03E− 2
+# sig/43,0,0,15 (p < 1.72E− 2),15 (p < 1.72E− 2),0,0,13 (p < 1.38E− 2),13 (p < 1.38E− 2)

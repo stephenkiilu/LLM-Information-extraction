@@ -1,0 +1,63 @@
+Unnamed: 0_level_0,EMCI + LMCI,EMCI + LMCI,EMCI + LMCI,EMCI + LMCI,EMCI + LMCI,EMCI + LMCI,EMCI,EMCI,EMCI,EMCI,LMCI,LMCI,LMCI,LMCI
+Unnamed: 0_level_1,Moderate Effect,Moderate Effect,Strong Effect,Strong Effect,Very Strong Effect,Very Strong Effect,Moderate Effect,Moderate Effect,Strong Effect,Strong Effect,Moderate Effect,Moderate Effect,Strong Effect,Strong Effect
+JHU WM Tractography,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>
+Anterior thalamic radiation L,32.41,0.39,8.12,0.55,-,-,13.49,0.37,-,-,23.74,0.37,2.64,0.56
+Anterior thalamic radiation R,26.2,0.39,6.68,0.56,-,-,7.83,0.39,-,-,23.21,0.38,-,-
+Cortical spinal tract L,19.75,0.42,5.6,0.6,-,-,11.81,0.41,2.88,0.65,14.46,0.38,3.06,0.55
+Cortical spinal tract R,15.69,0.38,2.48,0.59,-,-,6.77,0.39,-,-,10.57,0.35,0.78,0.53
+Cingulum cingulate gyrus L,42.59,0.41,13.44,0.56,-,-,19.28,0.39,-,-,29.26,0.37,-,-
+Cingulum cingulate gyrus R,42.53,0.37,-,-,-,-,15.92,0.37,-,-,16.76,0.34,-,-
+Forceps major,17.48,0.37,2.65,0.56,-,-,3.22,0.37,-,-,11.53,0.38,2.23,0.54
+Forceps minor,29.69,0.38,3.2,0.56,-,-,4.13,0.38,-,-,23.95,0.38,-,-
+Inferior fronto-occipital fasc L,42.73,0.43,14.85,0.6,0.53,0.76,24.73,0.43,3.87,0.63,29.15,0.38,4.85,0.56
+Inferior fronto-occipital fasc R,24.4,0.36,1.44,0.52,-,-,3.8,0.35,-,-,14.48,0.36,-,-
+Inferior longitudinal fasc L,39.11,0.42,12.96,0.58,0.78,0.77,27.32,0.42,3.59,0.64,20.06,0.36,2.3,0.52
+Inferior longitudinal fasc R,18.73,0.36,-,-,-,-,4.93,0.36,-,-,3.44,0.32,-,-
+Superior longitudinal fasc L,33.41,0.4,8.09,0.58,-,-,19.23,0.4,2.27,0.61,20.05,0.37,1.24,0.6
+Superior longitudinal fasc R,20.61,0.35,0.26,0.54,-,-,5.66,0.37,-,-,11.22,0.33,-,-
+Uncinate fasc L,41.51,0.43,12.59,0.61,-,-,19.81,0.42,1,0.54,28.74,0.41,8.38,0.57
+Uncinate fasc R,27.58,0.38,2.73,0.58,-,-,4.44,0.36,-,-,18.63,0.41,-,-
+Sup longitudinal fasc temporal L,42.52,0.42,11.01,0.59,-,-,26.11,0.41,3.76,0.63,22.67,0.38,2.85,0.6
+Sup longitudinal fasc temporal R,28.75,0.36,-,-,-,-,6.44,0.38,-,-,11.15,0.33,-,-
+ICBM-DTI 81,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>,% Vol,<ρ>
+Middle cerebellar peduncle,42.47,0.46,24.42,0.58,-,-,30.45,0.46,9.22,0.62,34.51,0.41,9.7,0.54
+Pontine crossing tract (a part of MCP),25.87,0.39,5.73,0.55,-,-,8.4,0.36,-,-,11.13,0.31,-,-
+Genu of corpus callosum,24.51,0.35,-,-,-,-,-,-,-,-,20.6,0.34,-,-
+Body of corpus callosum,27.62,0.36,2.1,0.53,-,-,17.42,0.37,-,-,11.87,0.32,1.48,0.49
+Splenium of corpus callosum,29.72,0.42,13.34,0.57,-,-,12.76,0.39,-,-,26.07,0.42,12.06,0.55
+Fornix (column and body of fornix),70.26,0.53,60.55,0.61,-,-,56.6,0.4,-,-,66.31,0.41,-,-
+Corticospinal tract R,27.61,0.39,9.25,0.56,-,-,9.54,0.43,-,-,29.3,0.34,-,-
+Corticospinal tract L,39.64,0.42,17.66,0.57,-,-,18.1,0.41,6.93,0.52,39.85,0.4,9.93,0.54
+Inferior cerebellar peduncle R,36.57,0.51,-,-,-,-,28.72,0.43,-,-,31.82,0.41,-,-
+Inferior cerebellar peduncle L,31.61,0.51,-,-,-,-,28.31,0.45,-,-,30.68,0.39,-,-
+Superior cerebellar peduncle R,9.17,0.31,-,-,-,-,2.22,0.33,-,-,-,-,-,-
+Superior cerebellar peduncle L,21.57,0.33,-,-,-,-,9.98,0.3,-,-,13.41,0.35,-,-
+Cerebral peduncle R,15.14,0.35,-,-,-,-,-,-,-,-,11.76,0.33,-,-
+Cerebral peduncle L,25.81,0.35,-,-,-,-,5.18,0.36,-,-,16.55,0.36,3.07,0.56
+Anterior limb of internal capsule L,17.86,0.36,-,-,-,-,5.2,0.33,-,-,21.64,0.35,-,-
+Posterior limb of internal capsule R,5.59,0.34,-,-,-,-,4.1,0.36,-,-,-,-,-,-
+Posterior limb of internal capsule L,4.13,0.36,-,-,-,-,3.41,0.35,-,-,1.25,0.31,-,-
+Retrolenticular part of internal capsule L,24.75,0.41,8.59,0.57,-,-,9.23,0.38,1.62,0.52,15.07,0.38,1.3,0.53
+Anterior corona radiata R,20.76,0.37,-,-,-,-,-,-,-,-,28.65,0.39,-,-
+Anterior corona radiata L,31.67,0.4,3.49,0.57,-,-,4.71,0.39,-,-,35.55,0.41,8.73,0.58
+Superior corona radiata R,10.91,0.36,-,-,-,-,3.04,0.38,-,-,2.96,0.36,-,-
+Superior corona radiata L,11.97,0.41,-,-,-,-,5.35,0.42,-,-,6.15,0.35,-,-
+Posterior corona radiata R,21.35,0.4,-,-,-,-,3.06,0.37,-,-,14.08,0.37,-,-
+Posterior corona radiata L,25.01,0.42,7.35,0.54,-,-,14.14,0.38,-,-,17.07,0.4,-,-
+Posterior thalamic radiation R,24.47,0.38,-,-,-,-,-,-,-,-,12.49,0.32,-,-
+Posterior thalamic radiation L,47.23,0.41,16.16,0.54,-,-,32.91,0.4,-,-,23.63,0.34,-,-
+Sagittal stratum R,23.52,0.37,-,-,-,-,10.95,0.35,-,-,11.71,0.31,-,-
+Sagittal stratum L,53.2,0.47,34.02,0.6,5.6,0.77,46.35,0.46,24.47,0.57,34.2,0.35,6.59,0.56
+External capsule R,41.85,0.39,11.12,0.53,-,-,19.98,0.37,-,-,20.8,0.33,-,-
+External capsule L,56.33,0.47,31.04,0.59,-,-,39.07,0.42,6.23,0.53,28.98,0.38,5.55,0.57
+Cingulum (cingulate gyrus) R,48.33,0.37,-,-,-,-,21.9,0.36,-,-,17.12,0.35,-,-
+Cingulum (cingulate gyrus) L,51.73,0.43,20.61,0.57,-,-,30.39,0.41,-,-,31.3,0.38,-,-
+Fornix (cres)/stria terminalis R,53.91,0.34,-,-,-,-,-,-,-,-,33.36,0.36,-,-
+Fornix (cres)/stria terminalis L,63.56,0.45,41.33,0.54,-,-,34.04,0.37,-,-,55.02,0.39,12.71,0.59
+Superior longitudinal fasciculus R,31.85,0.35,-,-,-,-,4.89,0.35,-,-,11.08,0.31,-,-
+Superior longitudinal fasciculus L,54.26,0.42,14.46,0.58,-,-,41.56,0.42,9.9,0.58,21.62,0.36,-,-
+Superior fronto-occipital fasciculus L,11.83,0.33,-,-,-,-,-,-,-,-,19.92,0.31,-,-
+Uncinate fasciculus R,22.89,0.3,-,-,-,-,2.11,0.34,-,-,1.05,0.31,-,-
+Uncinate fasciculus L,11.17,0.36,-,-,-,-,-,-,-,-,7.18,0.35,-,-
+Tapetum R,51.01,0.36,-,-,-,-,-,-,-,-,49.66,0.34,-,-
+Tapetum L,68.17,0.39,24.67,0.59,-,-,4.83,0.33,-,-,63.83,0.34,6.17,0.52

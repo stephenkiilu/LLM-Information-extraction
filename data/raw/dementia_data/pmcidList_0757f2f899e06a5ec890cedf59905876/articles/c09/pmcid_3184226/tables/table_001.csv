@@ -1,0 +1,36 @@
+Unnamed: 0_level_0,Talairach coordinate,Talairach coordinate,Talairach coordinate,Cluster,T,Z,Region,BA ROI#
+Unnamed: 0_level_1,X,Y,Z,Cluster,T,Z,Region,BA ROI#
+gm,50,−4,−22,602,5.56,5.27,"R. temporal subgyrus, WM",
+gm,50,−18,−4,602,4.83,4.64,"R. superior temporal gyrus, GM",22
+gm,58,−6,−4,602,4.8,4.61,"R. superior temporal gyrus, WM",ROI1
+gm,−32,−24,−22,264,5.32,5.07,"L. limbic parahippocampal gyrus, WM",ROI2
+gm,38,−72,32,323,4.94,4.73,"R. occipital subgyrus, WM",
+gm,−4,62,14,303,4.81,4.62,"L. superior frontal gyrus, GM",9
+gm,−4,50,20,303,4.65,4.47,"L. medial frontal gyrus, WM",
+gm,−6,62,−4,303,4.41,4.26,"L. medial frontal gyrus, WM",
+Neg,50,−6,−20,"1,041",5.78,5.46,"R. temporal subgyrus, WM",
+Neg,50,−18,−4,"1,041",5.02,4.8,"R. superior temporal gyrus, GM",22
+Neg,58,−6,−4,"1,041",5.03,4.81,"R. superior temporal gyrus, WM",ROI1
+Neg,−30,−22,−22,546,5.73,5.41,"L. limbic parahippocampal gyrus, WM",
+Neg,38,−72,30,432,5.18,4.95,"R. temporal subgyrus, WM",
+Neg,36,−72,6,432,3.94,3.83,"R. middle occipital gyrus, WM",
+Neg,−26,−6,−32,546,4.35,4.21,"L. limbic parahippocampal gyrus, WM",
+Neg,−32,2,−22,546,4.49,4.33,"L. limbic parahippocampal gyrus, WM",
+Pos,40,−74,30,"1,759",4.82,4.63,"R. middle temporal gyrus, WM",ROI3
+Pos,−4,62,10,"1,024",5.38,5.11,"L. medial frontal gyrus, GM",
+Pos,−4,50,20,"1,024",5.44,5.17,"L. medial frontal gyrus, WM",10
+Pos,−6,62,−4,"1,024",5.23,4.98,"L. medial frontal gyrus, WM",
+Pos,24,−86,16,"1,759",5.74,5.42,"R. occipital ceneus, WM",ROI4
+Pos,54,−64,6,"1,759",5.0,4.78,"R. middle temporal gyrus, WM",
+Pos,−56,−44,32,523,5.22,4.98,"L. parietal supramarginal gyrus, WM",
+Pos,−50,−38,30,523,4.41,4.26,"L. interior parietal lobule, WM",
+Pos,−58,−34,18,523,4.4,4.25,"L. superior temporal gyrus, WM",
+Pos,−30,2,−22,732,4.49,4.33,"L. limbic parahippocampal gyrus, GM",34
+Pos,−24,−4,−32,732,3.65,3.56,"L. limbic uncus, WM",ROI5
+Pos,50,−4,−22,779,5.34,5.09,"R. temporal subgyrus, WM",
+Pos,−32,−26,−22,732,5.01,4.79,"L. limbic parahippocampal gyrus, WM",ROI2
+Pos,40,40,26,408,4.71,4.52,"R. middle frontal gyrus, GM",9
+Pos,50,−6,−4,779,4.6,4.43,R. sublobar insula,
+Pos,48,30,28,408,4.52,4.36,"R. middle frontal gyrus, GM",9
+Pos,50,−18,−4,779,4.66,4.49,"R. superior temporal gyrus, GM",22
+Pos,46,46,8,408,4.03,3.91,"R. middle frontal gyrus, WM",

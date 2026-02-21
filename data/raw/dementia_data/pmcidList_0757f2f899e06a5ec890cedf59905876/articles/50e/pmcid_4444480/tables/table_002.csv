@@ -1,0 +1,14 @@
+Models*,Classification accuracy (%),Chi square value,-2LL,df,P value,Significance test for-2LL difference
+One candidate model,,,,,,
+Model N (age+edu) MMSE,81.3,12.31,30.03,3.0,0.006,
+Model P (age+edu) PET,90.6,31.31,11.04,3.0,<0.001,
+Model M (age+edu) MRI,78.1,10.7,31.65,3.0,0.013,
+Two candidate model,,,,,,
+Model NP (age+edu) MMSE+PET,93.8,34.42,7.92,4.0,<0.001,Model NP vs. N : P <0.001
+Model NP (age+edu) MMSE+PET,93.8,34.42,7.92,4.0,<0.001,Model NP vs. P : P = 0.077
+Model NM (age+edu) MMSE+MRI,90.6,19.24,23.1,4.0,0.001,Model NM vs. N : P = 0.009
+Model NM (age+edu) MMSE+MRI,90.6,19.24,23.1,4.0,0.001,Model NM vs. M: P = 0.004
+Model PM (age+edu) PET+MRI,93.8,31.68,10.66,4.0,<0.001,Model PM vs. P : P = 0.540
+Model PM (age+edu) PET+MRI,93.8,31.68,10.66,4.0,<0.001,Model PM vs. M : P <0.001
+Three candidate model,,,,,,
+Model NPM (age+edu) MMSE+PET+MRI,93.8,34.57,7.77,5.0,<0.001,Model NPM vs. NP : P = 0.699

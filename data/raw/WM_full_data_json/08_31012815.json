@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "title": "An official website of the United States government Heres how you know",
+    "authors": [],
+    "abstract": "",
+    "publication_date": ""
+  },
+  "content": {
+    "Untitled Section 1": {
+      "text": "Background Obesity has been associated with increased risk of accelerated cognitive decline and dementia, which suggests underlying neurobiological changes. Purpose To investigate the associations between obesity and brain structure (overall and regional brain volumes, and white matter microstructure) assessed at MRI in a sample of the general population. Materials and Methods Between March 2014 and January 2018, 12 087 participants (52.8 women 6381 of 12 087; mean age, 62 years; age range, 45-76 years) in the prospective observational UK Biobank study underwent 3.0-T multiparametric (ie, three-dimensional T1-weighted diffusion tensor imaging DTI) brain imaging. Percentage of total body fat (TBF) was assessed by body impedance. Volumetric measures included brain volume, gray matter volume, white matter volume, volumes of subcortical gray matter structures, and regional cortical volumes. Global and tract-specific microstructure was assessed by fractional anisotropy (FA) and mean diffusivity (MD) by using DTI. Linear regression was performed by using TBF as determinant and brain measures as outcome variables, and effect estimates were expressed as standardized β values. Results Mean body mass index was 26.6 kgm  4.4 (standard deviation SD), mean TBF in men was 24.4  5.5, and mean TBF in women was 35.5  6.5. In men, TBF was negatively associated with all subcortical gray matter volumes (thalamus, caudate nucleus, putamen, globus pallidus, hippocampus, and nucleus accumbens) other than amygdala volume. In women, TBF was solely negatively associated with globus pallidus volume. In women and men, TBF was positively associated with global FA (women vs men, 0.05 vs 0.07 SD change in global FA per SD change in TBF; P  .001). TBF was negatively associated with global MD in women (-0.07 SD change in global MD per SD change in TBF; P  .001). Conclusion These findings provide evidence that obesity is associated with smaller subcortical gray matter volumes. In addition, obesity was associated with higher coherence but lower magnitude of white matter microstructure, which suggests differential influences of obesity on the geometric organization of white matter microstructure.  RSNA, 2019 Online supplemental material is available for this article. See also the editorial by Caspers in this issue.",
+      "subsections": {}
+    }
+  }
+}

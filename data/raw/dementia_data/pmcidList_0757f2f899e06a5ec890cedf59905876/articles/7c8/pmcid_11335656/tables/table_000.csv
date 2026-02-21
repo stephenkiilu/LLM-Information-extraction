@@ -1,0 +1,27 @@
+Group,N (#F),Age (SD) year,MMSE [available],GDS [available],FAQ (total) [available],Global CDR [available]
+CN,55 (39),76.1 (7.0),29.04 (1.43) [55],0.93 (1.75) [55],0.39 (1.57) [54],0.07 (0.20) [53]
+MCI,46 (16)*,74.2 (7.6),27.36 (3.96) [45],2.00 (2.12) [46],3.65 (6.71) [46],0.40 (0.36) [46]
+Shapiro–Wilk,,W = 0.987; p = 0.452,W = 0.528; p < 0.001,W = 0.727; p < 0.001,W = 0.438; p < 0.001,W = 0.641; p < 0.001
+t-test,,t = −1.314; p = 0.192,–,–,–,–
+Mann–Whitney U test,,–,"W = 1,668; p = 0.002",W = 791.5; p < 0.001,W = 649.5; p < 0.001,W = 515.5; p < 0.001
+Motion/outliers,,ABS motion (mm),REL. motion (mm),Outliers (%),,
+CN,,0.76 (0.32),0.56 (0.18),0.37 (0.18),,
+MCI,,0.94 (0.66),0.66 (0.32),0.42 (0.27),,
+Shapiro–Wilk,,W = 0.672; p < 0.001,W = 0.799; p < 0.001,W = 0.844; p < 0.001,,
+Mann–Whitney U test,,"W = 1,029; p = 0.108","W = 1,080; p = 0.208","W = 1,167; p = 0.506",,
+Included in the final analysis,Included in the final analysis,Included in the final analysis,Included in the final analysis,Included in the final analysis,Included in the final analysis,Included in the final analysis
+CN,55 (39),76.1 (7.0),29.04 (1.43) [55],0.93 (1.75) [55],0.39 (1.57) [54],0.07 (0.20) [53]
+MCI,45 (15),74.4 (7.6),27.34 (4.00) [44],2.02 (2.14) [45],3.73 (6.77) [45],0.41 (0.36) [45]
+Shapiro–Wilk,,W = 0.986; p = 0.450,W = 0.528; p < 0.001,W = 728; p < 0.001,W = 0.440; p < 0.001,W = 0.643; p < 0.001
+t-test,,t = −1.162; p = 0.248,–,–,–,–
+Mann–Whitney U test,,–,"W = 1,621; p = 0.003",W = 755; p < 0.001,W = 620; p < 0.001,W = 486; p < 0.001
+Motion/Outliers,,ABS motion (mm),REL. motion (mm),Outliers (%),,
+CN,,0.76 (0.32),0.56 (0.18),0.37 (0.18),,
+MCI,,0.86 (0.40),0.66 (0.32),0.42 (0.28),,
+Shapiro–Wilk,,W = 0.881; p < 0.001,W = 0.800; p < 0.001,W = 0.844; p < 0.001,,
+Mann–Whitney U test,,"W = 1,028; p = 0.150","W = 1,054; p = 0.205","W = 1,145; p = 0.524",,
+APO-E,CN (#54),MCI (#44),,,,
+E2E3,6,5,,,,
+E3E3,32,18,,,,
+E3E4,12,18,,,,
+E4E4,4,3,,,,

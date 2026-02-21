@@ -1,0 +1,23 @@
+Unnamed: 0_level_0,Location of changes in FA,Location of changes in FA,Location of changes in FA,Location of changes in FA,Location of changes in FA,Location of changes in FA,Location of changes in MD,Location of changes in MD,Location of changes in MD,Location of changes in MD,Location of changes in MD,Location of changes in MD
+Unnamed: 0_level_1,AD vs NC,AD vs NC,MCI vs NC,MCI vs NC,AD vs MCI,AD vs MCI,AD vs NC,AD vs NC,MCI vs NC,MCI vs NC,AD vs MCI,AD vs MCI
+Unnamed: 0_level_2,Ours,ADNI,Ours,ADNI,Ours,ADNI,Ours,ADNI,Ours,ADNI,Ours,ADNI
+ATR_L,–,–,–,–,–,–,A/M,A,–,–,–,–
+ATR_R,–,–,–,–,–,–,–,A,–,–,–,–
+CST_L,–,–,–,–,–,–,S/M,–,–,–,–,–
+CST_R,–,–,–,–,–,–,S,–,–,–,–,–
+CCing_L,–,–,–,–,–,–,–,–,–,–,–,–
+CCing_R,P/M,–,M,–,–,–,P,M,–,–,–,–
+CHippo_L,–,–,–,–,–,–,P,A,–,–,–,M
+CHippo_R,–,–,–,–,–,–,–,–,–,–,–,–
+CC Splenium,L,–,–,–,–,–,–,R,–,–,–,–
+CC Genu,R,R,–,–,–,–,–,–,–,–,–,–
+IFOF_L,–,–,–,–,–,–,P/M,M,–,–,P,–
+IFOF_R,–,–,–,–,–,–,P/M,M,–,–,–,–
+ILF_L,P,–,–,–,–,,A/M,A/M/P,–,–,–,M/P
+ILF_R,–,–,–,–,M,–,A,M/P,–,–,–,–
+SLF_L,–,–,–,–,–,–,A/P,M/P,–,–,–,–
+SLF_R,–,–,–,–,–,–,–,M/P,–,–,–,–
+UF_L,F,F,–,–,–,F,M/F,F/M/T,–,–,–,M
+UF_R,–,–,–,–,–,F,W,–,–,–,M,–
+AF_L,–,–,–,–,–,–,T/M,M/F,T,–,–,–
+AF_R,–,–,–,–,–,–,–,–,–,–,–,–

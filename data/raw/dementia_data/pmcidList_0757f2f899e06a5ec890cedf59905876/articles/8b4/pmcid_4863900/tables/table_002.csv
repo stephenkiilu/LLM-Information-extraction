@@ -1,0 +1,9 @@
+Unnamed: 0_level_0,Axial diffusivitya,Axial diffusivitya,White matter volume cluster Lb,White matter volume cluster Lb,White matter volume cluster Rb,White matter volume cluster Rb
+Unnamed: 0_level_1,Spearman’s rho,P-value,Spearman’s rho,P-value,Spearman’s rho,P-value
+Age,−0.09,0.573,−0.34,0.021,−0.30,0.041
+Gender,0.27,0.069,0.52,<0.001,0.54,<0.001
+BMI,−0.47,0.001,−0.55,<0.001,−0.43,0.003
+Fasting glucose,−0.45,0.002,−0.31,0.035,−0.24,0.10
+Fasting insulin,−0.44,0.002,−0.40,0.006,−0.30,0.040
+HbA1c,−0.38,0.008,−0.42,0.004,−0.38,0.010
+HDL,0.27,0.07,0.17,0.3,0.15,0.35

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "U n c o r r e c t e d A u t h o r P r o o f",
+    "authors": [
+      "Raquel Fenoll",
+      "Dr Jesus Pujol",
+      "Susanna Esteba-Castillo",
+      "Susana De Sola",
+      "Núria Ribas-Vidal",
+      "Javier García-Alba",
+      "Gonzalo Sánchez-Benavides",
+      "Gerard Martínez-Vilavella",
+      "Joan Deus",
+      "Mara Dierssen",
+      "Ramón Novell-Alsina",
+      "Rafael De La Torre"
+    ],
+    "abstract": "Background: Neural tissue alterations in Down syndrome are fully expressed at relatively late developmental stages. In addition, there is an early presence of neurodegenerative changes in the late life stages. Objective: The aims of this study were both to characterize white matter abnormalities in the brain of adult Down syndrome patients using diffusion tensor imaging (DTI) and to investigate whether degenerative alterations in white matter structure are detectable before dementia is clinically evident. Methods: Forty-five adult non-demented Down syndrome patients showing a wide age range (18-52 years) and a matched 45-subject control group were assessed. DTI fractional anisotropy (FA) brain maps were generated and selected cognitive tests were administered. Results: Compared with healthy controls, non-demented Down syndrome patients showed lower DTI FA in white matter involving the major pathways, but with more severe alterations in the frontal-subcortical circuits. White matter FA decreased with age at a similar rate in both DS and control groups. Conclusions: Our results contribute to characterizing the expression of white matter structural alterations in adult Down syndrome. However, an accelerated aging effect was not demonstrated, which may suggest that the FA measurements used are not sufficiently sensitive or, alternatively, age-related white matter neurodegeneration is not obvious prior to overt clinical dementia.",
+    "publication_date": ""
+  },
+  "content": {
+    "INTRODUCTION": {
+      "text": "Although research in Down syndrome has substantially progressed in the understanding of basic mechanisms via which gene overexpression interferes with brain development, there is less information as to the general organization of the adult brain and the effect of age 1,2. The brain contains billion of neurons that communicate with each other via axons to create complex neural networks.\nThe structural mapping of these networks is essential for understanding brain function 3. However, although new imaging techniques have emerged in recent years, our knowledge of structural connectivity in Down syndrome is still limited.\nDiffusion tensor imaging (DTI) is a noninvasive method that provides information about the microstructural properties of brain tissue by measuring the magnitude and direction of water molecule diffusion 4. In white matter, the diffusion of water molecules is less restricted along the long axis of a group of aligned tissue fibers than perpendicular to it. This condition of directionally-dependent diffusion is referred to as anisotropic. The most commonly used measure for diffusion anisotropy is fractional anisotropy (FA), which serves to characterize white matter tracts by mapping directional diffusion restrictions related mainly to fiber density, axonal diameter and myelination degree 3,4. DTI has been used to characterize both age-related changes and disease 5678. Results from leading studies have shown that age-related changes are associated with FA decreases 5. DTI findings have been validated by postmortem histological studies showing that advanced age is linked to alterations of almost all white matter components. Segments of axons degenerate and swell, myelin becomes less compact and glial cells accumulate cellular debris, form glial scars and increase in number 91011.\nIn Down syndrome, a number of magnetic resonance imaging (MRI) studies have identified a variety of anatomical 121314151617 and functional 18,19 alterations. The frontal lobes 16,20 and related circuits 18,19, as representative of late maturing structures, generally show the most relevant alteration. By contrast, some studies have reported a relative preservation of tissue volume in temporal and parietal regions 16,20,21. Nevertheless, white matter alterations and their functional significance have not been fully characterized using FA measurements. There is one previous study indicating that white matter in adult Down syndrome is abnormal in terms of FA, particularly when dementia is clinically evident 22. optimal-quality volumes.\nAfter the full pre-processing, FA maps were transferred to the SPM8 platform and smoothed with an 8 mm Gaussian Kernel to carry out group statistical analyses.",
+      "subsections": {}
+    },
+    "Statistical analysis": {
+      "text": "Individual FA maps were included in secondlevel (group) SPM analyses using 2-sample t-test between the 45 Down syndrome patients and 45 healthy controls. Voxel-wise analyses in SPM were also performed to map the correlation between age and whole-brain FA measurements in both groups.\nFinally, voxel-wise analyses were performed to map the correlation between individual ratings in the selected cognitive tests and FA measurements in the Down syndrome group.\nResults were considered significant with clusters of 1.032 ml (1,032 voxels) at a height threshold of p  0.005, which satisfied the family-wise error (FWE) rate correction of P FWE  0.05 according to Monte Carlo simulations 33.",
+      "subsections": {}
+    },
+    "Fractional anisotropy differences between Down syndrome and control subjects": {
+      "text": "Down syndrome patients showed a widespread white matter FA reduction compared with healthy 2). Therefore, the major brain pathways were affected, although the alterations were more severe in the frontal-subcortical circuits (Fig. 1). For example, 21 out of 25 sub-clusters",
+      "subsections": {}
+    },
+    "U n c o r r e c t e d A u t h o r P r o o f": {
+      "text": "Fig. 3. Age-related effect on fractional anisotropy (FA). FA decreased as a function of age in both control subjects and Down syndrome patients. No significant between-group differences were identified. no significant between-group differences relating to 314 the strength of the correlations (i.e., no significant 315 correlation interaction), which is illustrated in Fig. 4.",
+      "subsections": {}
+    }
+  }
+}

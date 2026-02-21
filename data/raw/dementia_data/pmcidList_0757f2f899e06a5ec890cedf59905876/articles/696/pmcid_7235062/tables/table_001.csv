@@ -1,0 +1,30 @@
+Variable,Spearman correlation coefficient,p value
+Baseline variables,Baseline variables,Baseline variables
+Age,− 0.096,0.47
+NIHSS,0.060,0.65
+Time stroke symptom onset to MRI at baseline,− 0.074,0.58
+Time stroke symptom onset to MRI at follow-up 1 (BBB measurements),− 0.083,0.53
+Time stroke symptom onset to MRI at follow-up 2 (rating of tissue outcome),− 0.203,0.12
+RSSI maximal diameter,− 0.142,0.28
+RSSI volume,− 0.140,0.29
+WMH periventricular,− 0.092,0.49
+WMH deep,− 0.178,0.18
+WMH sum score,− 0.137,0.30
+Deep atrophy score,− 0.210,0.11
+Superficial atrophy score,− 0.138,0.31
+Number of microbleeds,− 0.186,0.16
+Number of old lacunes,0.118,0.37
+DTI parameters at baseline,DTI parameters at baseline,DTI parameters at baseline
+Median FA of normal-appearing white matter,− 0.001,1
+Median MD of normal-appearing white matter,0.012,0.93
+Median FA of RSSI (corrected for contralateral control region),− 0.084,0.52
+Median MD of RSSI (corrected for contralateral control region),− 0.371,0.004
+BBB measures at 1–3-month post-stroke*,BBB measures at 1–3-month post-stroke*,BBB measures at 1–3-month post-stroke*
+Normalized AUC CSF,0.347,0.007
+Normalized AUC gray matter,0.218,0.10
+Normalized AUC white matter,0.080,0.55
+Normalized AUC white matter lesions,0.109,0.41
+Normalized AUC RSSI,− 0.014,0.92
+Clinical outcome at 1 year,Clinical outcome at 1 year,Clinical outcome at 1 year
+Modified Rankin scale,0.149,0.26
+ACE-R [???] #,− 0.067,0.67

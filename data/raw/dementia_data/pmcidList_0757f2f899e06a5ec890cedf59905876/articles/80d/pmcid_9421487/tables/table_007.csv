@@ -1,0 +1,7 @@
+Unnamed: 0_level_0,SCANS,SCANS,SCANS,RUN DMC,RUN DMC,RUN DMC,HARMONISATION,HARMONISATION,HARMONISATION,CADASIL,CADASIL,CADASIL
+Duration of RCT,3 years(3 follow-up measurements),3 years(3 follow-up measurements),3 years(3 follow-up measurements),4 years(1 follow-up measurement),4 years(1 follow-up measurement),4 years(1 follow-up measurement),2 years(1 follow-up measurement),2 years(1 follow-up measurement),2 years(1 follow-up measurement),1.5 years(1 follow-upmeasurement),1.5 years(1 follow-upmeasurement),1.5 years(1 follow-upmeasurement)
+Treatment effect,10 %,20 %,30 %,10 %,20 %,30 %,10 %,20 %,30 %,10 %,20 %,30 %
+MD Median,1201,301,134,"20,527",4650,1878,3795,860,348,732,166,67
+PSMD,1073,269,120,1423,323,131,3101,703,284,1276,289,117
+DSEG θ,417,105,47,1292,293,119,2200,499,202,656,149,60
+Geff,2333,583,259,"71,164","16,120",6510,8383,1899,767,"19,068",4320,1745

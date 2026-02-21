@@ -1,0 +1,7 @@
+Unnamed: 0_level_0,Brain Regions,Cluster- size,Coordinates (MNI),Coordinates (MNI),Coordinates (MNI),t-score,p-value corrected/ uncorrected
+Unnamed: 0_level_1,Unnamed: 1_level_1,Unnamed: 2_level_1,x,y,z,Unnamed: 6_level_1,Unnamed: 7_level_1
+CN>AD,OFC/ ACC/ POC/ NAcc putamen/ caudate/ insula,591,-24,39,-21,4.0,0.000/0.000
+MCI>CN,SMC (postcentral/ precentral gyrus),116,-48,3,54,3.54,0.069/0.001
+MCI>AD,OFC/ putamen/ caudate/ insula,109,-33,39,-9,3.75,0.091/0.001
+,OcG (middle/ inferior occipital gyrus),99,-45,-78,12,3.9,0.137/0.002
+,SMC (postcentral/ precentral gyrus),218,-60,-18,39,3.58,0.002/0.000

@@ -1,0 +1,9 @@
+GRS,β,SE,CI lower,CI upper,P‐value
+IQ,,,,,
+Immune response,−.259,0.123,−.500,−.017,0.036
+Endocytosis,−.015,0.116,−.243,.212,0.895
+Cholesterol/lipid metabolism,.030,0.031,−.031,.092,0.335
+FA,,,,,
+Immune response,−.373,0.177,−.721,−.026,0.035
+Endocytosis,.122,0.167,−.205,.449,0.465
+Cholesterol/lipid metabolism,−.077,0.046,−.167,.013,0.094

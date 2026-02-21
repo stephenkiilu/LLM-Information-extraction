@@ -1,0 +1,12 @@
+Unnamed: 0_level_0,Fornix,Fornix,Fornix,Fornix,Hippocampus,Hippocampus,Hippocampus,Hippocampus
+Unnamed: 0_level_1,FA,FA,MD,MD,MD,MD,Vol,Vol
+Unnamed: 0_level_2,β (SE),p,β (SE),p,β (SE),p,β (SE),p
+Fixed effects,,,,,,,,
+Intercept,40.4 (24.1),0.108,56.0 (29.5),0.071,54.9 (43.0),0.216,75.1 (33.0),0.034
+Baseline (pre),54.3 (101.7),0.599,−1* (14.7),0.960,0.2* (38.5),0.995,−0.01 (0.01),0.547
+Change (post-pre),792.4 (345.8),0.033,−23.7* (67.3),0.728,23.3* (57.2),0.688,0.01 (0.02),0.758
+Random effects,,,,,,,,
+Variance between subjects (Intercept),138.5 (52.3),0.008,179.5 (64.8),0.006,179.5 (64.7),0.006,177.0 (64.0),0.006
+Residual variance,142.5 (20.7),<0.001,142.5 (20.7),<0.001,142.4 (20.7),<0.001,142.5 (20.7),<0.001
+Marginal R2,0.41,,0.33,,0.33,,0.34,
+Conditional R2,0.70,,0.70,,0.70,,0.70,

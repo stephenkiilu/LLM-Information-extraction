@@ -1,0 +1,12 @@
+CST,Corticospinal tract,SLF,Superior longitudinal fasciculus
+CP,Cerebral peduncle,SFO,Superior fronto-occipital fasciculus
+ALIC,Anterior limb of internal capsule,IFO,Inferior fronto-occipital fasciculus
+PLIC,Posterior limb of internal capsule,SS,Sagittal stratum
+RLIC,Retrolenticular part of internal capsule,EC,External capsule
+PTR,Posterior thalamic radiation,UNC,Uncinate fasciculus
+ACR,Anterior corona radiata,GCC,Genu of corpus callosum
+SCR,Superior corona radiata,BCC,Body of corpus callosum
+PCR,Posterior corona radiata,SCC,Splenium of corpus callosum
+CGC,Cingulum (cingulate gyrus),CC,Full corpus callosum
+CGH,Cingulum (hippocampal bundle),TAP,Tapetum
+Fx/ST,Fornix (crus)/stria terminalis,Full WM,Full white matter

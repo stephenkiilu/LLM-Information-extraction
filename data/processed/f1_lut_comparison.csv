@@ -1,0 +1,25 @@
+field,f1,model
+Does it use DTI?,0.0,GPT-4 No LUT
+Human_vs_non_human_study,0.0,GPT-4 No LUT
+Does it study dementia or related diseases?,0.0,GPT-4 No LUT
+Review or single study?,0.0,GPT-4 No LUT
+Which diseases are studied,0.0,GPT-4 No LUT
+WM tracts studied,0.485,GPT-4 No LUT
+Does it use DTI?,0.921,GPT-4 With LUT
+Human_vs_non_human_study,0.954,GPT-4 With LUT
+Does it study dementia or related diseases?,0.751,GPT-4 With LUT
+Review or single study?,0.961,GPT-4 With LUT
+Which diseases are studied,0.545,GPT-4 With LUT
+WM tracts studied,0.333,GPT-4 With LUT
+Does it use DTI?,0.0,GPT-5 No LUT
+Human_vs_non_human_study,0.0,GPT-5 No LUT
+Does it study dementia or related diseases?,0.0,GPT-5 No LUT
+Review or single study?,0.0,GPT-5 No LUT
+Which diseases are studied,0.0,GPT-5 No LUT
+WM tracts studied,0.467,GPT-5 No LUT
+Does it use DTI?,0.986,GPT-5 With LUT
+Human_vs_non_human_study,0.994,GPT-5 With LUT
+Does it study dementia or related diseases?,0.84,GPT-5 With LUT
+Review or single study?,0.979,GPT-5 With LUT
+Which diseases are studied,0.57,GPT-5 With LUT
+WM tracts studied,0.682,GPT-5 With LUT

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "White Matter Microstructure Analysis in Subjective Memory Complaints and Cognitive Impairment: Insights from Diffusion Kurtosis Imaging and Free-Water DTI",
+    "authors": [
+      "Maurizio Bergamino",
+      "Elizabeth Keeling",
+      "Molly Mcelvogue",
+      "Sydney Y Schaefer",
+      "Anna Burke",
+      "George Prigatano",
+      "Ashley M Stokes"
+    ],
+    "abstract": "Background: Dementia is characterized by a cognitive decline in memory and other domains that lead to functional impairments. As people age, subjective memory complaints (SMC) become common, where individuals perceive cognitive decline without objective deficits on assessments. SMC can be an early sign and may precede amnestic mild cognitive impairment (MCI), which frequently advances to Alzheimers disease (AD). Objective: This study aims to investigate white matter microstructure in individuals with SMC, in cognitively impaired (CI) cohorts, and in cognitively normal individuals using diffusion kurtosis imaging (DKI) and free water imaging (FWI). The study also explores voxel-based correlations between DKIFWI metrics and cognitive scores to understand the relationship between brain microstructure and cognitive function. Methods: Twelve healthy controls (HCs), ten individuals with SMC, and eleven CI individuals (MCI or AD) were enrolled in this study. All participants underwent MRI 3T scan and the BNI Screen (BNIS) for Higher Cerebral Functions. Results: The mean kurtosis tensor and anisotropy of the kurtosis tensor showed significant differences across the three groups, indicating altered white matter microstructure in CI and SMC individuals. The free water volume fraction (f) also revealed group differences, suggesting changes in extracellular water content. Notably, these metrics effectively discriminated between the CI and HCSMC groups. Additionally, correlations between imaging metrics and BNIS scores were found for CI and SMC groups. Conclusions: These imaging metrics hold promise in discriminating between individuals with CI and SMC. The observed differences indicate their potential as sensitive and specific biomarkers for early detection and differentiation of cognitive decline.",
+    "publication_date": ""
+  },
+  "content": {
+    "MedGen": {
+      "text": "LinkOut -more resources",
+      "subsections": {}
+    }
+  }
+}

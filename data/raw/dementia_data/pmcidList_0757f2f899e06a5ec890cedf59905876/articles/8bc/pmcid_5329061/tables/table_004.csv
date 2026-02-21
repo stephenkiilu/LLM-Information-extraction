@@ -1,0 +1,8 @@
+Unnamed: 0_level_0,Classification task,Classification task,Classification task,Classification task,Classification task,Classification task
+Unnamed: 0_level_1,AD-CT,AD-CT,AD-MCI,AD-MCI,MCI-CT,MCI-CT
+Unnamed: 0_level_2,AD-CT Key Biomarker,t-statistic,AD-MCI Key Biomarkers,t-statistic,MCI-CT Key Biomarkers,t-statistic
+Null Hypothesis: There is no difference between the average of the key DTI biomarker in both samples.,Primary somatosensory cortex -betweeness centrality,−2.41???,Primary somatosensory cortex -katz centrality,−1.59,Premotor cortex-HITS centrality,−3.6???
+,Primary somatosensory cortex-eigenvector centrality,−2.37???,Somatosensory association cortex-degree centrality,−1.54,premotor cortex -page rank,−3.44???
+,Primary auditory cortex-load centrality,−2.36???,Somatosensory association cortex-closeness centrality,−1.51,Premotor cortex -betweenness centrality,−2.55???
+,Primary somatosensory cortex -load centrality,2.26???,Primary motor cortex-node redundancy,−1.49,Premotor cortex -load centrality,−2.54???
+,Primary somatosensory cortex -closeness centrality,−2.22???,Primary motor cortex-load centrality,1.42,Primary somatosensory cortex-HITS centrality,−2.32???

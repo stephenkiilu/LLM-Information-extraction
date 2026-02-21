@@ -1,0 +1,29 @@
+Characteristic,bvFTD; n = 27 (M20:F7),bvFTD; n = 27 (M20:F7),AD; n = 25 (M17:F8),AD; n = 25 (M17:F8),Controls; n = 20 (M13:F7),Controls; n = 20 (M13:F7),Group comparisons: P value,Group comparisons: P value,Group comparisons: P value
+Characteristic,Mean,SD,Mean,SD,Mean,SD,"bvFTD, v control","bvFTD, v, AD","AD, v, control"
+Clinical,Clinical,Clinical,Clinical,Clinical,Clinical,Clinical,Clinical,Clinical,Clinical
+Age all subjects (years),62.5,9.0,63.1,5.2,64.5,4.5,ns,ns,ns
+Sporadic,64.9,8.6,,,,,,,
+MAPT,58.2,9.0,,,,,,,
+C9ORF72,64.1,8.7,,,,,,,
+MMSE (/30),24.2,5.9,20.0,5.1,29.6,0.6,<0.001,<0.01,<0.001
+Duration all subjects (years),6.5,4.9,5.7,3.4,—,—,—,ns,—
+Sporadic,6.0,4.4,,,,,,,
+MAPT,6.0,5.4,,,,,,,
+C9ORF72,9.4,5.9,,,,,,,
+"CSF (bvFTD n = 13, AD n = 11)",,,,,,,,,
+Total Tau (pg/mL),287,141,833,229,,,,,
+Abeta1‐42 (pg/mL),676,281,240,73,,,,,
+Neuropsychological???,Neuropsychological???,Neuropsychological???,Neuropsychological???,Neuropsychological???,Neuropsychological???,Neuropsychological???,Neuropsychological???,Neuropsychological???,Neuropsychological???
+VIQ,81.2,23.4,90.6,19.4,123.3,9.6,<0.001,ns,<0.001
+PIQ,88.6,19.1,83.3,18.7,118.1,10.9,<0.001,ns,<0.001
+Recognition memory: words (/50),33.3,10.1,29.4,7.8,48.1,2.3,<0.001,0.08,<0.001
+Recognition memory : faces (/50),32.8,6.8,33.7,6.3,41.9,4.7,<0.001,ns,<0.001
+Digit span: forward (/12),7.1,2.2,6.3,2.2,9.1,1.4,0.002,ns,<0.001
+Digit span: reverse (/12),5.5,2.7,4.3,3.0,6.8,1.8,ns,0.09,0.002
+BPVS (/150),116.5,38.0,132.5,24.3,147.9,1.5,<0.001,0.02,<0.001
+Graded naming test (/30),10.8,9.1,13.9,8.4,26.0,2.1,<0.001,ns,<0.001
+Graded arithmetic test (/24),12.1,6.9,5.3,4.0,14.1,5.4,0.4,<0.001,<0.001
+VOSP (/20),15.7,3.2,15.0,3.3,18.8,1.1,<0.001,ns,<0.001
+DKEFS: color naming (max 90 secs),45.6,22.9,55.0,18.7,31.2,4.7,0.03,0.03,<0.001
+DKEFS: word naming (max 90 secs),35.1,23.6,36.6,15.3,21.5,3.4,0.02,0.1,<0.001
+DKEFS: ink naming (max 180 secs),100.4,48.4,141.0,44.0,56.8,11.5,<0.001,0.003,<0.001

@@ -1,0 +1,29 @@
+White matter tract,Tractography threshold,"Patient 1, FA-value","Patient 1, z-score","Patient 2, FA-value","Patient 2, z-score","Patient 3, FA-value","Patient 3, z-score"
+Corpus callosum genu,0.50/27,0.583,−2.0,0.599,−0.7,0.598,−0.8
+Corpus callosum body,0.50/27,0.589,−2.0,0.6,−1.3,0.603,−1.0
+Corpus callosum splenium,0.50/27,0.626,−1.2,0.632,−1.0,0.636,−0.5
+"Superior cingulum, right",0.15/27,0.397,−1.4,0.433,0.7,0.419,−0.1
+"Superior cingulum, left",0.15/27,0.411,−0.9,0.428,0.1,0.437,0.4
+"Inferior cingulum, right",0.15/27,0.358,−1.0,0.419,1.4,0.387,−0.1
+"Inferior cingulum, left",0.15/27,0.371,−0.8,0.402,0.5,0.371,−0.8
+"Subgenual cingulum, right",0.15/27,0.309,−2.3,0.359,−0.3,0.372,0.2
+"Subgenual cingulum, left",0.15/27,0.32,−2.1,0.377,0.3,0.381,0.4
+"Uncinate fasciculus, right",0.15/27,0.349,−2.3,0.376,−0.7,0.361,−1.6
+"Uncinate fasciculus, left",0.15/27,0.375,−1.7,0.371,−2.2,0.377,−1.8
+"Superior longitudinal fasciculus, right",0.15/27,0.384,−1.0,0.387,−0.9,0.388,−0.8
+"Superior longitudinal fasciculus, left",0.15/27,0.4,−1.4,0.415,−0.3,0.429,0.7
+"Inferior longitudinal fasciculus, right",0.15/27,0.455,0.7,0.45,0.3,0.438,−0.4
+"Inferior longitudinal fasciculus, left",0.15/27,0.436,−0.4,0.432,−0.9,0.453,0.4
+"Arcuate fasciculus, left",0.15/27,0.442,−0.9,0.472,0.5,0.448,−0.8
+"Inferior fronto–occipital fasciculus, right",0.15/27,0.463,0.3,0.466,0.3,0.456,−0.3
+"Inferior fronto–occipital fasciculus, left",0.15/27,0.451,−1.0,0.469,0.1,0.479,0.7
+"Anterior corona radiata, right",0.15/27,0.406,−1.6,0.423,−0.5,0.44,0.6
+"Anterior corona radiata, left",0.15/27,0.436,−0.6,0.45,0.8,0.443,0.1
+"Prefrontal projection fibers???, right",0.15/27,0.336,−0.3,0.349,0.5,0.343,0.0
+"Prefrontal projection fibers???, left",0.15/27,0.34,−0.5,0.346,−0.1,0.353,0.4
+"Mesencephalic projections, right",0.30/27,0.521,−0.2,0.525,0.4,0.515,−0.7
+"Mesencephalic projections, left",0.30/27,0.517,−0.8,0.529,0.1,0.516,−0.8
+"Fornix, right",0.15/40,0.385,1.6,0.386,1.7,0.399,2.3
+"Fornix, left",0.15/40,0.359,−0.1,0.322,−1.7,0.361,0.1
+"Descending fornix, right",0.15/40,0.407,2.4,0.323,−1.4,0.363,0.4
+"Descending fornix, left",0.15/40,0.388,1.0,0.363,0.0,0.38,0.7

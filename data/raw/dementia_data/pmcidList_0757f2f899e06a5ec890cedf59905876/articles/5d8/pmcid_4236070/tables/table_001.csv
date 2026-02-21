@@ -1,0 +1,44 @@
+Region,Coordinates,Coordinates,Coordinates,PSP<HC,PSP<PD,MSA<PD
+Unnamed: 0_level_1,X,Y,Z,P-value,P-value,P-value
+Corpus callosum,,,,,,
+Genu,4,27,0,0.0008,0.0002,
+Body,1,−21,23,0.0006,0.0002,0.0106
+Splenium,−18,−47,27,0.0008,0.0002,
+Corona Radiata,,,,,,
+Left anterior,−17,22,29,0.0011,0.0004,0.0166
+Right anterior,18,16,29,0.0006,0.0002,0.0124
+Left superior,−18,11,33,0.0008,0.0004,
+Right superior,19,12,33,0.0006,0.0002,
+Left posterior,−19,−33,33,0.0008,0.0023,
+Right posterior,29,−57,20,,0.0072,
+Corticospinal,,,,,,
+Right,20,−31,50,0.0008,0.0006,0.0032
+Left,−6,−55,−20,0.0008,0.0092,0.0032
+Longitudinal fasciculus,,,,,,
+Left superior,−36,−31,34,0.0155,,
+Right superior,39,−6,30,0.0004,0.0006,
+Thalamic radiation,,,,,,
+Right anterior,6,−13,14,,0.0036,
+Left anterior,−4,−14,14,,0.0036,0.0096
+Cerebellar peduncle,,,,,,
+Left superior,−7,−45,−29,,0.0038,
+Right superior,7,47,−32,,0.0038,
+Middle,14,−35,−30,,,0.0021
+Left inferior,−11,−46,−30,,,0.0021
+Right inferior,13,−46,−30,,,0.0021
+Pontine crossing tract,2,−31,−30,,,0.0017
+Lemniscus,,,,,,
+Left medial,−6,−38,−30,,,0.0025
+Right medial,6,−37,−30,,,0.0025
+External Capsule,,,,,,
+Left,−28,14,0,,0.0062,
+Right,31,12,0,,0.0072,
+Internal Capsule,,,,,,
+Left retrolenticular,−29,−21,0,,0.0104,
+Right retrolenticular,38,−28,0,,0.0068,
+Left posterior limb,−20,−14,0,,0.0072,0.0077
+Right posterior limb,19,−10,0,,,0.0196
+Left anterior limb,−10,5,0,,0.0072,0.0098
+Right anterior limb,10,5,0,,0.0134,
+Thalamic Radiation,,,,,,
+Right posterior,30,−60,0,,0.0068,

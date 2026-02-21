@@ -1,0 +1,13 @@
+Age,Sex,Education level,Classification,Mechanism of injury,PTA (days),Medication,Time since injury (months),Focal lesions,Microbleeds
+53,M,University graduate,TBI-MDD,RTA,14,Citalopram 20 mg OD,268,Yes-Frontal,No
+43,F,University graduate,TBI-MDD,RTA,3,Nil,47,No,Yes: frontal & parietal
+22,M,School graduate,TBI-MDD,RTA,6,Nil,25,Yes-Frontal,No
+49,F,University graduate,TBI-MDD,Fall,2,Sertraline 50 mg OD,17,Yes-Temporal,No
+39,M,University graduate,TBI-MDD,NK,14,Ramipril 2.5 mg OD,23,No,No
+32,M,University graduate,TBI-MDD,Fall,1,Nil,41,No,Yes-Temporal
+40,M,University graduate,TBI-NON,RTA,42,Nil,125,No,No
+32,M,University graduate,TBI-NON,RTA,90,Nil,55,No,Yes-Frontal
+40,F,University graduate,TBI-NON,Fall,3,Nil,52,No,No
+25,M,University graduate,TBI-NON,RTA,14,Nil,15,Yes-Temporal,Yes-lentiform nucleus (subcortical)
+23,F,University Graduate,TBI-NON,Fall,2,Nil,28,Yes-Frontal,No
+48,M,School Graduate,TBI-NON,RTA,60,Nil,372,Yes-Temporal,Yes-Temporal

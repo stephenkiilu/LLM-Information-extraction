@@ -1,0 +1,10 @@
+Protocols,Protocols,Protocols,Demographics,Demographics,Clinical assessments,Clinical assessments,Clinical assessments,Clinical assessments,Clinical assessments,Clinical assessments
+Unnamed: 0_level_1,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1,Unnamed: 4_level_1,Diagnosis,Diagnosis,Diagnosis,Cognitive measures+,Cognitive measures+,Cognitive measures+
+Name,Total N,Sites,Age (years),Male,CN,MCI,AD,MMSE*,CDR-sob*,ADAS-cog*
+GE54,65,8,76.7 ± 7.3,32 (49.2%),45,16,4,28.50 ± 3.26,0.78 ± 1.81,11.75 ± 6.81
+P33,24,3,78.1 ± 7.1,13 (54.2%),17,4,3,28.75 ± 2.03,1.31 ± 2.84,13.32 ± 6.76
+P36,19,4,75.3 ± 6.6,7 (36.8%),12,7,0,28.21 ± 2.39,0.76 ± 1.35,12.63 ± 5.12
+S31,36,9,72.8 ± 8.6,15 (41.7%),21,10,5,28.31 ± 2.77,0.79 ± 1.35,11.54 ± 5.25
+S55,153,18,75.0 ± 8.4,66 (43.1%),100,43,10,27.94 ± 3.28,0.95 ± 2.05,11.96 ± 5.65
+S127,20,5,75.3 ± 5.4,10 (50.0%),16,4,0,28.80 ± 1.70,0.33 ± 0.75,10.27 ± 2.83
+TOTAL,317,47,75.4 ± 7.9,143 (45.1%),211,84,22,28.23 ± 3.01,0.87 ± 1.91,11.89 ± 5.78

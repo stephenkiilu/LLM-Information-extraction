@@ -1,0 +1,5 @@
+features,Volumes,Shape Pattern,Mean FA values,FA map
+accuracy rate,65.6%,81.3%,62.5%,71.9%
+specificity,78.9%,89.5%,68.4%,78.9%
+sensitivity,46.2%,69.2%,53.8%,61.5%
+F-score,0.732,0.850,0.684,0.769

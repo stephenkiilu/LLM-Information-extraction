@@ -1,0 +1,26 @@
+Neuroimaging,Region*,MNI coordinates (mm),MNI coordinates (mm),MNI coordinates (mm),Brodmann area,Z score,The number of voxels within cluster,Uncorrected P value
+Neuroimaging,Region*,x,y,z,Brodmann area,Z score,The number of voxels within cluster,Uncorrected P value
+FDG-PET,,,,,,,,
+Left,Middle frontal gyrus,-24.0,24.0,36.0,8.0,3.51,267.0,<0.001
+Right,Superior frontal gyrus,22.0,-12.0,76.0,6.0,3.45,143.0,<0.001
+Left,Uncus,-20.0,6.0,-30.0,28.0,3.44,662.0,<0.001
+Left,Medial frontal gyrus,-6.0,68.0,-2.0,10.0,3.33,117.0,<0.001
+Right,Inferior parietal lobule,66.0,-36.0,40.0,40.0,3.31,157.0,<0.001
+Left,Paracentral lobule,-14.0,-30.0,52.0,6.0,3.28,178.0,<0.001
+Left,Superior frontal gyrus,-12.0,-20.0,80.0,6.0,3.25,184.0,<0.001
+Left,Lingual gyrus,-8.0,-88.0,-24.0,18.0,3.21,113.0,<0.001
+Left,Inferior frontal gyrus,-56.0,6.0,34.0,9.0,3.18,270.0,<0.001
+Right,Precuneus,14.0,-68.0,44.0,7.0,3.11,145.0,<0.001
+Right,Inferior parietal lobule,34.0,-48.0,56.0,40.0,3.01,96.0,0.001
+Right,Uncus,20.0,6.0,-24.0,34.0,3.01,85.0,0.001
+Right,Sub-gyral,18.0,-32.0,58.0,4.0,2.89,54.0,0.002
+Right,Cingulate gyrus,6.0,-36.0,42.0,31.0,2.83,63.0,0.002
+MRI,,,,,,,,
+Right,Subcallosal gyrus,16.5,9.0,-15.0,34.0,3.44,821.0,<0.001
+Right,Cuneus,24.0,-90.0,19.5,18.0,3.13,70.0,<0.001
+Left,Middle frontal gyrus,-27.0,-90.0,19.5,8.0,3.12,316.0,<0.001
+Right,Precuneus,12.0,-61.5,40.5,7.0,3.06,66.0,0.001
+Left,Precentral gyrus,-57.0,-12.0,43.5,6.0,3.04,96.0,0.001
+Right,Inferior frontal gyrus,45.0,30.0,-7.5,47.0,3.01,56.0,0.001
+Right,Medial frontal gyrus,12.0,-4.5,64.5,6.0,2.93,106.0,0.002
+Right,Middle temporal gyrus,66.0,-7.5,-6.0,21.0,2.89,78.0,0.002

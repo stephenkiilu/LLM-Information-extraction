@@ -1,0 +1,10 @@
+Fit Algorithm,Tool,Web Page,Command,Option
+LLS,FSL,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki,dtifit,default
+LLS,DSI Studio,http://dsi-studio.labsolver.org/,dsi_studio,default
+LLS,CAMINO,http://camino.cs.ucl.ac.uk/index.php,modelfit,-inversion 1 (ldt)
+LLS,AFNI,https://afni.nimh.nih.gov/,3dDWItoDT,-linear
+WLLS,FSL,https://fsl.fmrib.ox.ac.uk/fsl/fslwiki,dtifit,--wls
+WLLS,CAMINO,http://camino.cs.ucl.ac.uk/index.php,modelfit,-inversion 7 (ldt_wtd)
+NLLS,CAMINO,http://camino.cs.ucl.ac.uk/index.php,modelfit,-inversion 4 (nldt_pos nldt)
+NLLS,AFNI,https://afni.nimh.nih.gov/,3dDWItoDT,-nonlinear
+RESTORE,CAMINO,http://camino.cs.ucl.ac.uk/index.php,restore,default

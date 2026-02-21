@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "Prediction of dementia using diffusion tensor MRI measures: the OPTIMAL collaboration",
+    "authors": [
+      "Marco Egle",
+      "Saima Hilal",
+      "A M Tuladhar",
+      "Lukas Pirpamer",
+      "Edith Hofer",
+      "Marco Duering",
+      "James Wason",
+      "Robin G Morris",
+      "Martin Dichgans",
+      "Reinhold Schmidt",
+      "Daniel Tozer",
+      "Christopher Chen",
+      "Frank-Erik De Leeuw",
+      "Hugh S Markus",
+      "J Neurol",
+      "Neurosurg Psychiatry"
+    ],
+    "abstract": "",
+    "publication_date": "2021 Sep 11."
+  },
+  "content": {
+    "Abstract": {
+      "text": "Objectives: It has been suggested that diffusion tensor imaging (DTI) measures sensitive to white matter (WM) damage may predict future dementia risk not only in cerebral small vessel disease (SVD), but also in mild cognitive impairment. To determine whether DTI measures were associated with cognition cross-sectionally and predicted future dementia risk across the full range of SVD severity, we established the International OPtimising mulTImodal MRI markers for use as surrogate markers in trials of Vascular Cognitive Impairment due to cerebrAl small vesseL disease collaboration which included six cohorts. Methods: Among the six cohorts, prospective data with dementia incidences were available for three cohorts. The associations between six different DTI measures and cognition or dementia conversion were tested. The additional contribution to prediction of other MRI markers of SVD was also determined. Results: The DTI measure mean diffusivity (MD) median correlated with cognition in all cohorts, demonstrating the contribution of WM damage to cognition. Adding MD median significantly improved the model fit compared to the clinical risk model alone and further increased in all singlecentre SVD cohorts when adding conventional MRI measures. Baseline MD median predicted dementia conversion. In a study with severe SVD (SCANS) change in MD median also predicted dementia conversion. The area under the curve was best when employing a multimodal MRI model using both DTI measures and other MRI measures. Conclusions: Our results support a central role for WM alterations in dementia pathogenesis in all cohorts. DTI measures such as MD median may be a useful clinical risk predictor. The contribution of other MRI markers varied according to disease severity. Keywords: MRI; alzheimers disease; cerebrovascular disease; dementia; vascular dementia.",
+      "subsections": {}
+    },
+    "Comment in": {
+      "text": "Towards multicentre diffusion MRI studies in cerebral small vessel disease.",
+      "subsections": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Unnamed: 0_level_0,p-value from MANCOVA???,p-value from MANCOVA???,p-value from MANCOVA???,Controlling for apoE???,Controlling for apoE???,Controlling for apoE???
+Unnamed: 0_level_1,PIB effect,WMH effect,PIB X WMH,PIB effect,WMH effect,PIB X WMH
+Projection Fibers,,,,,,
+Corona radiata,0.45,<0.001,0.33,0.42,<0.001,0.34
+Internal capsule,0.79,<0.001,0.049,0.72,<0.001,0.06
+Limbic Fibers,,,,,,
+Cingulum,0.96,0.45,0.86,0.9,0.46,0.88
+Parahippocampal WM,0.62,0.77,0.05,0.66,0.77,0.06
+Fornix,0.03,0.90,0.3,0.02,0.93,0.26
+Association Fibers,,,,,,
+Superior longitudinal fasciculus,0.57,0.001,0.66,0.73,0.001,0.62
+Superior fronto-occipital fasciculus,0.78,0.007,0.14,0.92,0.008,0.15
+Inferior fronto-occipital fasciculus,0.66,0.007,0.3,0.81,0.007,0.33
+Corpus Callosum,,,,,,
+Genu,0.39,0.62,0.57,0.31,0.61,0.54
+Body,0.28,0.01,0.64,0.2,0.01,0.59
+Splenium,0.049,0.16,0.36,0.03,0.15,0.4

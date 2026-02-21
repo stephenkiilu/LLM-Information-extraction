@@ -1,0 +1,32 @@
+ROI,Unnamed: 1_level_0,Unnamed: 2_level_0,Subjects,Subjects,Subjects,p value,p value,p value
+ROI,Unnamed: 1_level_1,Unnamed: 2_level_1,AD,MCI,CN,AD–MCI,AD–CN,MCI–CN
+"Superior temporal gyrus, ROI 6, x ±58, y −32, z +14",Rt,gm,0.238±0.015,0.225±0.014,0.233±0.034,0.02207,0.65877,0.35914
+"Superior temporal gyrus, ROI 6, x ±58, y −32, z +14",Rt,neg,0.293±0.022,0.269±0.014,0.280±0.036,0.00077,0.24791,0.23248
+"Superior temporal gyrus, ROI 6, x ±58, y −32, z +14",Rt,pos,0.292±0.027,0.269±0.016,0.276±0.046,0.00467,0.25159,0.54348
+"Superior temporal gyrus, ROI 6, x ±58, y −32, z +14",Lt,gm,0.227±0.016,0.204±0.014,0.213±0.016,0.00014,0.02329,0.10851
+"Superior temporal gyrus, ROI 6, x ±58, y −32, z +14",Lt,neg,0.282±0.026,0.250±0.017,0.266±0.021,0.00024,0.07557,0.0231
+"Superior temporal gyrus, ROI 6, x ±58, y −32, z +14",Lt,pos,0.296±0.027,0.255±0.020,0.267±0.023,2e-05,0.00341,0.12132
+"Superior temporal gyrus, ROI 7, x ±64, y −16, z −6",Rt,gm,0.212±0.023,0.190±0.013,0.194±0.012,0.00105,0.00807,0.32091
+"Superior temporal gyrus, ROI 7, x ±64, y −16, z −6",Rt,neg,0.264±0.028,0.237±0.014,0.246±0.020,0.00137,0.0448,0.18303
+"Superior temporal gyrus, ROI 7, x ±64, y −16, z −6",Rt,pos,0.271±0.036,0.236±0.015,0.244±0.018,0.00062,0.01191,0.14461
+"Superior temporal gyrus, ROI 7, x ±64, y −16, z −6",Lt,gm,0.120±0.017,0.190±0.016,0.181±0.019,0.10116,0.00693,0.13342
+"Superior temporal gyrus, ROI 7, x ±64, y −16, z −6",Lt,neg,0.251±0.015,0.240±0.021,0.233±0.029,0.12077,0.04121,0.40239
+"Superior temporal gyrus, ROI 7, x ±64, y −16, z −6",Lt,pos,0.265±0.036,0.238±0.015,0.229±0.021,0.00667,0.00202,0.18436
+"Superior temporal gyrus, ROI 8, x ±58, y −26, z −4",Rt,gm,0.231±0.023,0.210±0.016,0.217±0.234,0.00477,0.11993,0.29256
+"Superior temporal gyrus, ROI 8, x ±58, y −26, z −4",Rt,neg,0.276±0.026,0.254±0.021,0.265±0.030,0.01128,0.31982,0.1919
+"Superior temporal gyrus, ROI 8, x ±58, y −26, z −4",Rt,pos,0.284±0.032,0.249±0.013,0.262±0.028,0.00018,0.05107,0.08649
+"Superior temporal gyrus, ROI 8, x ±58, y −26, z −4",Lt,gm,0.223±0.026,0.218±0.020,0.220±0.020,0.55759,0.67971,0.85453
+"Superior temporal gyrus, ROI 8, x ±58, y −26, z −4",Lt,neg,0.270±0.020,0.266±0.026,0.268±0.029,0.62074,0.84838,0.80622
+"Superior temporal gyrus, ROI 8, x ±58, y −26, z −4",Lt,pos,0.281±0.030,0.263±0.018,0.269±0.026,0.03818,0.22205,0.44215
+"Superior frontal gyrus, ROI 9, x ±24, y +56, z +4",Rt,gm,0.253±0.027,0.255±0.026,0.254±0.033,0.87967,0.93917,0.95524
+"Superior frontal gyrus, ROI 9, x ±24, y +56, z +4",Rt,neg,0.303±0.022,0.293±0.023,0.301±0.033,0.24157,0.90915,0.40468
+"Superior frontal gyrus, ROI 9, x ±24, y +56, z +4",Rt,pos,0.311±0.030,0.302±0.036,0.295±0.030,0.47368,0.15143,0.51314
+"Superior frontal gyrus, ROI 9, x ±24, y +56, z +4",Lt,gm,0.268±0.025,0.244±0.027,0.247±0.025,0.01453,0.0298,0.73554
+"Superior frontal gyrus, ROI 9, x ±24, y +56, z +4",Lt,neg,0.311±0.026,0.289±0.034,0.302±0.030,0.05134,0.39898,0.24469
+"Superior frontal gyrus, ROI 9, x ±24, y +56, z +4",Lt,pos,0.347±0.045,0.303±0.034,0.298±0.030,0.00298,0.00125,0.67386
+"Superior frontal gyrus, ROI 10, x ±28, y +58, z +24",Rt,gm,0.205±0.027,0.188±0.027,0.182±0.028,0.08842,0.03057,0.54784
+"Superior frontal gyrus, ROI 10, x ±28, y +58, z +24",Rt,neg,0.249±0.042,0.235±0.032,0.235±0.033,0.28368,0.30211,0.98821
+"Superior frontal gyrus, ROI 10, x ±28, y +58, z +24",Rt,pos,0.279±0.046,0.248±0.041,0.239±0.037,0.04714,0.01125,0.49593
+"Superior frontal gyrus, ROI 10, x ±28, y +58, z +24",Lt,gm,0.203±0.027,0.178±0.027,0.168±0.042,0.00985,0.00989,0.44181
+"Superior frontal gyrus, ROI 10, x ±28, y +58, z +24",Lt,neg,0.258±0.028,0.229±0.036,0.223±0.052,0.0158,0.02985,0.73585
+"Superior frontal gyrus, ROI 10, x ±28, y +58, z +24",Lt,pos,0.272±0.039,0.241±0.045,0.221±0.057,0.05028,0.008,0.26447

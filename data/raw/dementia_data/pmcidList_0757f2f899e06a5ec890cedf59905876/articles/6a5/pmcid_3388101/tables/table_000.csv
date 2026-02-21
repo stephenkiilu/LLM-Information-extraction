@@ -1,0 +1,8 @@
+Unnamed: 0_level_0,n,Unnamed: 2_level_0,Age,Unnamed: 4_level_0,Education,Unnamed: 6_level_0,MMSE,Unnamed: 8_level_0,Boston,Unnamed: 10_level_0
+Unnamed: 0_level_1,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+Con,16,24,68.31 (8.41),64.08 (6.81),14.43 (6.91),12.14 (2.00),29.25 (1.44),29.33 (0.82),14.50 (0.73),17.79 (0.41)
+MCI,12,21,71.33 (6.97),66.24 (6.46),11.92 (3.48),13.14 (3.00),27.75 (3.02),28.33 (3.34),12.67 (1.87),12.67 (1.68)
+,n,,Word List Average,Word List Average,Word Recall,Word Recall,Praxis,,Praxis Recall,
+,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female
+Con,16,24,7.50 (0.92),7.39 (1.17),8.19 (1.22),8.50 (1.29),10.75 (0.58),10.54 (0.78),11.38 (1.78),10.00 (1.87)
+MCI,12,21,4.69 (1.37),6.95 (1.60),4.75 (2.14),6.76 (2.21),9.75 (1.48),9.62 (1.69),8.67 (3.08),9.43 (3.75)

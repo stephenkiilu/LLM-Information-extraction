@@ -1,0 +1,9 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,FA,FA,MD,MD,AD,AD,RD,RD
+Group,Number of patients,Spearman’s rho,p-value,Spearman’s rho,p-value,Spearman’s rho,p-value,Spearman’s rho,p-value
+all mTBI,93,-0.323,0.002,0.343,p < 0.001,0.313,0.003,0.324,0.002
+CT-Negative,53,-0.032,0.825,0.194,0.172,0.214,0.132,0.163,0.252
+CT-Positive,40,-0.389,0.016,0.408,0.011,0.453,0.004,0.4,0.013
+Complete recovery,35,-0.184,0.306,0.182,0.311,0.044,0.808,0.179,0.318
+Incomplete recovery,58,-0.367,0.005,0.395,0.003,0.394,0.003,0.35,0.008
+CT-Negative with complete recovery,29,-0.131,0.562,0.22,0.325,0.131,0.561,0.223,0.318
+CT-Negative with incomplete recovery,24,0.032,0.873,0.078,0.699,0.216,0.278,0.06,0.766

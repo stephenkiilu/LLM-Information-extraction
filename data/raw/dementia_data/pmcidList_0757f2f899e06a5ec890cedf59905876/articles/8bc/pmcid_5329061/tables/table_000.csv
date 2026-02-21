@@ -1,0 +1,20 @@
+The 15 control volunteers,The 15 control volunteers,The 15 control volunteers,The 15 control volunteers,The 15 Mild Cognitive impairment patients,The 15 Mild Cognitive impairment patients,The 15 Mild Cognitive impairment patients,The 15 Mild Cognitive impairment patients,The 15 Alzheimer's disease patients,The 15 Alzheimer's disease patients,The 15 Alzheimer's disease patients,The 15 Alzheimer's disease patients
+Subject ID,Age (years),Education (years),Sex,Subject ID,Age (years),Education (years),Sex,Subject ID,Age (years),Education (years),Sex
+01,85.0,11.0,Female,16,80.0,8.0,Female,31,74.0,8.0,Female
+02,81.0,8.0,Female,17,81.0,4.0,Female,32,73.0,15.0,Female
+03,76.0,17.0,Female,18,68.0,15.0,Female,33,77.0,4.0,Female
+04,74.0,11.0,Female,19,73.0,15.0,Male,34,68.0,15.0,Female
+05,74.0,4.0,Female,20,88.0,8.0,Male,35,68.0,15.0,Male
+06,78.0,11.0,Female,21,84.0,11.0,Female,36,71.0,11.0,Female
+07,74.0,15.0,Male,22,70.0,20.0,Male,37,74.0,20.0,Male
+08,83.0,15.0,Male,23,67.0,4.0,Male,38,84.0,11.0,Male
+09,62.0,11.0,Female,24,71.0,11.0,Female,39,75.0,11.0,Male
+10,67.0,11.0,Female,25,71.0,20.0,Female,40,86.0,15.0,Female
+11,77.0,8.0,Female,26,80.0,14.0,Female,41,73.0,11.0,Female
+12,78.0,11.0,Female,27,77.0,8.0,Female,42,80.0,15.0,Male
+13,72.0,11.0,Female,28,70.0,15.0,Male,43,61.0,4.0,Male
+14,61.0,21.0,Male,29,66.0,15.0,Female,44,72.0,15.0,Female
+15,77.0,15.0,Male,30,69.0,11.0,Female,45,81.0,11.0,Female
+Mean,74.6,12.0,73%F,Mean,74.3,11.9,67% F,Mean,74.5,12.1,60% F
+,,,27% M,,,,33%M,,,,40%M
+Standard deviation,6.9,4.1,–,Standard deviation,6.8,5.0,–,Standard deviation,6.5,4.3,–

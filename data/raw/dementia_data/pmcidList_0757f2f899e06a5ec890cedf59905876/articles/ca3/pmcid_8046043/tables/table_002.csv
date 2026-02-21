@@ -1,0 +1,15 @@
+Parameters,Classification accuracy (%),Classification accuracy validated by bootstrap??? (%)
+Fazekas scale???,71.4,–
+MK???,57.1/77.9,54.2/77.8
+MD???,53.2/77.9,52.1/75.3
+FA???,50.6/70.1,47.3/68.9
+(MK + MD)???,61.0/85.7,61.8/89.7
+(MK + FA)???,48.1/90.9,45.7/88.6
+(MK + FA)???,64.9/89.6,61.4/88.6
+(MK + MD + FA)???,59.7/96.1,62.1/100.0
+MK + Kradial + Kaxial,97.4,100.0
+MK + Kradial,88.3,94.4
+MK + Kaxial,88.3,94.2
+MD + Dradial + Daxial,85.7,94.5
+MD + Dradial,81.8,78.1
+MD + Daxial,85.7,94.5

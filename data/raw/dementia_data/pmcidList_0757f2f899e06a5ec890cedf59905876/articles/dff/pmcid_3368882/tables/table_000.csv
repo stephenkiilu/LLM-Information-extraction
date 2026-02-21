@@ -1,0 +1,7 @@
+Unnamed: 0,Unnamed: 1,Age,T-Tau,P-Tau181,Aβ42,T-Tau/Aβ42
+Age,Pearson Correlation,Pearson Correlation,Pearson Correlation,Pearson Correlation,Pearson Correlation,Pearson Correlation
+T-Tau,Pearson Correlation,0.367 *,0.367 *,0.367 *,0.367 *,0.367 *
+P-Tau181,Pearson Correlation,0.253,0.585 Ŧ,0.585 Ŧ,0.585 Ŧ,0.585 Ŧ
+Aβ42,Pearson Correlation,−0.147,0.256,0.228,0.228,0.228
+T-Tau/Aβ42,Pearson Correlation,0.443 *,0.856 Ŧ,0.459 *,−0.281,−0.281
+P-Tau181/Aβ42,Pearson Correlation,0.326 *,0.436 *,0.854 Ŧ,−0.310 *,0.599 Ŧ

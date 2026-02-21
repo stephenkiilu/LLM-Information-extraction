@@ -1,0 +1,5 @@
+Unnamed: 0,"FA of Mean Skeleton(Median, Range)",p-Value(Adjusted for Age),p-Value(Adjusted for EDSS),p-Value(Adjusted for Age + EDSS)
+HCs (n = 14),"0.4590268(0.4404533, 0.4853403)",0.004 **,,
+pwMS (n = 29),"0.4338049(0.3303200, 0.4874299)",0.004 **,,
+MS-no-LUTS (n = 9),"0.4446728(0.4288627, 0.4740112)",0.159,0.047 *,0.072
+MS-OAB (n = 17),"0.4299469(0.3305743, 0.4859033)",0.159,0.047 *,0.072

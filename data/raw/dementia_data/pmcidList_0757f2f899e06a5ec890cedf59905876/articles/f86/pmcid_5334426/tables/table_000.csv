@@ -1,0 +1,13 @@
+Unnamed: 0,T1w,fMRI,DTI
+FOV (mm),240,240,240
+TE (ms),3.06,30,84.2*
+TR (ms),7.90,3000,7925
+ASSET factor,2,2,2
+Flip angle,120°,90°,90°
+Acquisition matrix,240 × 240,96 × 96,128 × 128
+Slice thickness (mm),1,3,2.5
+Volumes (slices per volume),1 (176),200 (44),28 (59)
+Duration (min),4.41,10.00,3.50
+Diffusion-weighted directions,,,25
+Maximum b-value (s/mm2),,,1000
+TI (ms),450,,

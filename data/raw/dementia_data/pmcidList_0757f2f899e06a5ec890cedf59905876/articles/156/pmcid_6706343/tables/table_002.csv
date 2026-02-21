@@ -1,0 +1,11 @@
+Parameter,Sig.,IRR,95% Confidence Interval for IRR,95% Confidence Interval for IRR
+Parameter,Sig.,IRR,Lower,Upper
+RD ForcepsMin (107 μm2/s),0.02???,1.02,1.0,1.04
+Gender,0.12,3.24,0.74,14.18
+Age (yrs),0.16,0.89,0.75,1.05
+Body Mass Index (kg/m2),0.98,1.0,0.81,1.23
+Number of years of education (yrs),0.93,0.99,0.77,1.28
+T0 MMSE,0.01???,1.91,1.15,3.17
+Total number of comorbidities,0.65,0.94,0.73,1.22
+counting gait velocity (m/s),0.02???,0.95,0.9,0.99
+WMH (cm3),0.03???,1.2,1.02,1.42

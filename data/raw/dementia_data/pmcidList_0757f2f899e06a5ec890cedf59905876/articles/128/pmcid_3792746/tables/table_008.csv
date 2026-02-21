@@ -1,0 +1,15 @@
+Unnamed: 0_level_0,FA,FA,MD,MD,RD,RD,AxD,AxD
+Unnamed: 0_level_1,ROI,p-Value,ROI,p-Value,ROI,p-Value,ROI,p-Value
+MMSEMCI,–,–,CGH L,2.65E− 6,CGH L,5.02E− 6,CGH L,3.50E− 6
+# sig/43,0,0,1 (p < 2.65E− 6),1 (p < 2.65E− 6),1 (p < 5.02E− 6),1 (p < 5.02E− 6),1 (p < 3.50E− 6),1 (p < 3.50E− 6)
+,,,,,,,,
+MMSEe-MCI,–,–,CGH L,9.37E− 5,CGH L,1.52E− 4,CGH L,1.03E− 4
+# sig/43,0,0,1 (p < 9.37E− 5),1 (p < 9.37E− 5),1 (p < 1.52E− 4),1 (p < 1.52E− 4),1 (p < 1.03E− 4),1 (p < 1.03E− 4)
+,,,,,,,,
+,,,,,,,,
+CDR-sobMCI,–,–,SLF R,4.15E− 4,–,–,SLF R,6.94E− 5
+CDR-sobMCI,–,–,–,–,–,–,SLF L,2.98E− 4
+CDR-sobMCI,–,–,–,–,–,–,PCR R,1.03E− 3
+CDR-sobMCI,–,–,–,–,–,–,SCC,1.64E− 3
+CDR-sobMCI,–,–,–,–,–,–,CGC L,3.46E− 3
+# sig/43,0,0,1 (p < 4.15E− 4),1 (p < 4.15E− 4),0,0,5 (p < 3.46E− 3),5 (p < 3.46E− 3)

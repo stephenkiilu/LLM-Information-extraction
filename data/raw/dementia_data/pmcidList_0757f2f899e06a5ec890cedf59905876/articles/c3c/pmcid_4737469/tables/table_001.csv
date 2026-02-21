@@ -1,0 +1,46 @@
+Index∗,Region,Abbreviation
+"1, 2",Precentral gyrus,PreCG
+"3, 4",Superior frontal gyrus (dorsal),SFGdor
+"5, 6",Orbitofrontal cortex (superior),ORBsupb
+"7, 8",Middle frontal gyrus,MFG
+"9, 10",Orbitofrontal cortex (middle),ORBmid
+"11, 12",Inferior frontal gyrus (opercular),IFGoperc
+"13, 14",Inferior frontal gyrus (triangular),IFGtriang
+"15, 16",Orbitofrontal cortex (inferior),ORBinf
+"17, 18",Rolandic operculum,ROL
+"19, 20",Supplementary motor area,SMA
+"21, 22",Olfactory,OLF
+"23, 24",Superior frontal gyrus (medial),SFGmed
+"25, 26",Orbitofrontal cortex (medial),ORBmed
+"27, 28",Rectus gyrus,REC
+"29, 30",Insula,INS
+"31, 32",Anterior cingulate gyrus,ACG
+"33, 34",Middle cingulate gyrus,MCG
+"35, 36",Posterior cingulate gyrus,PCG
+"37, 38",Hippocampus,HIP
+"39, 40",Parahippocampal gyrus,PHG
+"41, 42",Amygdala,AMYG
+"43, 44",Calcarine,CAL
+"45, 46",Cuneus,CUN
+"47, 48",Lingual gyrus,LING
+"49, 50",Superior occipital gyrus,SOG
+"51, 52",Middle occipital gyrus,MOG
+"53, 54",Inferior occipital gyrus,IOG
+"55, 56",Fusiform gyrus,FFG
+"57, 58",Postcentral gyrus,PoCG
+"59, 60",Superior parietal gyrus,SPG
+"61, 62",Inferior parietal lobule,IPL
+"63, 64",Supramarginal gyrus,SMG
+"65, 66",Angular gyrus,ANG
+"67, 68",Precuneus,PCUN
+"69, 70",Paracentral lobule,PCL
+"71, 72",Caudate,CAU
+"73, 74",Putamen,PUT
+"75, 76",Pallidum,PAL
+"77, 78",Thalamus,THA
+"79, 80",Heschl gyrus,HES
+"81, 82",Superior temporal gyrus,STG
+"83, 84",Temporal pole (superior),TPOsup
+"85, 86",Middle temporal gyrus,MTG
+"87, 88",Temporal pole (middle),TPOmid
+"89, 90",Inferior temporal,ITG

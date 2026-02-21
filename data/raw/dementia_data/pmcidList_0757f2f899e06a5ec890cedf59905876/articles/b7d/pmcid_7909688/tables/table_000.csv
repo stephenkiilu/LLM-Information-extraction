@@ -1,0 +1,33 @@
+Unnamed: 0,N,%
+Total patients,45,
+Sex,Sex,Sex
+Male,23,51.1
+Female,22,48.9
+Tumor site,,
+Supratentorial,29,64.4
+Infratentorial,16,35.6
+Histological Diagnosis,Histological Diagnosis,Histological Diagnosis
+Ependymoma,16,35.6
+Medulloblastoma (MBL),2,4.4
+Atypical teratoid rhabdoid tumor (AT/RT),2,4.4
+Diffuse Intrinsic Pontine Glioma (DIPG),3,6.7
+Supratentorial pleomorphic sarcoma,1,2.2
+High-Grade Glioma (HGG),7,15.6
+Supratentorial Primitive Neuroectodermal Tumors (S-PNET),5,11.1
+Germinoma,8,17.8
+Adamantinomatous Craniopharyngioma (ACP),1,2.2
+Curative surgery,Curative surgery,Curative surgery
+Yes,35,77.8
+No,10,22.2
+Treatment,Treatment,Treatment
+No chemotherapy,6,13.3
+Systemic chemotherapy,26,57.8
+Systemic chemotherapy+myeloablative Thiotepa,13,28.9
+Prescribed Dose (Gy),Prescribed Dose (Gy),Prescribed Dose (Gy)
+30.6,4,8.9
+36,4,8.9
+54,23,51.1
+59.4,14,31.1
+Age (years),Median (range),Median (range)
+Age at RT,6.2 (1.1–22.5),6.2 (1.1–22.5)
+Age at test evaluation,11.1 (4.4–25.9),11.1 (4.4–25.9)

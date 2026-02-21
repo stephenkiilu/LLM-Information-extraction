@@ -1,0 +1,13 @@
+Unnamed: 0,Source,Condition,Region,Cohen’s d,n
+MD,Present study,WMH,"DC, VC, SLF, CST",0.63 to 1.27,21 + 21
+MD,"Rémy et al., 2015",MCI,"Ventral cingulum, UF, Fornix",0.71 to 1.09,22 + 15
+MD,"Zhuang et al., 2013",MCI,"Ventral cingulum, UF, Fornix",0.57 to 0.84,27 + 155
+MD,"Zhang et al., 2007",AD,Posterior and hippocampal cingulum,0.78 to 1.24,17 +18
+MD,"Gattellaro et al., 2009",PD,"SLF, cingulum, genu of CC",0.78 to 2.20,10 + 10
+FA,Present study,WMH,"DC, VC, SLF, CST",−1.06 to −0.69,21 + 21
+FA,"Rémy et al., 2015",MCI,"Ventral cingulum, UF, Fornix",−1.36 to −1.01,22 + 15
+FA,"Zhuang et al., 2013",MCI,Fornix,−0.74 to −0.61,27 + 155
+FA,"Stenset et al., 2011",MCI,"Cingulum, genu of CC, forceps major",−0.94 to −0.62,12 +26
+FA,"Zhang et al., 2007",AD,Posterior and hippocampal cingulum and splenium of corpus callosum,−1.76 to −0.72,17 +18
+FA,"Gattellaro et al., 2009",PD,"SLF, genu of CC",−1.50 to −0.97,10 + 10
+FA,"Wang et al., 2004",SZ,Anterior cingulum,−1.25 to −0.82,21 + 21

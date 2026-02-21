@@ -1,0 +1,6 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,MANOVA,MANOVA,MANOVA,Control vs Pre-HD,Control vs HD,Pre-HD vs HD
+Region,Unnamed: 1_level_1,Pre-HD,HD,Control,F,df,P,P,P,P
+,FA,0.399±0.017,0.378±0.022,0.408±0.023,14.81,"2,95",0.001,0.048,0.001,0.005
+Total Deep White Matter,AD,1.118E-03±3.00E-05,1.234E-03±3.00E-05,1.116E-03±3.00E-05,41.52,"2,95",0.001,0.013,0.001,0.001
+(mean value ± SD),RD,6.38E-04±4.00E-0,7.01E-04±4.00E-05,6.19E-04±3.00E-05,42.132,"2,95",0.001,0.002,0.001,0.001
+,R2???,20.19±0.75,19.54±1.08,19.62±0.71,4.383,"2,85",0.011,0.01,0.676,0.01

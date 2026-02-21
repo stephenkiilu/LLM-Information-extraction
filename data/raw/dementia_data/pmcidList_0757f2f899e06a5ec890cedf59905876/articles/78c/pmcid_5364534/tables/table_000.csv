@@ -1,0 +1,7 @@
+Unnamed: 0,SCI (n = 30),MCI (n = 55),AD (N = 79),Group differences
+Age,63.0 ± 9.5,65.5 ± 11.2,70.2 ± 8.1,???(AD > MCI; AD > SCI)
+"Gender, % females",53,36,58,???(AD♀ > MCI♀)
+"MMSE???, score",29.4 ± 0.6,28.0 ± 2.2,22.3 ± 5.4,???(AD < MCI; AD < SCI)
+"Education???, years",15.0 ± 3.9,14.0 ± 3.2,12.2 ± 3.2,???(AD < MCI; AD < SCI)
+"Heal coil, % 8HRBRAIN",67,69,62,No significant group effect
+APOE status N (% ε4+???),23 (17),41 (44),54 (76),???(ADε4+ > MCIε4+ > SCIε4+)

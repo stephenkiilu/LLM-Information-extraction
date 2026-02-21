@@ -1,0 +1,17 @@
+Between-Group,IPF,BNP,CPL,GE,NS,Mod,CC,EC
+FA-based connectivity,FA-based connectivity,FA-based connectivity,FA-based connectivity,FA-based connectivity,FA-based connectivity,FA-based connectivity,FA-based connectivity,FA-based connectivity
+AD vs. MCI,0.056,0.073,0.121,0.336,0.231,0.255,0.457,0.436
+AD vs. NC,0.009,0.013,0.032,0.016,0.028,0.021,0.047,0.058
+MCI vs. NC,0.013,0.022,0.044,0.042,0.025,0.022,0.037,0.086
+Spearman Correlation,Spearman Correlation,Spearman Correlation,Spearman Correlation,Spearman Correlation,Spearman Correlation,Spearman Correlation,Spearman Correlation,Spearman Correlation
+AD vs. MCI,0.382,0.246,0.038,0.291,0.036,0.163,0.291,0.046
+AD vs. NC,0.048,0.460,0.005,0.225,0.004,0.054,0.307,0.009
+MCI vs. NC,0.026,0.302,0.114,0.225,0.111,0.184,0.138,0.147
+Partial Correlation,Partial Correlation,Partial Correlation,Partial Correlation,Partial Correlation,Partial Correlation,Partial Correlation,Partial Correlation,Partial Correlation
+AD vs. MCI,0.320,0.483,0.406,0.255,0.394,0.433,0.023,0.247
+AD vs. NC,0.022,0.045,0.061,0.065,0.063,0.373,0.141,0.064
+MCI vs. NC,0.030,0.022,0.068,0.143,0.069,0.421,0.306,0.139
+Absolute value of Pearson correlation,Absolute value of Pearson correlation,Absolute value of Pearson correlation,Absolute value of Pearson correlation,Absolute value of Pearson correlation,Absolute value of Pearson correlation,Absolute value of Pearson correlation,Absolute value of Pearson correlation,Absolute value of Pearson correlation
+AD vs. MCI,0.072,0.083,0.376,0.287,0.387,0.058,0.321,0.090
+AD vs. NC,0.008,0.015,0.012,0.015,0.013,0.020,0.045,0.120
+MCI vs. NC,0.012,0.024,0.013,0.043,0.012,0.388,0.071,0.235

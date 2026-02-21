@@ -1,0 +1,17 @@
+Parameters,NC (n = 28),SMI (n = 28),MCI (n = 29),P value,Post hoc
+Mean age (yr),70.6 ± 6.48,70.9 ± 6.23,70.5 ± 5.17,0.969,NC = SMI = MCI
+"Female, n (%)",19/28 (67.9%),19/26 (73.1%),19/28 (67.9%),0.828,NC = SMI = MCI
+Education (yr),8.8 ± 6.16,9.2 ± 5.70,8.6 ± 4.36,0.914,NC = SMI = MCI
+GDS*,12.3 ± 4.68,13.0 ± 7.55,11.5 ± 7.25,0.763,NC = SMI = MCI
+K-MMSE,28.7 ± 1.36,27.4 ± 2.67,25.5 ± 2.81,< 0.001,NC > SMI > MCI
+CDR,0,0.3 ± 0.24,0.5 ± 0.13,< 0.001,MCI > SMI > NC
+CDR-SB,0,0.7 ± 0.53,1.5 ± 1.07,< 0.001,MCI > SMI > NC
+Backward digit span†,48.6 ± 31.05,67.1 ± 26.46,55.3 ± 29.71,0.204,NC = SMI = MCI
+Boston naming test†,69.3 ± 27.41,80.1 ± 23.27,36.2 ± 37.12,< 0.001,NC = SMI > MCI
+RCFT copy†,68.0 ± 18.37,61.5 ± 24.87,50.0 ± 31.36,0.212,NC = SMI = MCI
+COWAT (phonemic)†,53.3 ± 26.96,54.7 ± 30.30,50.5 ± 27.84,0.891,NC = SMI = MCI
+Stroop test†,58.7 ± 20.25,49.8 ± 34.16,34.4 ± 30.65,0.142,NC = SMI = MCI
+Verbal delayed recall†,88.0 ± 7.49,61.2 ± 23.44,20.2 ± 29.60,< 0.001,NC > SMI > MCI
+Verbal recognition†,77.3 ± 22.69,63.1 ± 19.41,31.6 ± 29.02,< 0.001,NC = SMI > MCI
+Visual delayed recall†,66.6 ± 31.81,60.7 ± 26.63,20.1 ± 23.73,< 0.001,NC = SMI > MCI
+Visual recognition†,81.8 ± 16.37,72.2 ± 27.66,41.5 ± 32.88,0.001,NC = SMI > MCI

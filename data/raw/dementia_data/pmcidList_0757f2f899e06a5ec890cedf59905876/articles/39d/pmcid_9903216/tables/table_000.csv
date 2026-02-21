@@ -1,0 +1,48 @@
+Mean age (years),68.1 (SD 9.9),Unnamed: 2
+Male/Female,80/43,
+OCTA,Right eye (N = 104),Left eye (N = 105)
+Vessel density (%),32.1 (SD 5.62),32.1 (SD 5.24)
+Fractal complexity (unitless),1.81 (SD 0.03),1.82 (0.03)
+OCTA image quality,,
+Signal strength ‘Q’ (decibels),37.3 (SD 2.92),37.7 (SD 2.90)
+1 Inadequate (N),12,9
+2 Poor (N),24,31
+3 Average (N),52,47
+4 Good (N),6,10
+5 Excellent (N),10,8
+Co-morbid eye disease,N = 117,
+Diabetic retinopathy,6/117 (5.13%),
+Glaucoma,3/117 (2.56%),
+AMD,5/117 (4.27%),
+Any of the above,14/117 (11.96%),
+Vascular risk factors,N = 123,
+Diabetes,27/123 (21.9%),
+Hypertension,87/123 (70.7%),
+Hypercholesterolemia,92/123 (74.7%),
+Smoker: current,14/123 (11.4%),
+Smoker: never v. ever,56/123 (45.5%) v. 67/123 (54.4%),
+Mean SBP (mmHg),149.0 ± 19.67,
+White matter lesions,N = 122,% of ICV
+ICV volume (ml),"1,612.0 (SD 160.4)",
+"WMH volume, median (ml)",8.17 (3.47–18.60),0.50
+Fazekas periventricular (0:3),1.5 (1–2),
+Fazekas deep (0:3),1 (1–2),
+Fazekas total (0:6),3 (2–3),
+PVS: computational,N = 115,% of CSO or BGa
+PVS volume in CSO (ml),11.5 (6.9–17.5),3.6 (2.2–5.8)
+PVS volume in BG (ml),2.9 (2.1–3.8),4.9 (3.7–6.0)
+PVS count in CSO,890 (302),
+PVS count in BG,170 (41),
+PVS: visual ratings,N = 122,
+CSO PVS,3 (2–3),
+BG PVS,2 (1–2),
+Blood flow to the brain,N = 100,
+Arterial mean (ml/s),9.44 (SD 1.94),
+Cerebrovascular reactivity,N = 114,
+CVR magnitude (%/mmHg),0.043 (SD 0.020),
+CVR delay (s),30.89 (SD 21.0),
+White matter integrity,N = 117,
+FA in NAWM (unitless),0.42 (SD 0.02),
+FA in WMH (unitless),0.27 (SD 0.04),
+MD in NAWM (10–3 mm2/s),0.76 (SD 0.02),
+MD in WMH (10–3 mm2/s),1.09 (SD 0.07),

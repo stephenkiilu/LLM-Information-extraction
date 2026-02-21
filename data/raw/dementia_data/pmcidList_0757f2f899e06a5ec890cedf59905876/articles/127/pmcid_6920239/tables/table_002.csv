@@ -1,0 +1,15 @@
+Variable,Memory,Memory,Complex attention,Complex attention,Executive function,Executive function,Perceptuo-motor function,Perceptuo-motor function
+Variable,β,p,β,p,β,p,β,p
+Current CD4,0.126,0.256,− 0.063,0.552,0.083,0.440,0.173,0.128
+Nadir CD4,0.226,0.035,0.161,0.119,0.092,0.378,0.058,0.601
+Illness duration,− 0.229,0.053,− 0.023,0.842,0.086,0.452,− 0.048,0.965
+Treatment duration,− 0.124,0.319,− 0.062,0.600,0.059,0.601,− 0.142,0.266
+Time without treatment,− 0.193,0.704,0.030,0.773,0.060,0.654,0.073,0.512
+CPE score,− 0.216,0.048,− 0.057,0.558,− 0.047,0.659,− 0.014,0.9
+Metabolic comorbidities,− 0.136,0.236,− 0.031,0.771,0.059,0.639,0.024,0.836
+BDI,− 0.027,0.814,− 0.156,0.144,− 0.200,0.061,0.005,0.967
+BAI,− 0.305,0.005,− 0.386,< 0.001,− 0.381,< 0.001,− .197,0.078
+Weekly alcohol units,0.015,0.891,− 0.090,0.397,− 0.072,0.499,− 0.104,0.361
+Drug use in past 3 months,− 0.040,0.717,− 0.038,0.716,− 0.048,0.652,0.003,0.979
+Whole brain MD,0.040,0.696,− 0.257,0.026,− 0.304,0.007,− 0.213,0.093
+Whole brain FA,0.075,0.542,0.319,0.005,0.247,0.029,0.259,0.04

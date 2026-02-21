@@ -1,0 +1,4 @@
+Variables,Regression coefficient,Standard error,Odds ratio,95% confidence interval,P value
+Intercept,-134.297,67.338,,,0.046
+MMSE,0.846,0.721,2.329,0.567-9.578,0.241
+PET,1.537,0.82,4.651,0.932-23.202,0.061

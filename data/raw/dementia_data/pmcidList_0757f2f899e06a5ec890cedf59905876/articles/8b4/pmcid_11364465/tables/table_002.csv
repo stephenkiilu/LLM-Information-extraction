@@ -1,0 +1,4 @@
+ROI,MAP,Contrast,P-value (FWE-corrected),Cluster size,z-value,x (mm),y (mm),z (mm)
+Corticospinal tract WM R,FA,lin upper < lower limb,0.018,65,4.45,9,−33,−21
+Corticospinal tract WM R,RD,lin upper > lower limb,<0.001,399,4.969,12,−28.5,−12
+Cerebellum GM L,MD,quad upper < lower limb,0.022,105,4.378,−42,−73.5,−48

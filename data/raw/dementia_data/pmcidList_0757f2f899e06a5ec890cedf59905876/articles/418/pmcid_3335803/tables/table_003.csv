@@ -1,0 +1,7 @@
+Pathology,Method,Overall %,Sensitivity,Specificity
+AD detection (over HC),Atlas-based,0.9,0.95,0.8
+,TBSS,0.88,0.95,0.75
+aMCI detection (over HC),Atlas-based,0.82,0.79,0.85
+,TBSS,0.74,0.74,0.75
+AD detection (over aMCI),Atlas-based,0.82,0.89,0.68
+,TBSS,0.79,0.84,0.68

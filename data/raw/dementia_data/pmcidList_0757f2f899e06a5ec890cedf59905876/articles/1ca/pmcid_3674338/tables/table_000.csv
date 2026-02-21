@@ -1,0 +1,7 @@
+Unnamed: 0,Control (n = 20),PD (n = 20),PDD (n = 20),P value
+"Sex, male : female",10 : 10,8 : 12,10 : 10,NS
+"Age in years, mean (SD)",72.7 (3.3),71.6 (4.3),71.7 (5.3),NS
+"Disease duration in months, mean (SD)",,94.0 (53.4),146.6 (91.0),<0.05 (PD vs PDD)
+Hoehn–Yahr stage (SD),0,2.4 (1.0),2.9 (0.7),<0.05 (PD vs PDD)
+MMSE (SD)a,28.8,25.7 (3.2),18.7 (5.8),<0.01 (PD vs PDD)
+"Levodopa dosage mg/day, median (SD)",0,464.2 (175.0),673.3 (120.0),<0.05 (PD vs PDD)

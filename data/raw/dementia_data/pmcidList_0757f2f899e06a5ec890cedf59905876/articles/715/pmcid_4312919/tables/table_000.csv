@@ -1,0 +1,8 @@
+Study,Participants,MRI acquisition,Software,Tract selection,Statistical method,Tracts
+"Matsuo et al., ???","12 bvFTD, 17 Controls","1.5 Tesla, 15 directions",PRIDE,ROI,Mann‐Whitney U,"AF, UF, ILF, CC"
+"Zhang et al., ???",18 bvFTD; 18 AD; 19 Controls,4 Tesla; 6 directions,Volume‐one/dTV,"Whole brain, ROI",MANOVA/multiple regression,"Anterior CC, UF, anterior/descending/left posterior CB"
+"Whitwell et al., ???",16 bvFTD; 19 Controls,3 Tesla; 21 directions,DTI Studio,ROI,ANCOVA,"Anterior CB, UF, SLF, right anterior ILF, right CST"
+"Agosta et al., ???",13 bvFTD; 25 Controls,3 Tesla; 32 directions,FDT/TBSS,"Whole brain, ROI","Permutation test (n = 5,000)","CB, Fornix, CC, SLF, UF, ILF, Parahippocamal tract"
+"Lillo et al., 2012",15 bvFTD; 18 Controls,3 Tesla; 32 directions,FDT/TBSS,Whole brain,"Permutation test (n = 5,000)","Anterior CC, anterior ILF, CST"
+"Zhang et al., ???",13 bvFTD; 19 Controls,4 Tesla; 6 directions,SPM8,"Whole brain, ROI",Two‐sample t‐test,"UF, anterior CC"
+Present study,27 bvFTD; 25 AD; 20 Controls,3 Tesla; 64 directions,Camino/TBSS,"Whole brain, ROI","Permutation test (n = 10,000)","UF, CB, CC, SLF, ILF, ATR, CST"

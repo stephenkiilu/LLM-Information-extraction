@@ -1,0 +1,18 @@
+Variables,"Mean (S.D.), range"
+Cognitive/QoL variables,
+MoCA,"24.9 (3.5), 11–30"
+SSQoL,"190.6 (32.8), 93–244"
+EuroQoL,"69.3 (19.1), 0–100"
+MRI variables,
+"NBV (whole brain, ml)",1355.84 (107.70)
+GM normalized volume (ml),714.49 (73.48)
+WM normalized volume (ml),641.35 (70.39)
+WMH volume (ml),34.74 (22.27)
+WMH lesion load (% brain),3.41 (2.22)
+Lacunes (number),4.41 (4.73)
+FA height × 10−3 (NAWM/WM),3.27 (0.26)/3.24 (0.25)
+MD height × 10−2 (NAWM/WM),1.42 (0.21)/1.33 (0.23)
+FA value (NAWM/WM),0.320 (0.042)/0.311 (0.047)
+MD value mm2s−1 × 10−3 (NAWM/WM),0.761 (0.040)/0.762 (0.040)
+FA median (NAWM/WM),0.342 (0.026)/0.335 (0.028)
+MD median mm2s−1 × 10−3 (NAWM/WM),0.774 (0.039)/0.787 (0.044)

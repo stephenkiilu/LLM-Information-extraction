@@ -1,0 +1,31 @@
+Unnamed: 0,Region
+Common regions (AD > MCI),Common regions (AD > MCI)
+ROI1,"R. superior temporal gyrus, WM"
+,"R. temporal subgyrus, WM"
+,"R. superior temporal gyrus, GM"
+ROI2,"L. limbic parahippocampal gyrus, WM"
+Different regions (AD > MCI),Different regions (AD > MCI)
+gmMD,"R. occipital subgyrus, WM"
+,"L. superior frontal gyrus, GM"
+,"L. medial frontal gyrus, WM"
+nMD,"R. middle occipital gyrus, WM"
+pMD (ROI3),"R. middle temporal gyrus, WM"
+,"R. and L. medial frontal gyrus, GM and WM"
+ROI4,"R. occipital ceneus, WM"
+,"L. parietal supramarginal gyrus, WM"
+,"L. interior parietal lobule, WM"
+,"L. limbic parahippocampal gyrus, GM"
+ROI5,"L. limbic uncus, WM"
+,R. sublobar insula
+Common regions (AD > CN),Common regions (AD > CN)
+ROI2,"L. limbic parahippocampal gyrus, WM"
+ROI3,"R. middle temporal gyrus, WM"
+Different regions (AD > CN),Different regions (AD > CN)
+gmMD,"L. limbic uncus, GM, Amygdala"
+,"R. and L. temporal subgyrus, WM"
+nMD,"R. and L. temporal subgyrus, WM"
+,"R. sublobar insula, GM"
+pMD,"R. temporal subgyrus, WM"
+ROI4,"R. occipital cuneus, WM"
+,"R. occipital subgyrus, WM"
+,"R. inferior occipital gyrus, WM"

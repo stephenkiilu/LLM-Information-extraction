@@ -1,0 +1,9 @@
+Structure name,Cluster voxel number,Peak T value,MNI coordinates (mm),MNI coordinates (mm),MNI coordinates (mm)
+Unnamed: 0_level_1,Unnamed: 1_level_1,Unnamed: 2_level_1,X,Y,Z
+Temporal WM (L),1047.0,7.78,-46,-30,-8
+"Midbrain (R),",3533.0,7.3,6,-20,-8
+"Midbrain (L),",,7.26,-8,-20,-6
+Temporal WM (R),,7.07,46,-20,-18
+Genu of the corpus callosum (L),592.0,7.05,-2,26,10
+Frontal WM (L),285.0,6.93,-20,-4,50
+Frontal WM (R),211.0,6.63,60,-8,24

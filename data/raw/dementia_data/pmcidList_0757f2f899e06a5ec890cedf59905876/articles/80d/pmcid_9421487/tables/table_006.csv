@@ -1,0 +1,8 @@
+Unnamed: 0_level_0,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion,Dementia conversion
+Unnamed: 0_level_1,SCANS,SCANS,SCANS,SCANS,RUN DMC,RUN DMC,RUN DMC,RUN DMC,HARMONISATION,HARMONISATION,HARMONISATION,HARMONISATION
+ChangeMarkers,HR(95 % CI),P-Value,AIC,AUC,OR(95 % CI),P-Value,AIC,AUC,OR(95 % CI),P-Value,AIC,AUC
+MD Median,"2.46(1.58, 3.83)",<0.001,134.67,0.789,0.90(0.49–1.57),0.72,83.37,0.892,"1.60(1.02, 2.63)",0.04,113.52,0.755
+PC1,"2.47(1.52, 4.01)",<0.001,137.21,0.786,1.24(0.57–2.46),0.57,83.18,0.898,"0.71(0.44, 1.12)",0.14,115.58,0.733
+PSMD,"2.34(1.60, 3.43)",<0.001,134.21,0.813,1.13(0.65–1.79),0.62,83.26,0.898,"1.43(0.91, 2.30)",0.11,115.28,0.743
+DSEG θ,"4.01(2.21, 7.29)",<0.001,122.87,0.924,1.54(0.78–3.28),0.24,82.0,0.903,"1.42(0.87, 2.35)",0.16,115.77,0.723
+Geff,"0.49(0.32, 0.75)",<0.001,140.24,0.793,0.76(0.41–1.40),0.36,82.68,0.897,"1.06(0.64, 1.75)",0.83,117.72,0.708

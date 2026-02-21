@@ -1,0 +1,12 @@
+"Detection of synthetic FA reductions in the Fornix: Without FWE correction, p < 0.05","Detection of synthetic FA reductions in the Fornix: Without FWE correction, p < 0.05.1","Detection of synthetic FA reductions in the Fornix: Without FWE correction, p < 0.05.2","Detection of synthetic FA reductions in the Fornix: Without FWE correction, p < 0.05.3","Detection of synthetic FA reductions in the Fornix: Without FWE correction, p < 0.05.4","Detection of synthetic FA reductions in the Fornix: Without FWE correction, p < 0.05.5","Detection of synthetic FA reductions in the Fornix: Without FWE correction, p < 0.05.6","Detection of synthetic FA reductions in the Fornix: Without FWE correction, p < 0.05.7"
+Method/Δ FA,0.025,0.050,0.075,0.100,0.150,0.200,0.300
+FSL TBSS,No,No,No,No,Yes,Yes,Yes
+FSL VBA,No,No,No,Yes,Yes,Yes,Yes
+ANTS-GW TBSS,No,No,No,No,No,Yes,Yes
+ANTS-GW VBA,No,No,No,Yes,Yes,Yes,Yes
+"Detection of synthetic FA reductions in the Fornix: With FWE Correction, p < 0.05","Detection of synthetic FA reductions in the Fornix: With FWE Correction, p < 0.05","Detection of synthetic FA reductions in the Fornix: With FWE Correction, p < 0.05","Detection of synthetic FA reductions in the Fornix: With FWE Correction, p < 0.05","Detection of synthetic FA reductions in the Fornix: With FWE Correction, p < 0.05","Detection of synthetic FA reductions in the Fornix: With FWE Correction, p < 0.05","Detection of synthetic FA reductions in the Fornix: With FWE Correction, p < 0.05","Detection of synthetic FA reductions in the Fornix: With FWE Correction, p < 0.05"
+Method / Δ FA,0.025,0.050,0.075,0.100,0.150,0.200,0.300
+FSL TBSS,No,No,No,No,No,No,No
+FSL VBA,No,No,No,No,No,Yes,Yes
+ANTS-GW TBSS,No,No,No,No,No,No,No
+ANTS-GW VBA,No,No,No,No,No,Yes,Yes

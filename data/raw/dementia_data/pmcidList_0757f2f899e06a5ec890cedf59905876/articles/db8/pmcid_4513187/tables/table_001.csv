@@ -1,0 +1,21 @@
+Contrast,Cluster no.,Voxels,x,y,z,p-Value,White matter tract/region
+Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity
+All patients,1,"58,082",3,−4,10,<0.001,Fornix
+bvFTD only,1,"50,442",2,2,15,<0.001,Fornix
+svPPA only,1,"27,988",12,−7,3,0.002,Right anterior thalamic radiation
+,2,2852,−38,1,27,0.02,Left superior frontal lobe???
+,3,36,37,−79,−2,0.05,Right inferior occipital lobe???
+,4,33,40,−68,−4,0.05,Right inferior occipital lobe???
+,,,,,,,
+Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity
+All patients,1,"68,045",3,−10,11,< 0.001,Right anterior thalamic radiation
+bvFTD only,1,"45,523",2,4,16,<0.001,Fornix
+svPPA only,1,"48,721",4,−11,9,0.001,Right anterior thalamic radiation
+bvFTD > svPPA???,1,443,22,−6,14,0.04,Right anterior thalamic radiation
+,2,361,46,−10,−22,0.05,Right inferior longitudinal fasciculus
+,3,82,32,−31,9,0.05,Right inferior fronto-occipital fasciculus
+,,,,,,,
+Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity
+All patients,1,"63,092",3,−7,10,<0.001,Right anterior thalamic radiation
+Decreased fractional anisotropy,Decreased fractional anisotropy,Decreased fractional anisotropy,Decreased fractional anisotropy,Decreased fractional anisotropy,Decreased fractional anisotropy,Decreased fractional anisotropy,Decreased fractional anisotropy
+bvFTD only,1,1557,−3,29,5,0.02,Genu corpus callosum

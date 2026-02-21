@@ -1,0 +1,13 @@
+Analysis method,Potential applications,Strength,Challenge
+ROI-based analysis,ROI-based analysis,ROI-based analysis,ROI-based analysis
+ROI-based analysis,Analysis of specific brain regions or fiber tracts,Can be split manually or by template,There are limitations to the split approach
+White matter tract-based analysis,White matter tract-based analysis,White matter tract-based analysis,White matter tract-based analysis
+DTT,Deterministic fiber tracing,Enables in vivo viewing and study of neural network connectivity and continuity,Does not convey information about the strength of the connection.Cannot resolve white matter fiber crossings
+DTT,Probabilistic fiber tracing,Some resolution of fiber crossover issues,Computationally intensive and affected by anatomy
+AFQ,Automated extraction fiber tracts,Estimation of diffusion parameters of fiber bundles at point-by-point along the fiber trajectory,
+Voxel-based analysis,Voxel-based analysis,Voxel-based analysis,Voxel-based analysis
+VBA,Whole-brain voxel levels for spatially localized diffusion studies,"Comprehensiveness, objectivity and repeatability","Errors due to alignment, smoothing, etc."
+TBSS,Automated analysis of diffusion tensor data,Overcoming the problem of alignment error or smoothing kernel selection reduces the occurrence of false positive results.,Arbitrary pixels between different data hardly correspond to the same fiber bundle
+PSMD,Evaluation of CSVD,Elimination of cerebrospinal fluid contamination improves capture sensitivityCalculations are fully automated,
+Structural Brain Network-based Analysis,Structural Brain Network-based Analysis,Structural Brain Network-based Analysis,Structural Brain Network-based Analysis
+Graph theory,Computing Brain Network Topological Properties of the Whole Brain,Showing whole-brain information changes induced by injury to different structures,Lack of normality in the selection of nodal brain regions

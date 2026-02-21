@@ -1,0 +1,10 @@
+Unnamed: 0,Name,Scanner,Protocol,b0 volumes,DWI volumes,Total volumes,Time (min),Total N
+ADNI3,GE36,GE,Basic Widebore 25x,4 b = 0 s/mm2,"32 b = 1,000 s/mm2",36,9:52,−
+,GE54,GE,Basic 25x,6 b = 0 s/mm2,"48 b = 1,000 s/mm2",54,7:09,65
+,P33,Philips,Basic Widebore,1 b = 0 s/mm2,"32 b = 1,000 s/mm2",33,7:32,24
+,P36,Philips,Basic Widebore R3,1 b = 0 s/mm2 3 b = 2 s/mm2,"32 b = 1,000 s/mm2",36,6:54,19
+,P54,Philips,Basic R5,1 b = 0 s/mm2 5 b = 2 s/mm2,"48 b = 1,000 s/mm2",54,8:05,−
+,S31,Siemens,Basic VB17,1 b = 0 s/mm2,"30 b = 1,000 s/mm2",31,7:02,36
+,S55,Siemens,Basic Skyra E11 and Prisma D13,7 b = 0 s/mm2,"48 b = 1,000 s/mm2",55,9:18,153
+,S127,Siemens,Advanced Prisma VE11C,13 b = 0 s/mm2,"48 b = 1,000 s/mm2",61,7:25*,20
+ADNI2,G46,GE,"Discovery MR750 and MR750w, Signa HDx and HDxt",5 b = 0 s/mm2,"41 b = 1,000 s/mm2",46,7:00–10:00,59

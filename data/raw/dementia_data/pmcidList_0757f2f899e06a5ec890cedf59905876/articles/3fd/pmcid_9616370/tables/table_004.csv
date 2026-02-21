@@ -1,0 +1,17 @@
+MR sequence,Acquired resolution mm3,Time min:s,Parameters
+Utrecht,Utrecht,Utrecht,Utrecht
+T1-weighted GE,1.0 × 1.0 × 1.0,05:39,FOV 256 × 232 × 192 mm3; TR 8 ms; TI 955 ms; shot interval 2500 ms; flip angle 7°
+T2-weighted TSE,0.7 × 0.7 × 0.7,07:37,FOV 250 × 250 × 190 mm3; TR 2500 ms; TE 298 ms
+T2*-weighted GE,0.8 × 0.8 × 0.8,02:22,FOV 230 × 192 × 144 mm3; TR 69 ms; TE 29 ms; flip angle 23°
+FLAIR,1.0 × 1.0 × 1.0,06:15,FOV 250 × 250 × 180 mm3; TR 5000 ms; TE 253 ms; TI 1700 ms
+Diffusion MRI,2.5 × 2.5 × 2.5,06:49,FOV 220 × 220 × 120 mm3; TR 8185 ms; TE 73 ms; b-values 0 and 1200 s/mm2; directions 45
+BOLD rs-fMRI,2.9 × 2.9 × 3.5,05:00,"FOV 200 × 235 × 146 mm3; TR 2500 ms; 3 echos at TE 9.1, 25.3, and 41.4 ms ???"
+Qflow,1.2 × 1.2 × 2.0,00:19,FOV 150 × 103 mm2; TR 14 ms; TE 3.7 ms; flip angle 25°; Venc 100 cm/s
+ASL,3.0 × 3.1 × 7.0,06:00,FOV 240 × 240 × 133 mm3; pCASL; label duration 1800 ms; postlabeling delay 1800 ms; 40 dynamics
+Munich,Munich,Munich,Munich
+T1-weighted GE,1.0 × 1.0 × 1.0,05:08,FOV 256 × 256 × 192 mm3; TR 2500 ms; TE 4.37 ms; TI 1100 ms; flip angle 7°
+T2-weighted TSE,0.9 × 0.9 × 0.9,03:42,FOV 263 × 350 × 350 mm3; TR 3200 ms; TE 408 ms
+T2*-weighted GE,0.9 × 0.9 × 2.0,05:56,FOV 230 × 160 × 187 mm3; TR 35 ms; TE 5–30 ms; flip angle 15°
+SWI,0.6 × 0.6 × 3.0,04:02,FOV 240 × 156 × 195 mm3; TR 28 ms; TE 20 ms; flip angle 9°
+FLAIR,1.0 × 1.0 × 1.0,06:27,FOV 250 × 250 × 176 mm3; TR 5000 ms; TE 398 ms; TI 1800 ms
+Diffusion MRI,2.0 × 2.0 × 2.0,07:47,"FOV 240 × 150 × 240 mm3; TR 3800 ms; TE 104.8 ms; b-values 0, 1000 and 2000 s/mm2; 90 diffusion directions (30 for b = 1000 s/mm2 and 60 for b = 2000 s/mm2)"

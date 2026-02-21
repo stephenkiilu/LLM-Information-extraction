@@ -1,0 +1,56 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,FSIQ,FSIQ.1,Unnamed: 5,Unnamed: 6
+Cognitive Assessment,Test,Age,VIQ,PIQ,Indexes,Tot.
+Cognitive Assessment,Test,Age,VIQ,PIQ,Indexes,Subtest
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),2.5 ≤ years < 4,• Information,• Block Design,-,5
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),2.5 ≤ years < 4,• Receptive Vocabulary,• Block Assembly,-,5
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),2.5 ≤ years < 4,• (Pictures naming),• Block Assembly,-,5
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),4 ≤ years < 7.5,• Information,• Block Design,• Processing Speed**,14
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),4 ≤ years < 7.5,• Vocabulary,• Matrix Reasoning,• Processing Speed**,14
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),4 ≤ years < 7.5,• Word Reasoning,• Picture Concepts,• Processing Speed**,14
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),4 ≤ years < 7.5,• (Comprehension),• (Picture completion),• Processing Speed**,14
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),4 ≤ years < 7.5,• (Similarities),• (Block Assembly),• Processing Speed**,14
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),4 ≤ years < 7.5,• Receptive Vocabulary,• Coding**,• Processing Speed**,14
+Cognitive Assessment,Wechsler Preschool and Primary Scale of Intelligence(WPPSI III),4 ≤ years < 7.5,• Pictures naming,• Symbol Search**,• Processing Speed**,14
+Cognitive Assessment,Wechsler Intelligence Scale for Children(WISC III),6 ≤ years < 17,• Information,• Picture Completion,• Freedom from Distractibility*,13
+Cognitive Assessment,Wechsler Intelligence Scale for Children(WISC III),6 ≤ years < 17,• Similarities,• Coding**,• Freedom from Distractibility*,13
+Cognitive Assessment,Wechsler Intelligence Scale for Children(WISC III),6 ≤ years < 17,• Arithmetic*,• Picture Arrangement,• Processing speed**,13
+Cognitive Assessment,Wechsler Intelligence Scale for Children(WISC III),6 ≤ years < 17,• Vocabulary,• Block Design,• Processing speed**,13
+Cognitive Assessment,Wechsler Intelligence Scale for Children(WISC III),6 ≤ years < 17,• Comprehension,• Object Assembly,• Processing speed**,13
+Cognitive Assessment,Wechsler Intelligence Scale for Children(WISC III),6 ≤ years < 17,• (Digit Span)*,• (Symbol search)**,• Processing speed**,13
+Cognitive Assessment,Wechsler Intelligence Scale for Children(WISC III),6 ≤ years < 17,• (Digit Span)*,• (Mazes),• Processing speed**,13
+Cognitive Assessment,Wechsler Adult Intelligence Scale(WAIS-R),≥17 years,• Information,• Block Design,-,11
+Cognitive Assessment,Wechsler Adult Intelligence Scale(WAIS-R),≥17 years,• Similarities,• Object Assembly,-,11
+Cognitive Assessment,Wechsler Adult Intelligence Scale(WAIS-R),≥17 years,• Vocabulary,• Picture Completion,-,11
+Cognitive Assessment,Wechsler Adult Intelligence Scale(WAIS-R),≥17 years,• Arithmetic,• Picture Arrangement,-,11
+Cognitive Assessment,Wechsler Adult Intelligence Scale(WAIS-R),≥17 years,• Digit Span,• Digit Symbol,-,11
+Cognitive Assessment,Wechsler Adult Intelligence Scale(WAIS-R),≥17 years,• Comprehension,• Digit Symbol,-,11
+Cognitive Assessment,,,General Quotient,General Quotient,General Quotient,
+Cognitive Assessment,Griffiths Mental Development Scales (GMDS),0-2 years,• Locomotor,• Locomotor,• Locomotor,5
+Cognitive Assessment,Griffiths Mental Development Scales (GMDS),0-2 years,• Personal-Social,• Personal-Social,• Personal-Social,5
+Cognitive Assessment,Griffiths Mental Development Scales (GMDS),0-2 years,• Hearing and Language,• Hearing and Language,• Hearing and Language,5
+Cognitive Assessment,Griffiths Mental Development Scales (GMDS),0-2 years,• Eye and Hand Co-ordination,• Eye and Hand Co-ordination,• Eye and Hand Co-ordination,5
+Cognitive Assessment,Griffiths Mental Development Scales (GMDS),0-2 years,• Performance,• Performance,• Performance,5
+Cognitive Assessment,,3-8 years,• Locomotor,• Locomotor,• Locomotor,6
+Cognitive Assessment,,3-8 years,• Personal-Social,• Personal-Social,• Personal-Social,6
+Cognitive Assessment,,3-8 years,• Language,• Language,• Language,6
+Cognitive Assessment,,3-8 years,• Eye and Hand Co-ordination,• Eye and Hand Co-ordination,• Eye and Hand Co-ordination,6
+Cognitive Assessment,,3-8 years,• Performance,• Performance,• Performance,6
+Cognitive Assessment,,3-8 years,• Practical Reasoning,• Practical Reasoning,• Practical Reasoning,6
+Neuropsychological Assessment,,Test,Test,Age,Index,N. of Index
+Neuropsychological Assessment,Memory,Rey Complex Figure,Rey Complex Figure,≥4 years,• Recall,1
+Neuropsychological Assessment,Attention,Conners Kiddie Continuous Performance Test (K-CPT),Conners Kiddie Continuous Performance Test (K-CPT),4 ≤ years < 7 years,• Reaction Times,3
+Neuropsychological Assessment,Attention,Conners Kiddie Continuous Performance Test (K-CPT),Conners Kiddie Continuous Performance Test (K-CPT),4 ≤ years < 7 years,• Omissions,3
+Neuropsychological Assessment,Attention,Continuous Performance Test (CPT),Continuous Performance Test (CPT),≥6 years,• Commissions,3
+Neuropsychological Assessment,Executive Functions,Modified Card Sorting Test (MCST),Modified Card Sorting Test (MCST),4 ≤ years ≤13 years,• Category,8
+Neuropsychological Assessment,Executive Functions,Modified Card Sorting Test (MCST),Modified Card Sorting Test (MCST),4 ≤ years ≤13 years,• Tot. Correct Answers,8
+Neuropsychological Assessment,Executive Functions,Wisconsin Card Sorting Test (WCST),Wisconsin Card Sorting Test (WCST),≥6 years,• Tot. Errors,8
+Neuropsychological Assessment,Executive Functions,Wisconsin Card Sorting Test (WCST),Wisconsin Card Sorting Test (WCST),≥6 years,• Ambiguous Answers,8
+Neuropsychological Assessment,Executive Functions,Wisconsin Card Sorting Test (WCST),Wisconsin Card Sorting Test (WCST),≥6 years,• Perseverative Answers,8
+Neuropsychological Assessment,Executive Functions,Wisconsin Card Sorting Test (WCST),Wisconsin Card Sorting Test (WCST),≥6 years,• Perseverative Errors,8
+Neuropsychological Assessment,Executive Functions,Wisconsin Card Sorting Test (WCST),Wisconsin Card Sorting Test (WCST),≥6 years,• Non-perseverative Errors,8
+Neuropsychological Assessment,Executive Functions,Wisconsin Card Sorting Test (WCST),Wisconsin Card Sorting Test (WCST),≥6 years,• Conceptual Answers,8
+Neuropsychological Assessment,Praxic Abilities,Perdue Pegboard (PP),Perdue Pegboard (PP),≥5 years,• Dominant Hand,4
+Neuropsychological Assessment,Praxic Abilities,Perdue Pegboard (PP),Perdue Pegboard (PP),≥5 years,• Non-dominant Hand,4
+Neuropsychological Assessment,Praxic Abilities,Perdue Pegboard (PP),Perdue Pegboard (PP),≥5 years,• Both-hands,4
+Neuropsychological Assessment,Praxic Abilities,Perdue Pegboard (PP),Perdue Pegboard (PP),≥5 years,• Assembly,4
+Neuropsychological Assessment,Praxic Abilities,Rey Complex Figure,Rey Complex Figure,≥4 years,• Copy,1

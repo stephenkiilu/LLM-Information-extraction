@@ -1,0 +1,11 @@
+Seed region,Target region,#voxels,#samples,Figure
+"Hippocampus, Left (Lh)","Amygdala, Left (Lamy)","13,141",39,3A
+"Hippocampus, Right (Rh)","Amygdala, Right (Ramy)","9,472",7,3A
+"Hippocampus, Left (Lh)","Caudate Nucleus, Left (Lcau)",294,0,3B
+"Hippocampus, Right (Rh)","Caudate Nucleus, Right (Rcau)",572,2,3B
+"Hippocampus, Left (Lh)","Globus Pallidus, Left (Lpal)",238,1,3C
+"Hippocampus, Right (Rh)","Globus Pallidus, Right (Rpal)","1,811",1,3C
+"Hippocampus, Left (Lh)","Putamen, Left (Lput)","2,944",10,4A
+"Hippocampus, Right (Rh)","Putamen, Right (Rput)","6,405",8,4A
+"Hippocampus, Left (Lh)","Thalamus, Left (Ltha)","13,884",44,4B
+"Hippocampus, Right (Rh)","Thalamus, Right (Rtha)","24,309",50,4B

@@ -1,0 +1,11 @@
+Variables,AD,SIVD,NC,p-value,p-value,p-value
+Unnamed: 0_level_1,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1,AD vs. NC,SIVD vs. NC,AD vs. SIVD
+Gender (female/male),17/14,9/10,11/6,NS,NS,NS
+Age (years),72.19 ± 8.90,79.10 ± 7.07,68.06 ± 8.33,NS,<0.001,0.004
+Education (years),9.03 ± 6.11,10.37 ± 5.16,10.53 ± 3.39,NS,NS,NS
+MMSE,20.29 ± 6.61,19.05 ± 5.61,27.47 ± 2.98,<0.001,<0.001,NS
+MoCA,15.13 ± 6.31,13.89 ± 5.67,25.64 ± 3.37,<0.001,<0.001,NS
+AVLT-IR,22.90 ± 11.37,14.26 ± 8.11,42.17 ± 12.14,<0.001,<0.001,NS
+AVLT-DR,2.58 ± 3.16,0.368 ± 0.89,8.94 ± 4.31,<0.001,<0.001,NS
+Stroop test 1 (s),35.07 ± 11.23,49.74 ± 29.29,23.48 ± 6.53,NS,<0.001,0.008
+Stroop test 2,0.81 ± 1.53,1.84 ± 2.36,0.24 ± 0.66,NS,<0.003,0.01

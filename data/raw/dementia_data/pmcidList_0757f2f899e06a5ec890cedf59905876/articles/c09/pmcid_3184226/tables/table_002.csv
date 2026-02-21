@@ -1,0 +1,25 @@
+Unnamed: 0_level_0,Talairach coordinate,Talairach coordinate,Talairach coordinate,Cluster,T,Z,Region,BA ROI#
+Unnamed: 0_level_1,X,Y,Z,Cluster,T,Z,Region,BA ROI#
+gm,−32,−24,−22,289,5.18,4.94,"L. limbic parahippocampal gyrus, WM",ROI2
+gm,−26,−8,−28,289,4.32,4.18,"L. limbic uncus, GM, amygdala",
+gm,−30,0,−20,289,4.29,4.15,"L. temporal subgyrus, WM",
+gm,50,−2,−22,157,4.99,4.78,"R. temporal subgyrus, WM",
+gm,40,−74,28,530,4.9,4.7,"R. middle temporal gyrus, WM",ROI3
+gm,56,−64,8,530,4.69,4.51,"R. middle temporal gyrus, WM",
+gm,32,−66,34,530,4.59,4.42,"R. temporal subgyrus, WM",
+Neg,−32,−24,−22,415,5.47,5.19,"L. limbic parahippocampal gyrus, WM",ROI2
+Neg,−26,−8,−30,415,4.9,4.69,"L. limbic parahippocampal gyrus, WM",
+Neg,−30,0,−20,415,4.22,4.09,"L. temporal subgyrus, WM",
+Neg,50,−2,−22,294,5.09,4.86,"R. temporal subgyrus, WM",
+Neg,40,−74,28,622,4.85,4.65,"R. middle temporal gyrus, WM",ROI3
+Neg,34,−66,34,622,4.7,4.52,"R. temporal subgyrus, WM",
+Neg,48,−18,−4,294,4.4,4.24,"R. sublobar insula, GM",13
+Neg,46,−60,2,622,4.47,4.31,"R. temporal subgyrus, WM",
+Pos,−32,−26,−22,409,4.87,4.67,"L. limbic parahippocampal gyrus, WM",ROI2
+Pos,−28,−2,−20,409,4.45,4.29,"L. limbic parahippocampal gyrus, WM",
+Pos,42,−74,28,"1,010",5.22,4.95,"R. middle temporal gyrus, WM",ROI3
+Pos,54,−64,8,"1,010",5.28,5.03,"R. middle temporal gyrus, WM",
+Pos,30,−66,34,"1,010",4.81,4.62,"R. occipital subgyrus, WM",
+Pos,26,−84,16,485,5.12,4.89,"R. occipital cuneus, WM",ROI4
+Pos,30,−94,4,485,4.73,4.55,"R. occipital subgyrus, WM",
+Pos,38,−94,−2,485,4.39,4.24,"R. inferior occipital gyrus, WM",

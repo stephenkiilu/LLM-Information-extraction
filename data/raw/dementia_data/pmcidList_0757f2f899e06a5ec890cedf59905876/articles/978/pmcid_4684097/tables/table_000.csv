@@ -1,0 +1,12 @@
+Unnamed: 0,Premanifest-HD,Early-HD,Statistic,P-Value
+"Age (mean, sd)",42.5 (7.9),49.4 (10.1),t(81.3) = 3.55,<0.001
+"Sex (female, %)",20 (51%),29 (64%),X (1) = 1.489,0.222
+Education (median),4,4,FET = 3.947,1
+Site (no.) London,16,18,X (2) = 0.013,0.994
+Paris,16,19,,
+Leiden,7,8,,
+"CAG Repeat (mean, range)",42.85 (39–48),43.33 (39–49),t(82) = 0.667,0.507
+"CPO (mean, sd)",0.229 (0.15),0.539 (0.23),t(82) = 7.137,<0.001
+"HADS depression (mean, sd)",2.97 (3.58),4.71 (4.39),t(82) = 1.97,0.053
+"PBA Irritability and Aggression (mean, sd)",2.23 (3),4.38 (5.2),t(72) = 2.356,0.021
+"PBA Apathy (mean, sd)",2.45 (4.08),5.53 (5.66),t(76.1) = 2.84,0.006

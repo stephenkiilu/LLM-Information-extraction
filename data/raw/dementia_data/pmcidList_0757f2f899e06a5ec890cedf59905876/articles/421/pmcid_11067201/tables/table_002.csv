@@ -1,0 +1,6 @@
+Characteristics,Training cohort,Training cohort,Training cohort,Training cohort,Test cohort,Test cohort,Test cohort,Test cohort
+Characteristics,AUC,Sensitivity,Specificity,Pvalue,AUC,Sensitivity,Specificity,P value
+Multimodal combinatorial model,0.924,0.864,0.871,,0.919,0.9,0.815,
+White Marker,0.883,0.782,0.903,0.258a,0.859,0.7,0.852,0.306a
+ADAS,0.76,0.682,0.774,0.002b*,0.757,0.5,0.963,0.046b*
+APOE4,0.552,0.636,0.468,p<0.001c*,0.696,0.8,0.593,0.024c*

@@ -1,0 +1,13 @@
+Model #,Outcome,Predictors,Estimated effect size,SE,P value
+# 1,Baseline WMH,Age,0.053,0.002,<0.001
+,,Male,−0.183,0.033,<0.001
+,,HTN,0.172,0.037,<0.001
+# 2,WMH progression,Age,0.060,0.003,<0.001
+,,Male,−0.207,0.049,<0.001
+,,HTN,0.194,0.053,<0.001
+# 3,Baseline Genu-FA,Age,−0.002,0.0001,<0.001
+,,Male,0.012,0.0022,<0.001
+,,HTN,−0.010,0.0024,<0.001
+# 4,Genu-FA progression,Age,−0.002,0.0002,<0.001
+,,Male,0.013,0.0034,0.001
+,,HTN,−0.011,0.0036,0.003

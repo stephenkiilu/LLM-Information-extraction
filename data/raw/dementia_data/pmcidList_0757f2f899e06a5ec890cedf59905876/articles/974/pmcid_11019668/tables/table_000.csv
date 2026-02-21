@@ -1,0 +1,14 @@
+Unnamed: 0,PCA (N = 30),DLB (N = 24),P-value PCA vs DLB,CU (N = 30)
+,,,,
+"Female, n (%)",18 (60 %o),4 (18 %),0.003,11 (37 %)
+"Education, yr","16 (13, 17)","16 (13, 18)",0.849,"16 (13, 17)"
+"Age at onset, yr","62 (56, 66)","65 (59, 70)",0.134,
+"Age at scan, yr","66 (61, 71)","69 (66, 75)",0.201,"69 (65, 72)"
+"Disease duration, yr","3 (3, 5)","6 (4, 7)",0.008,
+MoCA,"18 (12, 20)","19 (17, 22)",0.550,"24 (23, 27)"
+CDR-sum of boxes,"3.0 (2, 6)","4 (3, 6)",0.088,"0 (0,0)"
+AVLT-RPC,"80 (73, 83)","67 (61, 83)",0.113,"92 (87, 99)"
+Ratio with parkinsonism (% present),7:21 (25),21:1 (96),<0.001,
+Ratio with hallucinations (% present),4:13 (24),10:12 (46),0.157,
+Ratio with RBD (% present),1:4 (20),20:2 (91),<0.001,
+Framewise displacement on fMRI,"0.14 (0.11, 0.18)","0.17 (0.09, 0.27)",0.352,"0.17 (0.10, 0.24)"

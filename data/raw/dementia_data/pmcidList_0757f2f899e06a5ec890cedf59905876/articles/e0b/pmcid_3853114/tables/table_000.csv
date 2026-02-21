@@ -1,0 +1,18 @@
+Unnamed: 0_level_0,NC(n = 15),aMCI(n = 12),AD(n = 14),χ2/F-test,p-Value
+Unnamed: 0_level_1,n (%),n (%),n (%),χ2/F-test,p-Value
+Demographics,Demographics,Demographics,Demographics,Demographics,Demographics
+"Age (yrs, mean ± SD)",77.54 ± 4.01,79.05 ± 7.23,78.30 ± 9.55,0.15,0.87
+Female,10 (66),6 (50),8 (57),0.78,0.68
+"Education (yrs, mean ± SD)",16.14 ± 2.51,15.08 ± 3.66,15.14 ± 2.83,0.54,0.59
+Right handed,13 (87),11 (92),13 (93),1.94,0.75
+White race,14 (93),10 (83),12 (86),4.46,0.62
+,,,,,
+Medical history,Medical history,Medical history,Medical history,Medical history,Medical history
+Hypertension,8 (53),8 (67),4 (29),3.95,0.14
+Hypercholesterolemia,12 (80),9 (75),6 (43),3.09,0.21
+Diabetes,2 (13),1 (8),1 (7),0.35,0.84
+Thyroid disease,3 (20),2 (17),1 (7),1.01,0.60
+Cardiac arrest,2 (13),3 (25),1 (7),2.01,0.37
+Cardiac bypass,1 (7),1 (8),0 (0),1.13,0.57
+Stroke or TIA,1 (7),1 (8),1 (7),0.03,0.99
+Depression within the past two years,4 (27),1 (8),4 (29),1.85,0.40

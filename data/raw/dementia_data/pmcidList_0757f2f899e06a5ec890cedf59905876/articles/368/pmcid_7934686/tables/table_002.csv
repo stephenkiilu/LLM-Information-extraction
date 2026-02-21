@@ -1,0 +1,31 @@
+Unnamed: 0,ANCOVA,AD vs. HC,AD vs. HC.1,AD vs. MCI
+JHU WM Tractography,Volume %,AD < HC Volume %,AD > HC Volume %,AD < MCI Volume %
+ATR,0.67,1.43,–,0.23
+Right CST,–,–,0.34,0.68
+CCG,0.89,11.11,–,0.97
+Cingulum Hippo,–,5.13,–,3.30
+Forceps Major,1.57,14.05,–,8.27
+Forceps Minor,1.05,7.13,–,1.52
+Left IFOF,–,5.51,–,2.14
+Right IFOF,0.36,6.74,–,2.49
+ILF,0.14,6.11,–,2.67
+UF,0.86,7.74,–,3.40
+ICBM-DTI-81 WM,Volume %,AD < HC Volume %,AD > HC Volume %,AD < MCI Volume %
+Genu of CC,6.05,42.04,–,10.52
+Body of CC,9.59,44.06,–,2.30
+Splenium of CC,3.60,25.97,–,2.27
+Fornix,87.38,89.05,–,83.11
+Right posterior limb of IC,,–,1.77,–
+Left retrolenticular IC,–,4.71,–,–
+Right ACR,–,5.15,–,0.74
+Right ACR,0.39,3.85,–,7.49
+Left ACR,0.68,4.04,–,–
+Right PCR,–,7.76,–,–
+Left PCR,–,7.48,–,1.95
+PTR,–,14.70,–,7.57
+SS,0.34,4.48,–,–
+Right EC,0.77,2.82,–,0.62
+Left EC,–,5.29,–,–
+Fornix (cres)/Stria terminalis,8.34,17.78,–,7.03
+Right tapetum,–,24.75,–,4.11
+Left tapetum,1.22,8.90,–,2.56

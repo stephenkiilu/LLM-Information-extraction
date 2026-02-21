@@ -1,0 +1,28 @@
+Number of Infarcts,N
+1 infarct,16.0
+2 infarcts,5.0
+4 infarcts,1.0
+Infarct size,
+Small (3–10 mm),17.0
+Large (>10 mm),13.0
+Infarct severity,
+Cystic,22.0
+Not cystic,8.0
+Vascular territory affected,
+Middle cerebral artery,15.0
+Anterior cerebral artery,2.0
+Posterior cerebral artery,3.0
+Basilar artery,6.0
+Posterior inferior cerebellar artery,4.0
+Hemisphere affected,
+Right,18.0
+Left,12.0
+Infarct location,
+Frontal gray matter,6.0
+Frontal white matter,7.0
+Parietal gray matter,4.0
+Parietal white matter,4.0
+Temporal white matter,1.0
+Subcortical gray matter???,13.0
+Corpus callosum or internal capsule,4.0
+Other???,11.0

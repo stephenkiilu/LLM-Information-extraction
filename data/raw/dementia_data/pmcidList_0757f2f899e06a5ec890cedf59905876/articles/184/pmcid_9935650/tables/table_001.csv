@@ -1,0 +1,4 @@
+Parameter,Good outcome,Poor outcome,p value,Effect size
+Mean diffusivity*,726 [702–740],663 [575–736],0.01,1.06 (0.44–1.67)
+Fractional anisotropy,0.30 ± 0.03,0.28 ± 0.03,0.03,0.65 (0.06-1.24)
+%MD450 (%),3.4 [1.8–6.4],18.0 [5.8–32.8],< 0.01,1.31 (0.67–1.95)

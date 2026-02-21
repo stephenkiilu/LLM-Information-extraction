@@ -1,0 +1,19 @@
+ROI (FA values)???,Volume???,Volume???,Volume???,Volume???
+Unnamed: 0_level_1,White Matter,White Matter,Gray Matter,Gray Matter
+Unnamed: 0_level_2,MCI,AD,MCI,AD
+Anterior thalamic radiation (L),0.566**,−0.001,−0.628**,0.288
+Anterior thalamic radiation (R),0.726**,0.002,−0.525*,0.256
+Cingulate Gyrus (L),0.653**,0.239,−0.448,0.207
+Cingulate Gyrus (R),0.635**,0.119,−0.439,0.153
+Cingulum hippocampus (R),−0.422,,,
+Cingulum hippocampus (L),0.170,,0.546*,
+Forceps Minor,0.734**,0.142,−0.567*,0.283
+IFOF(L),0.506*,−0.053,−0.483*,0.328
+IFOF(R),0.724**,−0.011,−0.596**,0.213
+ILF(L),−0.134,,0.116,
+SLF (L),0.124,0.022,−0.272,0.25
+SLF(R),0.505*,−0.054,−0.300,0.047
+SLFtemporal part (L),0.419,−0.111,−0.541*,0.281
+SLFtemporal part (R),0.478*,−0.034,−0.237,0.033
+Uncinate Fasciculus (L),0.509*,−0.074,−0.505*,0.321
+Uncinate Fasciculus (R),0.692**,−0.003,−0.696**,0.218

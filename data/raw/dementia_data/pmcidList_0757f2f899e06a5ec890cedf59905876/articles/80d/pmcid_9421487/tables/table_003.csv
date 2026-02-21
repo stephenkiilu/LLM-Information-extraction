@@ -1,0 +1,8 @@
+Unnamed: 0_level_0,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,TMT-B,TMT-B,TMT-B,TMT-B
+Unnamed: 0_level_1,PRESERVE,PRESERVE,PRESERVE,PRESERVE,ASPS-Fam,ASPS-Fam,ASPS-Fam,ASPS-Fam,CADASIL,CADASIL,CADASIL,CADASIL
+BaselineMarkers,β(95 % CI),P-Value,Adjusted R2,AIC,β(95 % CI),P-Value,Adjusted R2,AIC,β(95 % CI),P-Value,Adjusted R2,AIC
+MD median,"−0.39(-0.57, −0.22)",<0.001,0.389,242.69,"−0.14(-0.24, −0.04)",0.01,0.516,488.48,"−0.50(-0.82, −0.18)",<0.001,0.227,133.15
+PC1,"0.37(0.20, −0.54)",<0.001,0.375,245.01,"−0.04(-0.14, 0.06)",0.38,0.503,494.77,"0.50(0.15, 0.85)",0.01,0.206,134.5
+PSMD,"−0.41(-0.57, −0.24)",<0.001,0.409,239.53,"−0.03(-0.13, 0.08)",0.64,0.501,495.32,"−0.70(-1.01, -0.39)",<0.001,0.357,124.11
+DSEG θ,"−0.19(-0.37, −0.01)",0.04,0.282,258.78,"−0.14(-0.23, -0.05)",<0.001,0.521,486.35,"−0.50(-0.80, -0.20)",<0.001,0.251,131.65
+Geff,"−0.19(-0.37, −0.01)",0.04,0.281,258.84,"0.18(0.09, 0.28)",<0.001,0.53,482.02,"0.45(0.09, 0.82)",0.02,0.243,136.43

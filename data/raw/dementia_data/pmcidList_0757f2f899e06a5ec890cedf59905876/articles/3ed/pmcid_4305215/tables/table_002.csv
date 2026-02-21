@@ -1,0 +1,32 @@
+Regions of Interest,"Controls, n = 18","Controls, n = 18","bvFTD, n = 19","bvFTD, n = 19",% Difference,95% Confidence Interval,95% Confidence Interval,p???
+Unnamed: 0_level_1,Mean,SD,Mean,SD,Unnamed: 5_level_1,Unnamed: 6_level_1,Unnamed: 7_level_1,Unnamed: 8_level_1
+FA,,,,,,,,
+Genu corpus callosum,0.74,0.03,0.73,0.04,0.34,−2.64,3.31,0.8
+Body corpus callosum,0.7,0.04,0.66,0.04,−4.87,−8.68,−1.07,0.01
+Splenium corpus callosum,0.79,0.02,0.78,0.02,−1.27,−3.15,0.61,0.2
+Cingulum (paracallosal) R,0.63,0.05,0.58,0.06,−4.26,−9.25,0.73,0.09
+Cingulum (paracallosal) L,0.6,0.04,0.55,0.07,−2.25,−7.08,2.59,0.4
+Cingulum (parahippocampal) R,0.43,0.04,0.38,0.04,−5.77,−9.59,−1.96,0.004
+Cingulum (parahippocampal) L,0.45,0.04,0.4,0.04,−5.26,−9.19,−1.33,0.01
+Fornix,0.59,0.03,0.57,0.04,−1.91,−4.21,0.40,0.1
+Uncinate fasciculus R,0.48,0.05,0.43,0.04,−4.65,−8.62,−0.67,0.02
+Uncinate fasciculus L,0.48,0.04,0.43,0.07,−6.24,−11.32,−1.16,0.02
+Corticospinal tract R,0.62,0.05,0.62,0.07,−1.45,−7.15,4.25,0.6
+Corticospinal tract L,0.65,0.04,0.64,0.05,−2.15,−6.12,1.81,0.3
+SCP R,0.79,0.05,0.78,0.06,−2.24,−7.21,2.72,0.4
+SCP L,0.79,0.04,0.77,0.05,−2.88,−7.19,1.42,0.2
+"MD, 10−3mm2/s",,,,,,,,
+Genu corpus callosum,0.76,0.04,0.8,0.08,0.29,−4.81,5.40,0.9
+Body corpus callosum,0.8,0.06,0.88,0.08,8.66,2.55,14.76,0.01
+Splenium corpus callosum,0.74,0.03,0.77,0.05,3.80,−0.12,7.72,0.06
+Cingulum (paracallosal) R,0.72,0.04,0.72,0.05,1.64,−2.48,5.76,0.4
+Cingulum (paracallosal) L,0.71,0.04,0.73,0.05,0.47,−3.49,4.43,0.8
+Cingulum (parahippocampal) R,0.74,0.03,0.85,0.12,9.32,1.49,17.15,0.02
+Cingulum (parahippocampal) L,0.73,0.04,0.83,0.11,10.63,3.09,18.17,0.007
+Fornix,0.84,0.06,0.91,0.1,5.44,−0.09,10.97,0.05
+Uncinate fasciculus R,0.7,0.04,0.83,0.13,13.50,4.81,22.19,0.003
+Uncinate fasciculus L,0.71,0.03,0.85,0.18,14.87,2.65,27.10,0.02
+Corticospinal tract R,0.66,0.06,0.67,0.09,1.84,−5.28,8.96,0.6
+Corticospinal tract L,0.62,0.05,0.62,0.09,2.45,−4.32,9.22,0.5
+SCP R,0.85,0.07,0.87,0.09,5.41,−1.96,12.78,0.1
+SCP L,0.78,0.07,0.8,0.07,4.22,−2.29,10.72,0.2

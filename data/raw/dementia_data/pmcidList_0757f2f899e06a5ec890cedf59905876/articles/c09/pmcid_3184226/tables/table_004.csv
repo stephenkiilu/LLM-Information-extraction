@@ -1,0 +1,9 @@
+Unnamed: 0_level_0,Talairach coordinate,Talairach coordinate,Talairach coordinate,Cluster,T,Z,Region,BA ROI#
+Unnamed: 0_level_1,X,Y,Z,Cluster,T,Z,Region,BA ROI#
+gm,No significant difference,No significant difference,No significant difference,No significant difference,No significant difference,No significant difference,No significant difference,No significant difference
+Neg,No significant difference,No significant difference,No significant difference,No significant difference,No significant difference,No significant difference,No significant difference,No significant difference
+Pos,−48,42,−4,"2,986",6.49,6.05,"L. inferior frontal gyrus, WM",
+,−56,22,8,"2,986",5.78,5.46,L. inferior frontal gyrus,
+,−36,56,16,357,4.81,4.62,"L. superior frontal gyrus, GM",10
+,−24,56,4,357,4.39,4.24,"L. superior frontal gyrus, WM",ROI9
+,−28,54,24,357,4.29,4.15,"L. superior frontal gyrus, WM",ROI10

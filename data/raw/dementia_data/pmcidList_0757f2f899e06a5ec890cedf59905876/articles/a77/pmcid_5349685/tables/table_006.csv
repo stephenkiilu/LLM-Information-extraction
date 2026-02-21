@@ -1,0 +1,15 @@
+Biomarker,"MNI Coordinats (x,y,z)",Peak T value,k (mm3),Region
+tTau / Aβ42,"(-50, -21, -19)",5.39,3913,L parietal operculum
+tTau / Aβ42,"(24, 25, -13)",5.2,497,R posterior orbital gyrus white matter
+tTau / Aβ42,"(36, 2, -33)",5.26,381,R inferior temporal gyrus white matter
+tTau / Aβ42,"(54, -24, -16)",4.75,353,R middle temporal gyrus white matter
+tTau / Aβ42,"(37, -7, -5)",5.45,130,R insular gyrus
+tTau / Aβ42,"(35, 1, 19)",4.7,100,R precentral gyrus white matter
+pTau181 / Aβ42,"(-53, -33, -15)",6.36,5640,L inferior temporal gyrus white matter
+pTau181 / Aβ42,"(36, 1, -33)",5.8,491,R inferior temporal gyrus white matter
+pTau181 / Aβ42,"(28, 14, -8)",5.24,467,R inferior fronto-occipital fasciculus
+pTau181 / Aβ42,"(36, 3, 18)",5.5,351,R precentral gyrus white matter
+pTau181 / Aβ42,"(35, -6, 23)",5.13,255,R precentral gyrus white matter
+pTau181 / Aβ42,"(52, -21, -23)",5.04,194,R inferior temporal gyrus white matter
+sAPPβ / Aβ42,"(-53, -33, -15)",6.15,5342,L middle temporal gyrus white matter
+sAPPβ / Aβ42,"(51, -21, -23)",5.22,96,R inferior temporal gyrus white matter

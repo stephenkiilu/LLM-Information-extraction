@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "title": "Application of Diffusion Tensor Imaging Based on Automatic Fiber Quantification in Alzheimers Disease",
+    "authors": [
+      "Bo Yu",
+      "Zhongxiang Ding",
+      "Luoyu Wang",
+      "Qi Feng",
+      "Yifeng Fan",
+      "Xiufang Xu",
+      "Zhengluan Liao"
+    ],
+    "abstract": "Background: Neuroimaging suggests that white matter microstructure is severely affected in Alzheimers disease (AD) progression. However, whether alterations in white matter microstructure are confined to specific regions and whether they can be used as potential biomarkers to distinguish normal control (NC) from AD are unknown. Methods: In this cross-sectional study, 33 cases of AD and 25 cases of NC were recruited for automatic fiber quantification (AFQ). A total of 20 fiber bundles were equally divided into 100 segments for quantitative assessment of fractional anisotropy (FA), mean diffusivity (MD), volume and curvature. In order to further evaluate the diagnostic value, the maximum redundancy minimum (mRMR) and LASSO algorithms were used to select features, calculate the Radscore of each subject, establish logistic regression models, and draw ROC curves, respectively, to assess the predictive power of four different models. Results: There was a significant increase in the MD values in AD patients compared with healthy subjects. The differences were mainly located in the left cingulum hippocampus (HCC), left uncinate fasciculus (UF) and superior longitudinal fasciculus (SLF). The point-wise level of 20 fiber bundles was used as a classification feature, and the MD index exhibited the best performance to distinguish NC from AD. Conclusion: These findings contribute to the understanding of the pathogenesis of AD and suggest that abnormal white matter based on DTI-based AFQ analysis is helpful to explore the pathogenesis of AD.",
+    "publication_date": ""
+  },
+  "content": {}
+}

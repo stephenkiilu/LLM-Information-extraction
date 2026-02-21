@@ -1,0 +1,22 @@
+#,ROI,Name#fibers
+1,L-ATR,left anterior thalamic radiation268
+2,R-ATR,right anterior thalamic radiation289
+3,CC-FNR,"corpus callosum, frontal852"
+4,CC-OCC,"corpus callosum, occipital335"
+5,CC-PAR,"corpus callosum, parietal255"
+6,CC-POCG,"corpus callosum, post-central gyrus114"
+7,CC-PRCG,"corpus callosum, pre-central gyrus143"
+8,CC-TEM,"corpus callosum, temporal178"
+9,L-CGC,left cingulum365
+10,R-CGC,right cingulum326
+11,L-CST,left corticospinal tract195
+12,R-CST,right corticospinal tract274
+13,L-IFO,left inferior fronto-occipital fasciculus377
+14,R-IFO,right inferior fronto-occipital fasciculus309
+15,L-ILF,left inferior longitudinal fasciculus353
+16,R-ILF,right inferior longitudinal fasciculus340
+17,L-PHC,left parahippocampal cingulum101
+18,R-PHC,right parahippocampal cingulum155
+19,L-SLF,left superior longitudinal fasciculus297
+20,L-UNC,left uncinate fasciculus183
+21,R-UNC,right uncinate fasciculus150

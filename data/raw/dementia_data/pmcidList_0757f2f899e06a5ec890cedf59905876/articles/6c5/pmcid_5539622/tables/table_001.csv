@@ -1,0 +1,19 @@
+Unnamed: 0,LMI,LMD,CVLT-SFR,CVLT-LFR,CERAD-DR
+RSI,RSI,RSI,RSI,RSI,RSI
+Fornix ND,0.30,0.35,0.38,0.42*,0.55**
+Parahippocampal cingulum ND,0.15,0.13,0.14,0.15,0.32
+Uncinate ND,0.10,0.06,0.37,0.41*,0.43*
+ILF ND,0.07,0.21,0.34,0.37,0.43*
+IFOF ND,0.22,0.37,0.43*,0.45*,0.61**
+Arcuate ND,0.14,0.35,0.44*,0.43*,0.51**
+Entorhinal IF,–0.39*,–0.50**,–0.43*,–0.57**,–0.64**
+Hippocampus IF,–0.39*,–0.30,–0.38,–0.38,–0.47*
+DTI,DTI,DTI,DTI,DTI,DTI
+Fornix FA,0.39*,0.28,0.31,0.36,0.51**
+Parahippocampal Cingulum FA,0.19,0.10,0.04,0.04,0.29
+Uncinate FA,0.06,0.15,0.48*,0.50**,0.51**
+ILF FA,0.14,0.26,0.27,0.29,0.39
+IFOF FA,0.39,0.40*,0.38,0.41*,0.60**
+Arcuate FA,0.22,0.23,0.30,0.29,0.34
+Entorhinal MD,–0.29,–0.41*,–0.35,–0.46*,–0.55**
+Hippocampus MD,–0.23*,–0.27,–0.42*,–0.43*,–0.49**

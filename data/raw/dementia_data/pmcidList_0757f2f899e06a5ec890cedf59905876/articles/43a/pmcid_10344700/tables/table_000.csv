@@ -1,0 +1,30 @@
+Covariates,All (n = 252)
+"Age (mean,sd)",71.1 (7.6)
+"Gender (n,%)",
+Male,118 (46.8)
+Female,134 (53.2)
+"Race (n,%)",
+Chinese,220 (87.3)
+Others,32 (12.7)
+"Total years of education (mean,sd)",8.4 (5.0)
+"History of hypertension (n,%)",167 (66.3)
+"History of hyperlipidemia (n,%)",191 (75.8)
+"History of diabetes (n,%)",73 (29.0)
+"Smoking history (n,%)",
+Non-smoker,191 (75.8)
+Current or former smoker,61 (24.2)
+"Baseline Diagnosis (n,%)",
+NCI,92 (36.5)
+CIND,109 (43.3)
+VCIND,51 (20.2)
+"White matter hyperintensities (n,%)",
+None-to-mild,134 (53.2)
+Moderate-to-severe,118 (46.8)
+"Number of lacunes present (mean,sd)",0.4 (1.1)
+"Number of cerebral microbleeds present (mean,sd)",1.7 (6.6)
+"DTI measures (mean,sd)",
+"MD median, x10−3 (mm²s− 1)",0.87 (0.06)
+"MD peak height, x10−2",1.20 (0.22)
+FA median (mm²s− 1),0.19 (0.02)
+"FA peak height, x10−2",0.52 (0.07)
+"Total brain volume, ml (mean,sd)",902.5 (98.5)

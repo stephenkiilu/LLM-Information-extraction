@@ -1,0 +1,8 @@
+Unnamed: 0,A- CN,A + CN,A + MCI
+Coefficients,Coefficients,Coefficients,Coefficients
+Age × time,0.02,0.00,− 0.03*
+Female sex × time,0.07**,0.03,0.02
+Education × time,0.02,0.02,0.04*
+WMH × time,0.01,0.00,0.01
+Cortical SUVR × time,0.02,0.06*,0.09***
+Adjusted NAWM SUVR × time,0.00,− 0.04*,− 0.07***

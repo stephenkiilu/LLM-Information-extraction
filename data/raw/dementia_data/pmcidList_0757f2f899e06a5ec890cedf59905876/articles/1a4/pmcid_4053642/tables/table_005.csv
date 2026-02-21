@@ -1,0 +1,11 @@
+DTI metric,Group comparison,Region,T-statistic,p(FWE)???,p(uncorr)???
+FA,Aβ + > Aβ −,Medial cingulum (R),4.8,0.003,0.0
+FA,Aβ + > Aβ −,Fornix (L),4.16,0.03,0.0
+FA,Aβ + > Aβ −,Posterior cingulum (R),4.1,0.036,0.0
+FA,Aβ + > Aβ −,Fornix (R),3.81,0.092,0.0
+FA,Aβ + > Aβ −,Hippocampal cingulum (L),3.69,0.131,0.0
+FA,Aβ + > Aβ −,Medial cingulum (L),3.65,0.144,0.0
+FA,Aβ + > Aβ −,Posterior cingulum (L),3.55,0.193,0.0
+FA,Aβi > Aβ −,Medial cingulum (R),4.56,0.007,0.0
+FA,Aβi > Aβ −,Posterior cingulum (R),4.45,0.011,0.0
+FA,Aβi > Aβ −,Medial cingulum (L),3.62,0.158,0.0

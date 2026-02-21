@@ -1,0 +1,10 @@
+Variable,Univariate logistic regression,Univariate logistic regression,Multivariate logistic regression,Multivariate logistic regression
+Variable,OR (95%CI),P value,OR (95%CI),P value
+Gender,"1.258 (0.555, 2854)",0.583,,
+APOE4,"3.512 (1.425, 8.658)",0.006,"4.421 (1.240,15.765)",0.022
+Age (year),"1.060 (0.999, 1.125)",0.054,,
+MMSE,"0.666 (0.516, 0.859)",0.002,,
+CDRS,"2.619 (1.513, 4.532)",0.001,,
+ADAS,"1.276 (1.142, 1.426)",0.0,"1.157 (1.017,1.317)",0.026
+Education (years),"1.030 (0.885, 1.199)",0.701,,
+White Marker,"2.443 (1.715, 3.480)",0.0,"303.471 (28.942, 3182.065)",0.0

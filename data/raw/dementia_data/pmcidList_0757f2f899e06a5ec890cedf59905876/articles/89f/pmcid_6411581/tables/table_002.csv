@@ -1,0 +1,11 @@
+ROI 1 (IIT index),ROI 2 (IIT index),p-Value (1e-4) (WaCSMD),Correlation (simple MD)
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_S_intrapariet_and_P_tran (12157),0.0053,0.318
+ctx_rh_G_and_S_frontomargin (12101),ctx_lh_G_and_S_transv_frontopol (11105),0.0068,0.0884
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_G_front_middle (12115),0.0099,0.2637
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_G_insular_short (12118),0.0145,0.0986
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_G_pariet_inf-Angular (12125),0.0236,0.2277
+Right-Hippocampus (53),ctx_rh_G_and_S_frontomargin (12101),0.0481,0.3131
+Right-Caudate (50),ctx_rh_G_and_S_frontomargin (12101),0.0519,0.3535
+Right-Hippocampus (53),ctx_lh_G_parietal_sup (11127),0.1462,0.2751
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_S_precentral-sup-part (12170),0.1564,0.246
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_G_and_S_paracentral (12103),0.1597,0.1183

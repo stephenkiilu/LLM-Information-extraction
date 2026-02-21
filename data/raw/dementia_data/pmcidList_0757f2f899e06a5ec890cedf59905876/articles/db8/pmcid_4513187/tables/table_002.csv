@@ -1,0 +1,28 @@
+Contrast,Cluster no.,Voxels,x,y,z,p-Value,White matter tract/region
+Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity,Increased axial diffusivity
+All patients,1,"10,986",33,2,−7,0.005,Right uncinate fasciculus
+bvFTD only,1,"23,527",11,10,0,0.004,Right anterior thalamic radiation
+,2,565,32,−49,38,0.05,Right superior parietal lobe???
+,3,247,14,−67,48,0.05,Right superior parietal lobe???
+,4,111,36,−62,40,0.05,Right superior parietal lobe???
+,5,92,36,−65,31,0.05,Right parieto-occipital lobe???
+,6,76,−56,−29,−10,0.05,Right superior longitudinal fasciculus: temporal part
+,7,29,23,−55,53,0.05,Right superior parietal lobe???
+svPPA only,1,389,48,−12,−22,0.04,Right inferior longitudinal fasciculus
+,,,,,,,
+Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity,Increased radial diffusivity
+All patients,1,9125,33,3,−8,0.009,Right uncinate fasciculus
+,2,1183,47,−47,2,0.03,Right superior longitudinal fasciculus: posterior part
+bvFTD only,1,4686,24,24,−5,0.02,Right uncinate fasciculus
+,2,3209,43,−16,−18,0.03,Right inferior longitudinal fasciculus
+,3,1127,−16,29,−12,0.04,Left anterior corona radiata
+,4,56,45,−54,−8,0.05,Right inferior temporal lobe???
+svPPA only,1,156,53,−11,−22,0.05,Right inferior longitudinal fasciculus
+,,,,,,,
+Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity,Increased trace diffusivity
+All patients,1,9436,33,4,−8,0.007,Right uncinate fasciculus
+,2,42,53,−48,6,0.05,Right superior longitudinal fasciculus: posterior part
+bvFTD only,1,9436,32,9,−8,0.02,Right uncinate fasciculus
+,2,869,−13,30,−12,0.04,Left anterior corona radiata
+,3,145,−26,23,−14,0.05,Left uncinate fasciculus
+svPPA only,1,154,53,−10,−22,0.05,Right inferior longitudinal fasciculus

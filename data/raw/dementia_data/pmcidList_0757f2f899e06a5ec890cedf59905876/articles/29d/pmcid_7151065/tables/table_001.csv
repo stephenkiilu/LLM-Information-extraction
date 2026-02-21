@@ -1,0 +1,12 @@
+Network Properties,Characters,Descriptions
+Small-world properties,Cp,"The clustering coefficient of a network that is the average of the clustering coefficient, Cp-nodal, over all nodes. It measures the extent of local cluster or cliquishness of the network."
+,Lp,The characteristic path length of a network that is the average minimum number of connections linking any two nodes of the network. It measures the extent of overall routing efficiency of the network.
+,Eloc,"The local efficiency of a network that is the average of the local efficiency, Eloc-nodal, over all nodes. It measures the mean local efficiency of the network."
+,Eglob,The global efficiency of a network that is the inverse of the harmonic mean of the minimum path length between any two nodes. It measures the extent of information propagation through the whole network.
+,"S, K",The sparsity or the cost to build a network.
+Degree distribution,a,"A scalar parameter, which reflects the extent that the node degree spans within a network."
+,kc,"A cutoff value, which evaluates the extent of an exponential decay."
+Nodal properties,knodal,The number of edges linking a single node.
+,Cp-nodal,The nodal clustering coefficient that measures the extent of inter-connectivity among the neighbors of the node.
+,Eloc-nodal,The nodal local efficiency that measures the extent of information transmission among the neighbors of the node.
+,Enodal,The nodal global efficiency that measures the extent of information transmission of the node with all other nodes in the network.

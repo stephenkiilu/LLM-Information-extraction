@@ -1,0 +1,1 @@
+{"table_id": "tab1", "table_label": "Table 1", "table_caption": "Demographic and clinical data summary.", "table_foot": "\n\t\t\t\t\t\t\tavalue for one subject is missing.\n\t\t\t\t\t\t\tbvalue for two subjects is missing.\n\t\t\t\t\t\t\tcvalue for 8 subjects is missing. WMSH = white matter signal hyperintensities.", "n_header_rows": 1, "table_data_file": "table_000.csv"}

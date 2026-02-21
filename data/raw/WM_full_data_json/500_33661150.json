@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "title": "",
+    "authors": [
+      "Qi Zhang",
+      "Dongdong Wang",
+      "Shiman Wu",
+      "Yan Ren",
+      "Yajie Li",
+      "Junhai Zhang",
+      "Xiaoyuan Feng"
+    ],
+    "abstract": "Purpose: Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is the most common familial arteriopathy characterized by recurrent lacunar stroke, migraine, and depression. The mechanism of cognitive dysfunction in CADASIL is still uncertain. The aim of this study was to use tract-based spatial statistics (TBSS) to map voxelwise the spatial distribution of brain microstructural change revealed by DTI-derived indices in patients with CADASIL to further study the underlying neuropsychopathological mechanism of CADASIL. Method: Twelve patients with CADASIL and 11 age-, sex-matched healthy controls underwent magnetic resonance imaging at 3 T. Then we evaluated DTI-derived indices (fractional anisotropy FA, mode of anisotropy MO, mean diffusivity MD, axial diffusivity AD and radial diffusivity RD) of brain white matter (WM) between CADASIL patients and healthy subjects through TBSS. Results: Compared with healthy controls, patients with CADASIL showed extensive decreased FA, MO and increased RD, AD, and MD throughout the entire brain (mainly the WM of the temporal poles, inferior and superior longitudinal fasciculus, inferior fronto-occipital fasciculus, corpus callosum, uncinate fasciculus, internal capsule, external capsule, corona radiata, thalamic radiation, and cingulum). Furthermore, these WM microstructural alterations were significantly correlated with cognitive scores and Scheltens scores. Decreased FA values and MO values were positively correlated with Montreal Cognitive Assessment scores in CADASIL patients. Increased AD, RD, and MD values were significantly negatively correlated with Montreal Cognitive Assessment scores. Conclusions: Widespread WM abnormalities were clearly shown in CADASIL by using TBSS. Severity of microstructural changes correlates significantly with extension of T2 hyperintensity. Moreover, WM microstructural damage and cognitive impairment were significantly correlated. This study indicated that WM tract damage plays an important role in cognitive impairment in CADASIL.",
+    "publication_date": ""
+  },
+  "content": {}
+}

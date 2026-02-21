@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "Free Water MR Imaging of White Matter Microstructural Changes is a Sensitive Marker of Amyloid Positivity in Alzheimers Disease",
+    "authors": [
+      "Xuan Sun",
+      "Cui Zhao",
+      "Si-Yu Chen",
+      "Yan Chang",
+      "Yu-Liang Han",
+      "Ke Li",
+      "Hong-Mei Sun",
+      "Zhen-Fu Wang",
+      "Ying Liang",
+      "Jian-Jun Jia",
+      "J Magn"
+    ],
+    "abstract": "Background: Extracellular free water (FW) resulting from white matter degeneration limits the sensitivity of diffusion tensor imaging (DTI) in predicting Alzheimers disease (AD). Purpose: To evaluate the sensitivity of FW-DTI in detecting white matter microstructural changes in AD. To validate the effectiveness of FW-DTI indices to predict amyloid-beta (Aβ) positivity in mild cognitive impairment (MCI) subtypes. Study type: Retrospective. Population: Thirty-eight Aβ-negative cognitively healthy (CH) controls (68.74  8.28 years old, 55 female), 15 Aβ-negative MCI patients (MCI-n) (68.87  8.83 years old, 60 female), 29 Aβpositive MCI patients (MCI-p) (73.03  7.05 years old, 52 female), and 29 Aβ-positive AD patients (72.93  9.11 years old, 55 female). Field strengthsequence: 3.0T; DTI, T -weighted, T -weighted, T star-weighted angiography, and Aβ PET ( F-florbetaben or C-PIB). Assessment: FW-corrected and standard diffusion indices were analyzed using trace-based spatial statistics. Area under the curve (AUC) in distinguishing MCI subtypes were compared using support vector machine (SVM). Statistical tests: Chi-squared test, one-way analysis of covariance, general linear regression analyses, nonparametric permutation tests, partial Pearsons correlation, receiver operating characteristic curve analysis, and linear SVM. A P value 0.05 was considered statistically significant. Results: Compared with CHMCI-nMCI-p, AD showed significant change in tissue compartment indices of FW-DTI. No difference was found in the FW index among pair-wise group comparisons (the minimum FWE-corrected P  0.114). There was a significant association between FW-DTI indices and memory and visuospatial function. The SVM classifier with tissue radial diffusivity as an input feature had the best classification performance of MCI subtypes (AUC  0.91), and the classifying accuracy of FW-DTI was all over 89.89. Data conclusion: FW-DTI indices prove to be potential biomarkers of AD. The classification of MCI subtypes based on SVM and FW-DTI indices has good accuracy and could help early diagnosis. Evidence level: 4 TECHNICAL EFFICACY: Stage 2.",
+    "publication_date": "2023 Dec 15."
+  },
+  "content": {}
+}

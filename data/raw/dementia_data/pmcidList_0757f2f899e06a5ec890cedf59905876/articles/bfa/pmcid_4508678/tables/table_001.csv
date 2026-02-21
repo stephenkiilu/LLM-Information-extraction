@@ -1,0 +1,16 @@
+Region of interest,Symptom grading,Coefficient,P value
+Corpus callosum,mRS,–0.132,0.539
+Corpus callosum,INPH grading scale,,
+Corpus callosum,Cognitive impairment,–0.394,0.057
+Corpus callosum,Gait disturbance,–0.429,0.037
+Corpus callosum,Urinary incontinence,–0.401,0.052
+PLIC,mRS,0.159,0.46
+PLIC,INPH grading scale,,
+PLIC,Cognitive impairment,–0.070,0.745
+PLIC,Gait disturbance,–0.110,0.61
+PLIC,Urinary incontinence,–0.162,0.449
+Cerebral peduncle,mRS,0.117,0.587
+Cerebral peduncle,INPH grading scale,,
+Cerebral peduncle,Cognitive impairment,–0.356,0.087
+Cerebral peduncle,Gait disturbance,0.035,0.871
+Cerebral peduncle,Urinary incontinence,–0.147,0.492

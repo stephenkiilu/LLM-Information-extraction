@@ -1,0 +1,16 @@
+Analysis,P-value,MNI coordinates,T,K,Label
+Unnamed: 0_level_1,Unnamed: 1_level_1,"(x,y,z)",Unnamed: 3_level_1,Unnamed: 4_level_1,Unnamed: 5_level_1
+(1) Group,PFWE<0.05,"−52,8,−26",12.39,4677.0,Temporal_Mid_L
+,,,,,Fusiform_L
+,,,,,Temporal_Inf_L
+,,,,,Temporal_Pole_L
+,,,,,Parahippocampal_L
+,,"52,18,−22",8.56,544.0,Temporal_Pole_Sup_R
+,,,,,Fusiform_R
+,,,,,Temporal_Inf_R
+,,"0,24,−18",7.25,439.0,Rectus_L
+(2) Commonalities,PUNCORR<0.001,"−8,40,10",19.43,7855.0,Cingulum_Ant_L
+,,,,,Temporal_Mid_L
+,,,,,Rolandic_Operculum_L
+,,,,,Temporal_Inf_L
+,,,,,Temporal_Pole _L

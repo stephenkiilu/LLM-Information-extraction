@@ -1,0 +1,8 @@
+Pairwise Comparisons,Pairwise Comparisons,Pairwise Comparisons,Pairwise Comparisons,Pairwise Comparisons,Pairwise Comparisons,Pairwise Comparisons
+Measure: GAP-43,Group number,Mean Difference,Standard error,Significant,95% Confidence Interval for Difference,95% Confidence Interval for Difference
+Measure: GAP-43,Group number,Mean Difference,Standard error,Significant,Lower Bound,Upper Bound
+2 years follow-up,Normal group (19),-146.463,106.654,0.187,-370.535,77.609
+2 years follow-up,Early MCI (6),-264.292,336.975,0.468,-1130.514,601.931
+2 years follow-up,Late MCI (12),-302.767,199.179,0.157,-741.157,135.624
+4 years follow-up,Normal group (9),-152.558,59.861,0.034*,-290.598,-14.519
+4 years follow-up,Early MCI (14),-405.92,135.142,0.010*,-697.875,-113.964

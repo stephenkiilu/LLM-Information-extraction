@@ -1,0 +1,13 @@
+field,f1,model
+Does it use DTI?,0.986,full article
+Human_vs_non_human_study,0.994,full article
+Does it study dementia or related diseases?,0.84,full article
+Review or single study?,0.979,full article
+Which diseases are studied,0.57,full article
+WM tracts studied,0.682,full article
+Does it use DTI?,0.955,abstract only
+Human_vs_non_human_study,0.977,abstract only
+Does it study dementia or related diseases?,0.812,abstract only
+Review or single study?,0.962,abstract only
+Which diseases are studied,0.61,abstract only
+WM tracts studied,0.417,abstract only

@@ -1,0 +1,9 @@
+Replicated dataset,AD,NC,aMCI,P-value
+Number of subjects,43,47,44,
+Sex (M/F),29/21,11/23,17/25,0.789
+"AVLT – delayed recallc,e","0.5 ± 5.1a,b",3.5 ± 1.1,1.7 ± 2.4a,<0.001
+Age (year),52.6 ± 8.1,66.4 ± 6.2,71.3 ± 9.1,0.851
+"AVLT – immediate recalld,e","2.1 ± 1.4a,b",6.7 ± 2.1,4.3 ± 2.4a,<0.001
+AVLT – recognition (new words)e,"5.4 ± 2.1a,b",8.4 ± 1.1,9.1 ± 1.4a,<0.001
+MMSE score,18.1 ± 6.1,21.4 ± 3.5,21.5 ± 1.4,<0.001
+AVLT – recongnition (primary words)e,"5.9 ± 2.5a,b",5.1 ± 0.4,11.5 ± 8.5a,<0.001

@@ -1,0 +1,22 @@
+Unnamed: 0_level_0,Changes in mean FA,Changes in mean FA,Changes in mean FA,Location of changes in FA,Location of changes in FA,Location of changes in FA,Changes in mean MD,Changes in mean MD,Changes in mean MD,Location of changes in MD,Location of changes in MD,Location of changes in MD
+Unnamed: 0_level_1,AD vs NC,MCI vs NC,AD vs MCI,AD vs NC,MCI vs NC,AD vs MCI,AD vs NC,MCI vs NC,AD vs MCI,AD vs NC,MCI vs NC,AD vs MCI
+ATR_L,−,−,−,−,−,−,+,−,−,A/M,−,−
+ATR_R,−,−,−,−,−,−,−,−,−,−,−,−
+CST_L,−,−,−,−,−,−,+,−,−,S/M,−,−
+CST_R,−,−,−,−,−,−,+,−,−,S,−,−
+CCing_L,−,−,−,−,−,−,+,−,−,−,−,−
+CCing_R,+,−,−,P/M,M,−,+,−,−,P,−,−
+CHippo_L,−,−,−,−,−,−,+,−,−,P,−,−
+CHippo_R,−,−,−,−,−,−,+,−,−,−,−,−
+CC Splenium,−,−,−,L,−,−,−,−,−,−,−,−
+CC Genu,−,−,−,R,−,−,−,−,−,−,−,−
+IFOF_L,+,−,−,−,−,−,+,−,−,P/M,−,P
+IFOF_R,+,−,−,−,−,−,+,−,−,P/M,−,−
+ILF_L,−,−,−,P,−,,+,−,−,A/M,−,−
+ILF_R,−,−,−,−,−,M,+,−,−,A,−,−
+SLF_L,−,−,−,−,−,−,+,−,−,A/P,−,−
+SLF_R,−,−,−,−,−,−,−,−,−,−,−,−
+UF_L,+,−,−,F,−,,+,−,−,M/F,−,−
+UF_R,+,−,−,−,−,−,+,−,−,W,−,M
+AF_L,−,−,−,−,−,−,+,−,−,T/M,T,−
+AF_R,−,−,−,−,−,−,−,−,−,−,−,−

@@ -1,0 +1,11 @@
+DTI markers,allocentric,Unnamed: 2_level_0
+Unnamed: 0_level_1,Model1,Model2
+Unnamed: 0_level_2,Beta (p value),Beta (p value)
+"FA Posterior limb of internal capsule, right",0.27(0.04),0.35(0.01)
+"FA Retrolenticular part of internal capsule, right",0.31(0.02),0.42(0.01)
+"FA Corticospinal tract, left",0.30(0.02),0.37(0.01)
+"FA Corticospinal tract, right",0.28(0.03),0.34(0.01)
+"FA Cingulum (hippocampus), left",0.27(0.04),0.28(0.04)
+"FA Cingulum (hippocampus), right",0.33(0.01),0.37 (0.01)
+"MD Anterior thalamic radiation, left",0.34(0.01),0.31(0.02)
+"MD Anterior thalamic radiation, right",0.31(0.02),0.26(0.05)

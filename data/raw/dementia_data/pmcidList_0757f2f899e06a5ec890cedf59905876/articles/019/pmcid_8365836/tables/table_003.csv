@@ -1,0 +1,13 @@
+Role,Tract,Cognitive,Physical
+Unnamed: 0_level_1,Unnamed: 1_level_1,correlations,activity correlations
+Cognition-related,ICP (R)???,MoCA (FA???/MD???),
+,,AD8 (MD),
+,ICP (L),MoCA (FA/MD???),
+,CST pyramids (R),MoCA (MD???),IPAQ-SF MET (FA/MD)
+Physical activity- related,PCR (R),MoCA (FA),IPAQ-SF MET (FA???)
+,,,SARC-F (FA)
+,,,Actigraphy IV (FA???)
+,,,Actigraphy IS (FA???)
+,PCR (L),,IPAQ-SF MET (FA)
+,,,Actigraphy IV (FA???)
+,SCR (L),,Actigraphy IV (FA???)

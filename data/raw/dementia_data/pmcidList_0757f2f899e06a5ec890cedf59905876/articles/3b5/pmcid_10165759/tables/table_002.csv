@@ -1,0 +1,14 @@
+Models,Training dataset (n = 96),Training dataset (n = 96),Training dataset (n = 96),Training dataset (n = 96),Training dataset (n = 96),Training dataset (n = 96),Test dataset (n = 24),Test dataset (n = 24),Test dataset (n = 24),Test dataset (n = 24),Test dataset (n = 24),Test dataset (n = 24)
+Models,Accuracy (%),Sensitivity (%),Specificity (%),PPV (%),NPV (%),AUC,Accuracy (%),Sensitivity (%),Specificity (%),PPV (%),NPV (%),AUC
+Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel,Intra-voxel
+DT,100.00,100.00,100.00,100.00,100.00,1.00,54.17,64.29,40.00,60.00,44.44,0.52
+RF,100.00,100.00,100.00,100.00,100.00,1.00,75.00,64.29,90.00,90.00,64.29,0.69
+XGBoost,100.00,100.00,100.00,100.00,100.00,1.00,75.00,71.43,80.00,83.33,66.67,0.72
+Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel,Inter-voxel
+DT,100.00,100.00,100.00,100.00,100.00,1.00,54.17,57.14,50.00,61.54,45.45,0.54
+RF,100.00,100.00,100.00,100.00,100.00,1.00,66.67,71.43,60.00,71.43,60.00,0.58
+XGBOOST,100.00,100.00,100.00,100.00,100.00,1.00,62.50,100.00,10.00,60.87,100.00,0.54
+Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel,Combined intra- and intervoxel
+DT,100.00,100.00,100.00,100.00,100.00,1.00,66.67,57.14,80.00,80.00,57.14,0.69
+RF,100.00,100.00,100.00,100.00,100.00,1.00,75.00,78.57,70.00,78.57,70.00,0.71
+XGBoost,100.00,100.00,100.00,100.00,100.00,1.00,91.67,92.86,90.00,92.86,90.00,0.94

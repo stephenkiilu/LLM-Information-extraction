@@ -1,0 +1,40 @@
+Unnamed: 0_level_0,FA,FA,MD,MD,RD,RD,AxD,AxD
+Unnamed: 0_level_1,ROI,p-Value,ROI,p-Value,ROI,p-Value,ROI,p-Value
+a)NCvsAD,Fx/ST L,1.44E− 7,SS L,2.09E− 11,SS L,6.19E− 11,SS L,6.29E− 11
+a)NCvsAD,SCC,1.40E− 6,CGH L,1.23E− 9,CGH L,1.69E− 09,CGH L,1.68E− 9
+a)NCvsAD,TAP L,2.46E− 6,TOTAL,4.63E− 9,TOTAL,6.89E− 09,TOTAL,7.47E− 9
+a)NCvsAD,PTR L,2.07E− 5,SCR L,1.11E− 8,SCR L,6.22E− 08,SCR L,1.74E− 8
+a)NCvsAD,CC,4.41E− 5,SCC,6.54E− 8,PTR L,7.64E− 08,IFO L,3.04E− 8
+a)NCvsAD,SFO R,5.86E− 5,Fx/ST L,1.07E− 7,Fx/ST L,7.70E− 08,SS R,9.02E− 8
+a)NCvsAD,TAP R,8.79E− 5,PTR L,1.10E− 7,SCC,8.05E− 08,Fx/ST L,2.54E− 7
+a)NCvsAD,ACR L,1.35E− 4,SS R,1.24E− 7,TAP L,1.25E− 07,EC L,3.21E− 7
+a)NCvsAD,TOTAL,1.62E− 4,TAP L,1.43E− 7,ACR L,1.40E− 07,SCC,3.34E− 7
+a)NCvsAD,CGH L,1.84E− 4,IFO L,2.77E− 7,SCR R,2.82E− 07,UNC L,3.46E− 7
+# sig/43,24 (p < 2.32E− 2),24 (p < 2.32E− 2),42 (p < 2.54E− 2),42 (p < 2.54E− 2),42 (p < 2.72E− 2),42 (p < 2.72E− 2),41 (p < 4.23E− 2),41 (p < 4.23E− 2)
+,,,,,,,,
+,,,,,,,,
+b)NCvsMCI,–,–,CGH L,5.65E− 5,CGH L,8.47E− 5,CGH L,6.91E− 5
+b)NCvsMCI,–,–,SCC,2.60E− 3,SCC,3.23E− 3,SS L,3.18E− 3
+b)NCvsMCI,–,–,Fx/ST L,4.39E− 3,Fx/ST L,3.89E− 3,SCC,3.65E− 3
+b)NCvsMCI,–,–,TAP L,5.14E− 3,TAP L,4.48E− 3,Fx/ST L,6.06E− 3
+b)NCvsMCI,–,–,SS L,5.48E− 3,–,–,TOTAL,6.14E− 3
+b)NCvsMCI,–,–,–,–,–,–,SS R,6.92E− 3
+b)NCvsMCI,–,–,–,–,–,–,PTR L,7.20E− 3
+b)NCvsMCI,–,–,–,–,–,–,SCR L,8.80E− 3
+b)NCvsMCI,–,–,–,–,–,–,TAP L,8.86E− 3
+b)NCvsMCI,–,–,–,–,–,–,EC R,1.01E− 2
+# sig/43,0,0,5 (p < 5.47E− 3),5 (p < 5.47E− 3),4 (p < 4.48E− 3),4 (p < 4.48E− 3),12 (p < 1.23E− 2),12 (p < 1.23E− 2)
+,,,,,,,,
+,,,,,,,,
+c)NCvse-MCI,–,–,CGH L,6.16E− 4,CGH L,7.33E− 4,CGH L,8.92E− 4
+c)NCvse-MCI,–,–,SCR L,3.18E− 3,–,–,–,–
+c)NCvse-MCI,–,–,SCC,3.35E− 3,–,–,–,–
+# sig/43,0,0,3 (p < 3.35E− 3),3 (p < 3.35E− 3),1 (p < 7.33E− 4),1 (p < 7.33E− 4),1 (p < 8.92E− 4),1 (p < 8.92E− 4)
+,,,,,,,,
+,,,,,,,,
+d)NCvsl-MCI,–,–,CGH L,4.71E− 5,CGH L,9.53E− 5,CGH L,3.01E− 5
+d)NCvsl-MCI,–,–,–,–,–,–,SS L,1.88E− 4
+d)NCvsl-MCI,–,–,–,–,–,–,SS R,1.47E− 3
+d)NCvsl-MCI,–,–,–,–,–,–,Fx/ST L,5.38E− 3
+d)NCvsl-MCI,–,–,–,–,–,–,PTR L,5.68E− 3
+# sig/43,0,0,1 (p < 4.71E− 5),1 (p < 4.71E− 5),1 (p < 9.53E− 5),1 (p < 9.53E− 5),5 (p < 5.678E− 3),5 (p < 5.678E− 3)

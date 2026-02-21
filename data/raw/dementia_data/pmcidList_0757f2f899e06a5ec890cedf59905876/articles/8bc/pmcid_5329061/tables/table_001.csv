@@ -1,0 +1,4 @@
+Binary discrimination,Age(p-value),Educational level(p-value)
+Control vs. MCI,0.916,1.0
+Control vs. Alzheimer,0.957,0.931
+MCI vs. Alzheimer,0.957,0.938

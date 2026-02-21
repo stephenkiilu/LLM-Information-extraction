@@ -1,0 +1,22 @@
+Unnamed: 0_level_0,Single-predictor Models???,Single-predictor Models???,Multi-predictor Models???,Multi-predictor Models???
+Predictors,EF,PS,EF,PS
+NBV (Whole brain),.281 (.0001),.387 (<.0001),.119 (.25),.270 (.0026)
+Normalised GM vol.,.183 (.011),.313 (.0001),–,–
+Normalised WM vol.,.152 (.046),.140 (.11),–,–
+"WMH lesion load (log, %)",−.080 (.25),−.200 (.013),.143 (.21),−.058 (.54)
+Lacunar Infarct Count (log),−.286 (<.0001),−.355 (<.0001),−.227 (.019),−.244 (.006)
+Cerebral Microbleeds,,,,
+Number (log),−.156 (.026),−.108 (.21),−.038 (.6),.113 (.22)
+Presence (Group),−.042 (.5),−.059 (.5),–,–
+Fractional Anisotropy,,,,
+Histogram Peak Location,.224 (.002),.268 (.0008),–,–
+Histogram Peak Height,−.105 (.14),−.215 (.007),–,–
+Mean Diffusivity (mm???s−1),,,,
+Histogram Peak Location,−.150 (.035),−.175 (.031),–,–
+Histogram Peak Height,.263 (.0002),.281 (.0008),–,.085 (0.41)
+Axial Diffusivity (mm???s−1),,,,
+Histogram Peak Location,−.067 (.4),−.088 (.29),–,–
+Histogram Peak Height,.184 (.010),.181 (.030),–,–
+Radial Diffusivity (mm???s−1),,,,
+Histogram Peak Location,−.175 (.015),−.204 (.012),–,–
+Histogram Peak Height,.278 (.0002),.243 (.005),.211 (.046),. −

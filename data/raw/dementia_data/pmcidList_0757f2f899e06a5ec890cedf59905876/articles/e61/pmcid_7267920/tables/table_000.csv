@@ -1,0 +1,21 @@
+Author (year),Sample size (DTI/NM‐MRI),ROI placement,ROI image,DTI results of PD in comparison to HC
+DTI studies with T1/Neuromelanin based SN contrast:,DTI studies with T1/Neuromelanin based SN contrast:,DTI studies with T1/Neuromelanin based SN contrast:,DTI studies with T1/Neuromelanin based SN contrast:,DTI studies with T1/Neuromelanin based SN contrast:
+Langley et al. (???),20:17/11 (PD: HC /HC),Manual,"NM‐T1, T2w","FA↓, MD↑ for NM‐T1"
+"Menke, Jbabdi, Miller, Matthews, and Zarei (???)",10:10 (PD: HC),Semiautomatic,"T1w, DTI tracks",No significance
+DTI studies with T2w/ T2*w image based SN contrast:,DTI studies with T2w/ T2*w image based SN contrast:,DTI studies with T2w/ T2*w image based SN contrast:,DTI studies with T2w/ T2*w image based SN contrast:,DTI studies with T2w/ T2*w image based SN contrast:
+Schwarz et al. (???),32:27 (PD: HC),Manual,T2w,MD↑
+Du et al. (???),16:16 (PD: HC),Semiautomatic,T2w,"FA↓, R2*↑"
+Prakash et.al (???),11:12 (PD: HC),Manual,T2w,FA asymmetry in SNc subregion in PD
+Rolheiser et al. (???),14:14 (PD: HC),Manual,T2w + V1 maps,"FA↓, RD↑"
+Peran et al. (???),30:22 (PD: HC),Manual,T2*w images,"FA↓, R2*↑"
+Vaillancourt et al. (???),14:14 (PD: HC),Manual,T2w,FA↓
+DTI studies with DTI based SN contrast:,DTI studies with DTI based SN contrast:,DTI studies with DTI based SN contrast:,DTI studies with DTI based SN contrast:,DTI studies with DTI based SN contrast:
+Knossalla et al. (???),10:10 (PD: HC),Manual,FA maps,FA↓
+,,,,Asymmetry in SNc subregion
+Loane et al. (???),18:14 (PD:HC),Manual,"FA, MD maps","FA↓, MD↑"
+Schuff et al (???),67:153 (PD:HC),Manual,"FA maps, T1w","FA↓ in rostral SNc, AD↑, RD"
+,,,,No significance
+Aquino et al. (???),42:20 (PD:HC),Manual,Axial IR,No significance
+Zhan et al. (???),12:20 (PD:HC),Semiautomatic,FA maps,FA↓
+Gattellaro et al. (???),10:10 (PD:HC),Manual,DTI tracks,No significance
+Chan et al. (???),73:78 (PD:HC),Manual,FA maps,FA↓

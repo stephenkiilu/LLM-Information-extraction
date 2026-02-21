@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Included in the Final Analysis,Included in the Final Analysis,Included in the Final Analysis,Included in the Final Analysis,Included in the Final Analysis,Included in the Final Analysis
+Group,N (#F),N (#F),Age (Year),MMSE,GDS,FAQ,Global CDR
+Group,N (#F),N (#F),Age (Year),[# Available],[# Available],[# Available],[# Available]
+CN,476 (284),472 (282),71.7 ± 8.3,29.07 ± 1.14 [471/472],0.77 ± 1.13 [472/472],0.15 ± 0.70 [429/472],0.002 ± 0.033 [472/472]
+EMCI,137 (55),136 (54),73.8 ± 7.7,28.27 ± 1.46 [136/136],1.75 ± 1.61 [136/136],1.81 ± 3.28 [129/136],0.50 ± 0 [136/136]
+LMCI,62 (28),60 (26),73.4 ± 5.9,27.48 ± 1.86 [60/60],1.60 ± 1.36 [60/60],4.81 ± 5.27 [58/60],0.50 ± 0 [60/60]
+Shapiro–Wilk,,,W = 0.989; p < 0.001,W = 0.815; p < 0.001,W = 0.772; p < 0.001,W = 0.407; p < 0.001,W = 0.573; p < 0.001
+Kruskal–Wallis,,,χ2 = 5.03; p = 0.081,χ2 = 74.57; p < 0.001,χ2 = 66.58; p < 0.001,χ2 = 198.72; p < 0.001,χ2 = 651.68; p < 0.001
+,Dunn test *,CN-EMCI,,Z = 6.22; p < 0.001,Z = −7.18; p < 0.001,Z = −9.25; p < 0.001,Z = −22.24; p < 0.001
+,,CN-LMCI,,Z = 6.91; p < 0.001,Z = −4.97; p < 0.001,Z = −12.02; p < 0.001,Z = −15.91; p < 0.001
+,,EMCI-LMCI,,Z = 2.21; p = 0.082,Z = −0.11; p = 1.00,Z = −4.76; p < 0.001,Z = −0.10; p = 1.00
+,Included in the final analysis,Included in the final analysis,Included in the final analysis,,,,
+ADNI diffusion MRI data,CN,EMCI,LMCI,Manufacturer,,,
+30 dir + 1 b0,74,11,0,SIEMENS,,,
+32 dir + 4 b0,24,5,5,GE MEDICAL SYSTEMS,,,
+41 dir + 5 b0,61,84,37,GE MEDICAL SYSTEMS,,,
+48 dir + 6 b0,59,0,0,GE MEDICAL SYSTEMS,,,
+48 dir + 2 b0 **,87,11,3,SIEMENS,,,
+54 dir + 2 b0,167,25,15,SIEMENS,,,
+Motion/Outliers,N (#F),Motion (ABS),Motion (REL),Outliers (TOT),,,
+CN,472 (282),0.98 ± 0.56,0.20 ± 0.12,0.07 ± 0.04,,,
+EMCI,136 (54),0.96 ± 0.58,0.20 ± 0.13,0.08 ± 0.05,,,
+LMCI,60 (26),1.03 ± 0.53,0.21 ± 0.11,0.09 ± 0.05,,,
+Shapiro–Wilk,,W = 0.959; p < 0.001,W = 0.948; p < 0.001,W = 0.941; p < 0.001,,,
+Kruskal–Wallis,,χ2 = 1.161; p = 0.561,χ2 = 0.136 p = 0.934,χ2 = 3.226 p = 0.200,,,
+,Included in the Final Analysis,Included in the Final Analysis,Included in the Final Analysis,,,,
+APOE,CN (#424),EMCI (#129),LMCI (#57),,,,
+E2 E2,46 (10.85%),1 (0.78%),0 (0%),,,,
+E2 E3,0 (0%),12 (9.30%),3 (5.26%),,,,
+E2 E4,6 (1.42%),3 (2.33%),3 (5.26%),,,,
+E3 E3,239 (56.37%),66 (51.16%),16 (28.07%),,,,
+E3 E4,116 (27.36%),37 (28.68%),29 (50.88%),,,,
+E4 E4,17 (4.01%),10 (7.75%),6 (10.53%),,,,

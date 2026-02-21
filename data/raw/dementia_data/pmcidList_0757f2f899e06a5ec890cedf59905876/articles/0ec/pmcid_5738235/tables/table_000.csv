@@ -1,0 +1,26 @@
+Unnamed: 0,Overall(n = 60),Women(n = 34),Men(n = 26),p-Value
+Clinical and BP variables,,,,
+Age (years),76 ± 5.1,75.4 ± 4.6,76.5 ± 5.6,0.40
+Duration of hypertension (years),21.8 ± 8,22.6 ± 8.6,20.7 ± 7.3,0.46
+Number of antihypertensive medications,2.0 ± 0.9,2.0 ± 0.9,1.9 ± 0.9,0.78
+Peripheral systolic BP (mm Hg),142.6 ± 17.3,142.7 ± 16.9,142.5 ± 18.2,0.20
+Peripheral diastolic BP (mm Hg),73.3 ± 9.6,72.6 ± 8.9,74.2 ± 10.6,0.15
+Peripheral pulse pressure (mm Hg),69.3 ± 12.7,70.1 ± 14.1,68.3 ± 10.6,0.58
+Central systolic BP (mm Hg)???,134.1 ± 18.9,132.5 ± 19.2,136.3 ± 18.7,0.36
+Central pulse pressure (mm Hg)???,59.9 ± 16.1,59.2 ± 17.5,61 ± 14.1,0.87
+Results of neuropsychological tests,,,,
+MMSE (/30),29.4 ± 1.1,29.6 ± 0.8,29.2 ± 1.4,0.25
+Benton score,12.8 ± 6.8,14 ± 6.9,11.2 ± 6.5,0.12
+Gröber and Buschke free recall (/48),28.4 ± 7.5,31 ± 7,25 ± 6.9???,< 0.01
+Gröber and Buschke cued recall,17.6 ± 5.9,15.5 ± 5.8,20.3 ± 5???,< 0.01
+Trail making test A (sec),47.9 ± 14.8,46.4 ± 12.3,49.8 ± 17.4,0.40
+Trail making test B (sec),101.1 ± 48.2,88.4 ± 33.1,116.8 ± 59???,0.04
+Trail making test B-A (sec),53.2 ± 38.6,42 ± 27.2,67 ± 46.1???,0.02
+Verbal fluency test score (P letter),12 ± 4.2,12.6 ± 4.7,11.3 ± 3.5,0.23
+Verbal fluency test score (R letter),11.3 ± 4.3,11.8 ± 4.4,10.8 ± 4.1,0.38
+ADCmean from overall white matter(10− 3 mm2 sec− 1),0.89 ± 0.05,0.89 ± 0.04,0.89 ± 0.05,0.45
+Frontal ADCmean,0.89 ± 0.05,0.89 ± 0.05,0.90 ± 0.05,0.19
+Parietal ADCmean,0.85 ± 0.04,0.86 ± 0.05,0.85 ± 0.04,0.61
+Temporal ADCmean,0.85 ± 0.04,0.85 ± 0.04,0.85 ± 0.04,0.45
+Occipital ADCmean,0.85 ± 0.04,0.85 ± 0.03,0.84 ± 0.04,0.17
+Fazekas score,3.3 ± 1.6,3.4 ± 1.5,3.2 ± 1.7,0.66

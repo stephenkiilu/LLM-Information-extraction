@@ -1,0 +1,4 @@
+ROI 1 (IIT index),ROI 2 (IIT index),p-Value (1e-4) (WaCSFA),Correlation (simple FA)
+ctx_lh_G_and_S_paracentral (11103),ctx_lh_G_postcentral (11128),0.0155,−0.3448
+ctx_lh_S_cingulum-Marginalis (11147),ctx_lh_S_subparietal (11172),0.0815,−0.3736
+ctx_lh_G_and_S_paracentral (11103),ctx_lh_S_central (11146),0.0924,−0.4022

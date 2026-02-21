@@ -1,0 +1,6 @@
+Unnamed: 0_level_0,ActiGlia,ActiGlia,ActiGlia,ActiGlia,ADNI,ADNI,ADNI,ADNI,DELCODE,DELCODE,DELCODE,DELCODE
+Unnamed: 0_level_1,Aβ42,Aβ42,Aβ42,Aβ42,Aβ42,Aβ42,Aβ42,Aβ42,Aβ42,Aβ42,Aβ42,Aβ42
+Unnamed: 0_level_2,β,SE,Adj-R²,p-value,β,SE,Adj-R²,p-value,β,SE,Adj-R²,p-value
+ALPS_comb,0.47,0.19,0.43,0.019*,0.25,0.19,0.04,0.206,0.25,0.16,0.11,0.124
+ALPS_R,0.31,0.18,0.45,0.104,0.27,0.17,0.24,0.133,0.3,0.16,0.09,0.071
+ALPS_L,0.53,0.19,0.39,0.010*,0.35,0.19,0.1,0.072,0.13,0.16,0.1,0.416

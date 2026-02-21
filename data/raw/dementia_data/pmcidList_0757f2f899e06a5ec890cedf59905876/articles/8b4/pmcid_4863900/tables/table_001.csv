@@ -1,0 +1,11 @@
+Unnamed: 0,Region,Side,Cluster (voxels),Volume (mL),T,P-uncorr,P-FWE,"MNI coordinates (x, y, z)"
+White matter volume,White matter volume,White matter volume,White matter volume,White matter volume,White matter volume,White matter volume,White matter volume,White matter volume
+T2DM < Lean,External capsule,L,5735,19.36,5.64,<0.001,<0.001,"−32,9,2"
+T2DM < Lean,External capsule,L,5735,19.36,4.99,<0.001,<0.001,"−27,8,−13"
+T2DM < Lean,External capsule,L,5735,19.36,4.03,<0.001,<0.001,"17,−16,33"
+T2DM < Lean,Inferior Parietal Lobe,R,3276,11.06,4.69,<0.001,<0.001,"45,−42,54"
+T2DM < Lean,Inferior Parietal Lobe,R,3276,11.06,4.49,<0.001,<0.001,"47,−31,30"
+T2DM < Lean,Inferior Parietal Lobe,R,3276,11.06,4.48,<0.001,<0.001,"39,−12,36"
+Obese < Lean,External capsule,L,903,3.05,4.62,<0.001,0.380,"−32,5,−1"
+Axial diffusivity,Axial diffusivity,Axial diffusivity,Axial diffusivity,Axial diffusivity,Axial diffusivity,Axial diffusivity,Axial diffusivity,Axial diffusivity
+T2DM < Lean,"Corticospinal tract, inferior fronto-occipital tract, superior longitudinal fasciculus and forceps major",R,1803,1.80,5.49,,<0.05,"22,−28,46"

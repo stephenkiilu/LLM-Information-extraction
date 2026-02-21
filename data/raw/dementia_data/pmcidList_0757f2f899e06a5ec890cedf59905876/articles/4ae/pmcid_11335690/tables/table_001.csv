@@ -1,0 +1,25 @@
+Unnamed: 0,Control,mTBI,mTBI.1,p-value (Control vs. mTBI),p-value (Control vs. mTBI).1
+N,37,44,44,,
+Age (yrs),36.7 ± 12.9 (18–60),34.5 ± 11.3 (18–59),34.5 ± 11.3 (18–59),0.41,0.41
+Sex (Male),17 (38%),24 (55%),24 (55%),0.51,0.51
+Education (yrs),15.2 ± 3.3 (10–24),14.2 ± 2.8 (9–24),14.2 ± 2.8 (9–24),0.17,0.17
+Race (W/B/A/O),16/17/3/1,18/17/2/7,18/17/2/7,0.23,0.23
+Body Mass Index (BMI),28.5 ± 8.2 (19.5–53.7),27.6 ± 6.0 (17.4–42.7),27.6 ± 6.0 (17.4–42.7),0.56,0.56
+Positive CT or MRI,0 (0%),20 (45%),20 (45%),,
+Admission GCS,,14.7 ± 0.5 (13–15),14.7 ± 0.5 (13–15),,
+Injury mechanism,Injury mechanism,Injury mechanism,Injury mechanism,Injury mechanism,Injury mechanism
+MVC,,28 (64%),28 (64%),,
+Assault,,4 (9%),4 (9%),,
+Fall,,8 (18%),8 (18%),,
+Sports/Recreational,,4 (9%),4 (9%),,
+,,14Day,6–12Mon,14Day,6–12Mon
+Days post injury,,13.8 ± 8.1,306 ± 97,,
+,,(2–45),(157–508),,
+Symptom ratings,Symptom ratings,Symptom ratings,Symptom ratings,Symptom ratings,Symptom ratings
+PSQI,6.5 ± 4.5 (0–17),6.1 ± 3.0 (1–14),6.9 ± 3.5 (0–14),0.72,0.67
+RPQ,11.8 ± 12.6 (0–48),21.4 ± 18.4 (0–85),21.7 ± 16.5 (0–73),0.014*,0.006*
+Total number of symptoms,3.3 ± 4.0 (0–14),7.1 ± 5.5 (0–21),6.8 ± 6.2 (0–22),0.0015*,0.0064*
+Glymphatic imaging markers,Glymphatic imaging markers,Glymphatic imaging markers,Glymphatic imaging markers,,
+WM-ePVS (%),0.40 ± 0.18,0.35 ± 0.26,0.38 ± 0.30,0.38,0.68
+BG-PVS (%),0.53 ± 0.22,0.50 ± 0.30,0.60 ± 0.41,0.53,0.40
+ALPS Index,1.51 ± 0.12,1.52 ± 0.13,1.50 ± 0.13,0.66,0.82

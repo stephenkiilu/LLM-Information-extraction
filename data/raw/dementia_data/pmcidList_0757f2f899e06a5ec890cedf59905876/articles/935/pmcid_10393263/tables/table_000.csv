@@ -1,0 +1,55 @@
+Unnamed: 0,Low ICC score,High ICC score,p value
+Clinical characteristics,N = 265,N = 266,
+"Age, years (SD)",63.6 (8.9),71.5 (9.4),<0.001
+"Female gender, n (%)",152 (57.4),164 (61.7),0.345
+"Education, years (SD)",13.5 (3.7),12.7 (3.8),0.016
+"Body-mass index, kg/m2 (SD)",26.8 (4.1),27.8 (5.1),0.031
+"Systolic blood pressure, mmHg (SD)",146 (23.9),151.3 (24),0.011
+"Ever smoked, n (%)",164 (61.9%),170 (63.9%),0.661
+"T2DM, n (%)",62 (23.4),97 (36.7),0.001
+"Dyslipidemia, n (%)",133 (50.2),155 (58.7),0.049
+"Hypertension, n (%)",138 (52.1),188 (71.2),<0.001
+Framingham Risk Score for Stroke,9.5 (5.4),13.9 (5.0),<0.001
+"Admission NIHSS, median (IQR)",2 (0–4),2 (1–5),0.001
+TIA (%),84 (31.7),65 (24.4),0.065
+Stroke Etiology (TOAST criteria),N = 181,N = 201,
+Lacunar strokes; n (%),89 (49.2%),96 (47.8%),0.795
+Cardioembolic stroke; n (%),26 (14.4%),21 (10.4%),0.259
+Large-artery atherosclerotic stroke; n (%),7 (3.9%),21 (10.4%),0.029
+Other or undetermined etiology; n (%),27 (14.9%),33 (16.4%),0.764
+Brain CT parameters,,,
+"Total ICC, median (IQR)",3 (0–18.6),240 (122–502),<0.001
+"Global stenosis assessment*, mean(SD)",0.50 (0.86),0.88 (1.21),0.07
+Brain MRI parameters,N = 210,N = 189,
+"No infarct in MRI, n (%)",78 (37.1%),41 (21.7%),0.002
+"Cortical infarct, n (%)",53 (25.2%),49 (25.9%),0.946
+"Sub-cortical infarct, n (%)",53 (25.2%),75 (39.7%),0.004
+"Sub-tentorial infarct, n (%)",26 (12.4%),24 (12.7%),0.964
+"White matter hyperintensity (Fazekas) score, median (IQR)",0 (0–1),1 (0–1),<0.001
+"Ischemic lesions volume, mm3; mean (SD)",3309.7 (9416.8),4197.4 (9985.8),0.495
+"Total WM volume, normalized to ICV; mean (SD)",31.4 (3.0),29.5 (2.9),<0.001
+"Total GM volume, normalized to ICV; mean (SD)",40.8 (3.3),38.7 (3.1),<0.001
+"Total thalamus volume, normalized to ICV; mean (SD)",0.84 (0.1),0.79 (0.08),<0.001
+"Total hippocampal volume, normalized to ICV; mean (SD)",0.54 (0.08),0.50 (0.08),<0.001
+"Hippocampi mean diffusivity, mm2/s; mean (SD)",0.0012 (0.00012),0.0013 (0.00011),<0.001
+"Frontal cortex thickness, mm2; mean (SD)",2.43 (0.13),2.38 (0.13),<0.001
+"Temporal cortex thickness, mm2; mean (SD)",2.73 (0.17),2.62 (0.17),<0.001
+"Parietal cortex thickness, mm2; mean (SD)",2.28 (0.12),2.20 (0.13),<0.001
+"Occipital cortex thickness, mm2; mean (SD)",2.01 (0.13),1.95 (0.12),<0.001
+"NAWM MD values, mm2/s; mean (SD)",0.0008 (0.00004),0.0009 (0.00006),0.101
+"NAWM FA values, arbitrary units; mean (SD)",0.4046 (0.1222),0.40 (0.1302),<0.001
+"NAWM λ|| values, mm2/s; mean (SD)",0.00066 (0.00004),0.00068 (0.00005),<0.001
+"NAWM λ⊥ values, mm2/s; mean (SD)",0.00123 (0.00005),0.00126 (0.00007),<0.001
+Lobar Microbleed; n (%),16 (6.0%),33 (12.4%),0.011
+Deep Lobar Microbleed; n (%),5 (1.9%),13 (4.9%),0.056
+Lacunes; n (%),65 (31%),87 (46%),0.002
+Perivascular spaces; n (%),198 (94.3%),164 (86.8%),0.014
+Prospective Cognitive scores,,,
+Admission MoCA score; mean (SD),24.1 (3.3),22.7 (3.8),<0.001
+MoCA score at 6 months; mean (SD),25.6 (3.2),24.3 (3.8),<0.001
+MoCA score at 12 months; mean (SD),25.7 (3.2),24.1 (4.2),<0.001
+MoCA score at 24 months; mean (SD),25.6 (4.0),23.6 (4.7),<0.001
+Computerized Total cognitive score at admission; mean (SD),93.8 (13.2),89.0 (14.0),0.002
+Computerized Total cognitive score 6 months post-stroke; mean (SD),96.5 (12.4),91.8 (12.2),<0.001
+Computerized Total cognitive score 12 months post-stroke; mean (SD),97.6 (12.6),93.6 (12.3),0.004
+Computerized Total cognitive score 24 months post-stroke; mean (SD) (n = 507),98.3 (11.1),93.9 (12.2),0.001

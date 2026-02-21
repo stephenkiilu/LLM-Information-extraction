@@ -1,0 +1,55 @@
+Subcortical white matter volumes of interest,Unnamed: 1_level_0,MD,MD,FA,FA,AD,AD,RD,RD
+Subcortical white matter volumes of interest,Unnamed: 1_level_1,Left,Right,Left,Right,Left,Right,Left,Right
+Frontal,Control,840 ± 70,836 ± 61,0.318 ± 0.024,0.314 ± 0.025,1105 ± 87,1104 ± 87,687 ± 47,691 ± 49
+Frontal,sporadic CJD,757 ± 64,751 ± 69,0.303 ± 0.037,0.303 ± 0.04,998 ± 70,993 ± 79,637 ± 64,633 ± 68
+,,,,,,,,,
+Caudal middle-frontal,,**,**,NS,NS,**,*,*,*
+Lateral orbito-frontal,,**,**,NS,(*),**,**,(*),(*)
+Medial orbito-frontal,,*,**,NS,*,**,**,NS,(*)
+Pars opercularis,,**,**,NS,NS,**,**,*,*
+Paracentral,,**,*,NS,NS,**,*,(*),NS
+Pars orbitalis,,**,*,NS,NS,**,**,*,(*)
+Pars triangularis,,*,**,NS,NS,**,**,(*),*
+Precentral,,**,**,NS,NS,**,*,(*),*
+Rostral middle frontal,,**,**,NS,NS,**,**,*,*
+Superior frontal,,**,**,NS,NS,**,**,(*),(*)
+Frontal pole,,NS,NS,NS,NS,NS,NS,NS,NS
+,,,,,,,,,
+,Control,859 ± 62,873 ± 66,0.403 ± 0.029,0.397 ± 0.033,1249 ± 93,1270 ± 116,652 ± 48,666 ± 45
+Limbic,sporadic CJD,789 ± 62,794 ± 65,0.372 ± 0.043,0.368 ± 0.044,1123 ± 73,1126 ± 83,622 ± 64,628 ± 81
+,,,,,,,,,
+Caudal anterior cingulate,,(*),(*),(*),*,**,**,NS,NS
+Isthmus cingulate,,**,**,NS,NS,**,**,(*),*
+Posterior cingulate,,*,*,*,*,**,**,NS,NS
+Rostral anterior cingulate,,**,**,NS,**,**,***,(*),NS
+Insula,,**,**,(*),NS,**,**,NS,(*)
+,,,,,,,,,
+,Control,855 ± 59,838 ± 58,0.307 ± 0.031,0.300 ± 0.022,1129 ± 79,1105 ± 81,710 ± 49,703 ± 48
+Temporal,sporadic CJD,757 ± 75,739 ± 75,0.288 ± 0.033,0.282 ± 0.036,991 ± 87,963 ± 91,642 ± 72,632 ± 71
+,,,,,,,,,
+Entorhinal,,**,*,(*),(*),**,**,(*),(*)
+Fusiform,,*,*,NS,NS,**,*,(*),(*)
+Inferior temporal,,**,**,NS,NS,**,**,*,**
+Middle temporal,,**,**,NS,NS,**,**,*,*
+Temporal pole,,*,NS,NS,*,(*),*,NS,NS
+Parahippocampal,,**,**,*,NS,***,**,*,*
+Superior-temporal,,**,**,NS,NS,**,**,*,*
+Transverse temporal,,**,(*),NS,NS,*,(*),*,NS
+Banks superior temporal sulcus,,**,**,NS,NS,**,**,*,**
+,,,,,,,,,
+,Control,828 ± 60,818 ± 57,0.314 ± 0.028,0.314 ± 0.031,1092 ± 74,1077 ± 75,681 ± 42,673 ± 39
+Parietal,sporadic CJD,730 ± 72,725 ± 71,0.313 ± 0.035,0.313 ± 0.037,974 ± 83,968 ± 81,608 ± 70,605 ± 69
+,,,,,,,,,
+Inferior parietal,,**,**,NS,NS,**,**,*,**
+Postcentral,,**,**,NS,NS,**,*,**,*
+Precuneus,,**,**,NS,NS,**,**,**,**
+Superior parietal,,**,*,NS,NS,**,*,*,*
+Supramarginal,,**,**,NS,NS,**,**,*,*
+,,,,,,,,,
+,Control,832 ± 37,823 ± 42,0.276 ± 0.032,0.279 ± 0.036,1073 ± 58,1062 ± 62,711 ± 35,701 ± 36
+Occipital,sporadic CJD,742 ± 83,729 ± 84,0.258 ± 0.039,0.265 ± 0.038,948 ± 94,936 ± 99,642 ± 80,628 ± 81
+,,,,,,,,,
+Cuneus,,**,**,NS,NS,**,**,*,*
+Lateral occipital,,*,*,NS,NS,**,**,(*),*
+Lingual,,**,**,NS,NS,**,**,*,*
+Pericalcarine,,**,**,NS,NS,**,**,**,*

@@ -1,0 +1,8 @@
+Structure,AD Patients,Controls,p-Value
+left caudate,3016.7,3304.8,n.s.
+left putamen,3656.5,4302.2,p = 0.01
+left pallidum,1843.1,1747.9,n.s.
+right caudate,3043.4,3321.4,n.s.
+right putamen,3487.3,4283.9,p = 0.01
+right pallidum,1897.5,1813.8,n.s.
+brain segmentation volume,10.1 × 105,10.37 × 105,n.s.

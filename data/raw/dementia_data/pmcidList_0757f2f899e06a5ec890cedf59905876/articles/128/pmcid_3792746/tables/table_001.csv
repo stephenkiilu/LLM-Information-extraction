@@ -1,0 +1,26 @@
+Unnamed: 0_level_0,FA,FA,MD,MD,RD,RD,A × D,A × D
+Unnamed: 0_level_1,ROI,p-Value,ROI,p-Value,ROI,p-Value,ROI,p-Value
+a)NCvsAD,SCC,2.61E− 6,CGH L,4.68E− 12,CGH L,4.41E− 12,CGH L,7.44E− 11
+a)NCvsAD,CGH L,3.89E− 6,SS L,3.22E− 8,SS L,1.07E− 7,TAP L,3.69E− 7
+a)NCvsAD,Fx/ST L,4.76E− 5,CGH R,1.59E− 7,UNC L,1.10E− 7,CGH R,6.30E− 7
+a)NCvsAD,ACR L,1.95E− 4,UNC L,2.17E− 7,CGH R,1.79E− 7,IFO L,7.56E− 7
+a)NCvsAD,SFO R,3.70E− 4,SCC,2.63E− 7,SCC,3.32E− 7,SS L,9.69E− 7
+a)NCvsAD,Fx/ST R,3.81E− 4,Fx/ST R,4.00E− 7,Fx/ST L,3.86E− 7,SCR L,1.15E− 6
+a)NCvsAD,CC,3.90E− 4,SFO L,8.70E− 7,Fx/ST R,5.40E− 7,UNC L,1.27E− 6
+a)NCvsAD,SS L,4.74E− 4,TOTAL,1.30E− 6,SFO L,6.21E− 7,TOTAL,1.36E− 6
+a)NCvsAD,SFO L,5.27E− 4,IFO L,1.44E− 6,TOTAL,3.23E− 6,SCC,2.28E− 6
+a)NCvsAD,TOTAL,6.34E− 4,Fx/ST L,1.99E− 6,SFO R,9.86E− 6,SFO L,2.44E− 6
+# sig/43,22 (p < 1.99E− 2),22 (p < 1.99E− 2),41 (p < 4.68E− 2),41 (p < 4.68E− 2),36 (p < 3.15E− 2),36 (p < 3.15E− 2),35 (p < 3.94E− 2),35 (p < 3.94E− 2)
+,,,,,,,,
+b)NCvsMCI,–,–,CGH L,9.87E− 5,CGH L,1.12E− 4,CGH L,3.64E− 4
+b)NCvsMCI,–,–,CGH R,8.16E− 4,CGH R,9.99E− 4,CGH R,9.53E− 4
+# sig/43,0,0,2 (p < 8.16E− 4),2 (p < 8.16E− 4),2 (p < 9.99E− 4),2 (p < 9.99E− 4),2 (p < 9.53E− 4),2 (p < 9.53E− 4)
+,,,,,,,,
+c)NCvse-MCI,–,–,CGH L,8.54E− 4,CGH L,8.00E− 4,RLIC L,7.63E− 4
+c)NCvse-MCI,–,–,CGH R,9.37E− 4,CGH R,1.46E− 3,CGH R,1.08E− 3
+c)NCvse-MCI,–,–,–,–,–,–,CGH L,3.32E− 3
+c)NCvse-MCI,–,–,–,–,–,–,CGC R,3.91E− 3
+# sig/43,0,0,2 (p < 9.37E− 4),2 (p < 9.37E− 4),2 (p < 1.46E− 3),2 (p < 1.46E− 3),4 (p < 3.91E− 3),4 (p < 3.91E− 3)
+,,,,,,,,
+d)NCvsl-MCI,–,–,CGH L,6.54E− 6,CGH L,1.66E− 5,CGH L,1.41E− 5
+# sig/43,0,0,1 (p < 6.54E− 6),1 (p < 6.54E− 6),1 (p < 1.66E− 5),1 (p < 1.66E− 5),5(p < 1.41E− 5),5(p < 1.41E− 5)

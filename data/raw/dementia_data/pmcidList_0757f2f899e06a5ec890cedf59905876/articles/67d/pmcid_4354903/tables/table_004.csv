@@ -1,0 +1,10 @@
+ProbabilisticTractography,A – FA mean values,HC (mean),HC (St.Dev),HC (5thPercentile),Case 1,Case 3,Case 10
+ProbabilisticTractography,Right UF_FA,0.354044,0.022527,0.313960,0.321478,0.368426,0.268635???
+ProbabilisticTractography,Left UF_FA,0.355275,0.022342,0.323846,0.318266???,0.34695,0.281353???
+ProbabilisticTractography,Right ILF_FA,0.401055,0.019568,0.369104,0.366063???,0.368585???,0.323986???
+ProbabilisticTractography,Left ILF_FA,0.409574,0.020515,0.373823,0.38536,0.372257???,0.328735???
+ProbabilisticTractography,B – MD mean values,HC (mean),HC (St.Dev),HC (95thPercentile),Case 1,Case 3,Case 10
+ProbabilisticTractography,Right UF_MD,0.000880,0.000048,0.000972,0.000999592???,0.000917813,0.00118558???
+ProbabilisticTractography,Left UF_MD,0.000862,0.000041,0.000939,0.00107492???,0.00104544???,0.00103267???
+ProbabilisticTractography,Right ILF_MD,0.000851,0.000033,0.000909,0.000945382???,0.000879776,0.00112745???
+ProbabilisticTractography,Left ILF_MD,0.000839,0.000031,0.000891,0.00101494???,0.000986195???,0.000982657???

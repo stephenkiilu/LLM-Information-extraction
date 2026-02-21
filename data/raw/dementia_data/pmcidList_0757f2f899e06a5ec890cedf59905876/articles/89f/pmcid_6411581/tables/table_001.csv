@@ -1,0 +1,11 @@
+ROI 1 (IIT index),ROI 2 (IIT index),p-Value (1e-4) (WaCSMD),Correlation (simple MD)
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_S_intrapariet_and_P_tran (12157),0.0014,0.3157
+ctx_rh_G_and_S_frontomargin (12101),ctx_lh_G_and_S_transv_frontopol (11105),0.0046,0.0711
+Right-Hippocampus (53),ctx_rh_G_and_S_frontomargin (12101),0.0147,0.3671
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_G_front_middle (12115),0.0225,0.2554
+Right-Amygdala (54),ctx_rh_G_cingulum-Post-ventral (12110),0.0274,0.3026
+Left-Caudate (11),Right-Amygdala (54),0.0776,0.3071
+ctx_rh_G_and_S_frontomargin (12101),ctx_rh_S_precentral-sup-part (12170),0.0859,0.2507
+Right-Caudate (50),ctx_rh_G_and_S_frontomargin (12101),0.1022,0.4041
+Right-Hippocampus (53),Left-Amygdala (18),0.127,0.3483
+Left-Caudate (11),Right-Hippocampus (53),0.1611,0.2017

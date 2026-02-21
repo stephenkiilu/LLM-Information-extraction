@@ -1,0 +1,6 @@
+Methods,Accuracy (%),Accuracy (%)
+Methods,Discovery,Replicated
+SVM [???],81.55,80
+LDA [???],71.0,69
+XGB [???],73.0,74
+MM + MR-DTI [proposed],98.0,95

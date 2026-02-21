@@ -1,0 +1,18 @@
+White matter regions,Alzheimer's disease,Alzheimer's disease,Healthy controls,Healthy controls
+White matter regions,FA,MD,FA,MD
+Corpus callosum,5842(77.3%),5087(67.3%),3715(49.2%),3700(49.0%)
+Internal capsule,2868(59.8%),2247(46.8%),1769(36.9%),2368(49.4%)
+External capsule,2195(70.7%),1537(49.5%),1017(32.8%),1297(41.8%)
+Corona radiata,3710(49.7%),4538(60.7%),1794(24.0%),3079(41.2%)
+Posterior thalamic radiations,1809(80.8%),1144(51.1%),1351(60.3%),996(44.5%)
+Longitudinal fasciculi,1775(56.5%),1453(46.2%),312(9.9%),953(30.3%)
+Fronto-occipital fasciculi,3(30.0%),3(30.0%),3(30.0%),5(50.0%)
+Cingulum (white matter of cingulate gyri),758(77.4%),374(38.2%),239(24.4%),305(31.2%)
+Hippocampal cingulum,272(70.1%),218(49.0%),0(0.0%),0(0.0%)
+Fornix,393(56.9%),243(35.2%),322(46.6%),333(48.2%)
+Corticospinal tract,338(54.7%),254(41.1%),290(46.9%),212(34.3%)
+Uncinate Fasciculus,90(75.0%),55(45.8%),30(25.0%),0(0.0%)
+Tapetum,38(95.0%),36(90.0%),14(35.0%),9(47.5%)
+Medial lemniscus,227(55.4%),218(53.2%),157(38.3%),183(44.6%)
+Cerebellar peduncle,2402(65.2%),1837(49.9%),1834(49.8%),1381(37.5%)
+Cerebral peduncle,873(66.3%),496(37.7%),756(57.4%),647(49.1%)

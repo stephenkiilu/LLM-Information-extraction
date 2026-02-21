@@ -1,0 +1,7 @@
+Unnamed: 0,HCs,pwMS,MS-no-LUTS,MS-OAB,p-Value,p-Value.1
+n,14,29,9,17,N/A a,N/A b
+"Mean age, years (SD)",48.5 (20.0),43.3 (9.4),37.5 (8.9),46.1 (8.6),0.641 a,"0.026 b,*"
+Mean EDSS (SD),,2.3 (1.8),0.9 (0.9),2.9 (2.0),N/A a,"0.004 b,**"
+"Median lesion volume, ×103 mL (range)",,7.7 (0.2–69.6),1.9 (0.2–13.7),8.8 (1.0–69.6),N/A a,"0.055 b,*"
+"Median disease duration, years (range)",,10.0 (0.8–42.0),4.0 (1.0–14.0),12.3 (0.8–42.0),N/A a,"0.029 b,*"
+Mean USP-OAB (SD),1.1 (1.7),5.9 (4.7),1.0 (1.0),8.8 (3.7),"<0.001 a,**","<0.001 b,**"

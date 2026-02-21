@@ -1,0 +1,10 @@
+Unnamed: 0_level_0,FA,FA,FA,FA,MD,MD,MD,MD
+Unnamed: 0_level_1,60-72 years,60-72 years,78-87 years,78-87 years,60-72 years,60-72 years,78-87 years,78-87 years
+Unnamed: 0_level_2,Before exclusion,After exclusion,Before exclusion,After exclusion,Before exclusion,After exclusion,Before exclusion,After exclusion
+CCG,0.02,0.03,0.19,0.15,-0.12,-0.13,-0.15,-0.13
+CHC,0.05,0.07,0.24,0.35,-0.1,-0.15,-0.38*,-0.28
+CS,-0.11,-0.1,0.18,0.14,-0.06,-0.07,-0.31*,-0.27
+FMAJ,0.11,0.14,0.34**,0.39**,-0.05,-0.06,-0.34*,-0.37*
+FMIN,0.05,0.06,0.24,0.20,-0.08,-0.07,-0.14,-0.15
+IFOF,0.11,0.1,0.30*,0.28*,-0.02,-0.03,-0.28*,-0.31*
+SLF,-0.04,-0.03,0.15,0.16,-0.02,-0.04,-0.21,-0.23

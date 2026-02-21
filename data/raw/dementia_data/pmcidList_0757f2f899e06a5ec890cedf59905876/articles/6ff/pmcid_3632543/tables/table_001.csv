@@ -1,0 +1,10 @@
+MRI Measure,SVD,Controls,p value
+"NBV (whole brain, ml)",1295.1 (91.1),1337.3 (87.3),p<0.005
+Grey matter normalised vol. (ml),727.9 (75.4),792.3 (62.2),p<0.0001
+White matter normalised vol. (ml),567.1 (71.9),544.9 (52.0),p<0.043
+WMH lesion vol. (ml),31.87 (26.97),8.7 (11.73),p<0.0001
+WMH lesion load (% brain),3.19 (2.64),0.84 (1.12),p<0.0001
+Lacune Count,4.26 (5.48),0.65 (1.51),p<0.0001
+Lacune Count Quartile Descriptives,"0,1,2,5,27","0,0,0,1,10",–
+CMB Count,4.73 (16.64),–,–
+CMB Count Quartile Descriptives,"0,0,0,2,144",–,–

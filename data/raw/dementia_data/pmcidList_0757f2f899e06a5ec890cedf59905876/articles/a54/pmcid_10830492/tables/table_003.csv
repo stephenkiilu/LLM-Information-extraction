@@ -1,0 +1,13 @@
+Metrics,White matter atlas,White matter atlas,White matter atlas,White matter atlas,Segregated thalamus analysis,Segregated thalamus analysis,Segregated thalamus analysis,Segregated thalamus analysis
+Metrics,Regions,β,P,95% CI,Regions,β,P,95% CI
+MK,CIN_R,.199,.024,"(6.880,94.025)",C_L,.287,< .001,"(36.722, 110.999)"
+Kaxial,SCR_L,.222,.002,"(24.535, 107.512)",VLD_R,.212,.002,"(21.522, 96.746)"
+Kradial,SCR_R,−.265,.001,"(−39.707, −9.655)",C_L,.311,< .001,"(37.771, 100.090)"
+,CIN_R,.232,.004,"(9.148, 47.426)",,,,
+KFA,SCR_R,−.195,.006,"(−129.004, −21.908)",A_R,−.159,.023,"(−77.130, −5.943)"
+MD,GCC_R,−.232,.002,"(−26.495, −6.319)",Medio_R,−.296,< .001,"(−21.756, −7.146)"
+Daxial,GCC_R,−.241,.001,"(−29.636, −7.515)",P_L,−.375,< .001,"(−46.005, −17.181)"
+Dradial,CIN_R,−.190,.034,"(−46.284, −1.853)",Medio_R,−.287,< .001,"(−22.153, −6.917)"
+,GCC_R,−.161,.035,"(−20.748, −0.755)",,,,
+FA,SCR_R,−.279,< .001,"(−181.874, −59.624)",VA_L,−.210,.004,"(−159.212, −31.029)"
+,CIN_R,.252,.002,"(32.160,142.450)",,,,

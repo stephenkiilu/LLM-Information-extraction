@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "title": "The Power of HybridFusion Imaging Metrics in Future PACS Systems: A Case Study into the White Matter Hyperintensity Prenumbra using FLAIR and Diffusion MR",
+    "authors": [
+      "Sinchai Tsao",
+      "Samantha J Ma",
+      "Peter A Michels",
+      "Niharika Gajawelli",
+      "Meng Law",
+      "Helena Chui",
+      "Natasha Lepore"
+    ],
+    "abstract": "Most white matter related neurological disease exhibit a large number of White Matter Hyperintensities (WMHs) on FLAIR MRI images. However, these lesions are not well understood. At the same time, Diffusion MRI has been gaining popularity as a powerful method of characterizing White Matter (WM) integrity. This work aims to study the behavior of the diffusion signal within the WMH voxels. The goal is to develop hybrid MR metrics that leverage information from multiple MR acquisitions to solve clinical problems. In our case, we are trying to address the WMH penumbra (as defined by Maillard et al 2011 2 ) where WMH delineates a foci that is more widespread than than the actual damage area presumably due to acute inflammation. Our results show that diffusion MR metrics may be able to better delineate tissue that is inflamed versus scar tissue but may be less specific to lesions than FLAIR. Therefore, a hybrid metric that encodes information from both FLAIR and Diffusion MR may yield new and novel imaging information about the progression of white matter disease progression. We hope that this work also demonstrates how future PACS systems could have image fusion capabilities that would be able to leverage information from multiple imaging series to yield new and novel imaging contrast.",
+    "publication_date": "2014 July 28."
+  },
+  "content": {
+    "Purpose": {
+      "text": "White matter hyperintensity (WMH) burden as detect on FLAIR MR images has been associated with cognitive impairment. 1 However, the degenerative process that leads to such lesions is not well understood. In this study, we investigate the diffusion properties of white matter lesions using diffusion MRI at 3T. To this end, a segmentation and coregistration routine was developed to segment WMHs and coregister them to diffusion measurements. The objective of this work was to characterize the diffusion characteristics of WMHs to allow for more accurate staging of white matter disease as well as to differentiate between early-stage lesion formation and end-stage white matter scars.",
+      "subsections": {}
+    },
+    "Methods": {
+      "text": "Diffusion tensor imaging (DTI) data was acquired on a 3T GE Signa HD MRI using a multi-slice, twice refocused sequence with 128128 single-shot EPI readout, 25 gradient directions with b1000smm2, three b0 images, TRTE8000ms86.1ms with 2.03  2.03  2 mm3 voxels. 3D T1-weighted and FLAIR images from 5 cognitively normal aged subjects. Initial preprocessing involved several standard toolkits available in the public domain. FreeSurfer was used for intensity non-uniformity correction and the removal of non-brain tissues. SPM8 was used to coregister the DTI b0 data to the T1-weighted and FLAIR images. A WMH candidate region mask was generated using an in-house written MATLAB code that was driven by DTI fractional anisotropy (FA) measurements. WMH segmentation was processed in the WMH candidate region using dynamic thresholding based on histogram analyses (see Fig. 2: A,B,C). Diffusion measurements were taken in the WMH regions and compared to those measured in all white matter regions of the brain.",
+      "subsections": {}
+    },
+    "Results": {
+      "text": "For subjects with low WMH load, mean diffusivity (MD) values within the WMH regions were distributed differently in the histogram compared to MD values in all white matter (WM) regions. The histogram of WMH FA values for these subjects maintained a similar distribution to all WM regions. Histograms for subjects with high WMH load exhibited the opposite relationship (see Fig. 3). For the subject with a very high WMH load, the MD and FA histograms for WMH regions were similar (see Fig. 1 D).",
+      "subsections": {}
+    },
+    "Conclusion": {
+      "text": "Our results suggest that early-stage lesion formation is may be characterized by MD changes, while regions with long-term lesions display FA changes. End-stage WM scars exhibit similar DTI measurement distributions, indicating stabilization of the tissue. This is consistent with previous observations of what investigators have termed WMH penumbra, 2 where the WMH delineated a foci of more widespread and subtle white matter damage that can be characterized with Diffusion MRI.\nFurther work needs to be done to characterize the exact eigenvectoreigenvalue changes within the diffusion tensor that leads to MD changes before FA changes. Our initial results suggests that the amplitude of the diffusion may increase due to inflammation then decreases as the scar tissue develops. Changes in acquisition b-values to measure different diffusion distance ranges as well as fitting the tensor to multiple b-values maybe helpful in determining the pathway to white matter disease in vivo. MD and FA histograms for low WMH load and high WMH load subjects compared with MD and FA in all WM for each subject.",
+      "subsections": {}
+    }
+  }
+}

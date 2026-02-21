@@ -1,0 +1,23 @@
+Measurement,Tract,Diffusion index,Correlation coefficient (rs),p
+IPAQ-SF MET,CST pyramids (R),FA,0.373,0.039
+,,MD,−0.389,0.031
+,PCR (R),FA,0.501,0.004???
+,PCR (L),FA,0.429,0.016
+,PTR (R),MD,−0.412,0.021
+,PTR (L),MD,−0.437,0.014
+SARC-F,PCR (R),FA,−0.432,0.015
+,EC (R),FA,−0.423,0.018
+MoCA,ICP (R),FA,0.463,0.009???
+,,MD,−0.642,<0.001???
+,ICP (L),FA,0.394,0.028
+,,MD,−0.527,0.002???
+,CST pyramids (R),MD,−0.533,0.002???
+,Fornix (L),MD,−0.468,0.008???
+,AL-IC (L),MD,−0.368,0.042
+,PCR (R),FA,0.375,0.038
+,SCP (R),MD,−0.414,0.021
+,EC (R),MD,−0.427,0.017
+,Cin (L),MD,−0.369,0.041
+AD8,ICP (R),MD,−0.374,0.038
+,SFOF (L),FA,0.363,0.045
+,AL-IC (R),MD,−0.415,0.020

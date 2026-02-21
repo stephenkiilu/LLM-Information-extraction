@@ -1,0 +1,46 @@
+Patient,CDT,Span forward,Span backward,Fluency,MMSE,Crook,Yesavage,Family pictures,Diagnosis
+Sub 01,10,4,4,16,28,30,6,30,Normal
+Sub 02,10,5,4,12,26,21,2,29,Normal
+Sub 03,10,6,4,14,26,32,5,26,Normal
+Sub 04,10,6,4,21,25,35,10,26,Normal
+Sub 05,10,5,3,8,22,29,1,24,Normal
+Sub 06,10,4,2,11,21,31,4,20,Normal
+Sub 07,10,5,4,24,29,27,0,30,Normal
+Sub 08,10,6,3,12,29,21,4,29,Normal
+Sub 09,10,3,3,19,29,31,8,27,Normal
+Sub 10,10,4,4,12,26,29,11,30,Normal
+Sub 11,8,7,5,19,25,29,7,25,Normal
+Sub 12,10,5,3,11,29,26,4,23,Normal
+Sub 13,10,4,4,16,28,33,3,27,Normal
+Sub 14,10,6,5,21,29,27,0,27,Normal
+Sub 15,9,4,3,11,25,23,5,24,Normal
+Sub 16,10,5,4,15,26,31,6,28,Amnestic MCI
+Sub 17,10,5,4,13,27,35,12,30,Amnestic MCI
+Sub 18,10,5,4,10,27,31,13,30,Amnestic MCI
+Sub 19,10,4,3,13,30,26,4,22,Amnestic MCI
+Sub 20,8,4,4,6,20,30,2,27,Amnestic MCI
+Sub 21,4,6,4,9,25,27,3,18,Amnestic MCI
+Sub 22,10,5,4,19,27,28,1,30,Amnestic MCI
+Sub 23,10,5,3,13,24,34,6,22,Amnestic MCI
+Sub 24,10,4,2,17,27,23,4,24,Amnestic MCI
+Sub 25,10,6,3,18,29,31,3,26,Amnestic MCI
+Sub 26,10,4,2,10,24,25,3,23,Amnestic MCI
+Sub 27,7,4,4,16,25,24,8,17,Amnestic MCI
+Sub 28,2,5,3,13,28,26,11,17,Amnestic MCI
+Sub 29,10,6,4,10,26,21,11,18,Amnestic MCI
+Sub 30,10,4,3,13,23,27,12,15,Amnestic MCI
+Sub 31,9,4,3,9,17,24,4,16,AD dementia
+Sub 32,7,4,4,10,21,35,8,13,AD dementia
+Sub 33,3,3,0,6,14,28,0,13,AD dementia
+Sub 34,5,4,3,9,25,26,2,23,AD dementia
+Sub 35,10,7,4,15,25,30,4,15,AD dementia
+Sub 36,10,5,4,10,26,30,3,19,AD dementia
+Sub 37,10,5,3,9,24,22,0,21,AD dementia
+Sub 38,3,5,3,5,23,25,1,15,AD dementia
+Sub 39,2,5,2,5,15,9,2,16,AD dementia
+Sub 40,10,4,2,11,22,32,7,15,AD dementia
+Sub 41,4,4,3,9,21,21,0,19,AD dementia
+Sub 42,10,3,3,7,23,23,3,13,AD dementia
+Sub 43,10,5,3,14,28,35,7,21,AD dementia
+Sub 44,3,4,2,0,12,23,2,16,AD dementia
+Sub 45,9,4,3,12,25,34,4,20,AD dementia

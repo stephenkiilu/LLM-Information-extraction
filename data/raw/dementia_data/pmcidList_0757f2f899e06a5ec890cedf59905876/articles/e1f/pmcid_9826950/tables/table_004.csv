@@ -1,0 +1,14 @@
+Measure,Condition,Patient Score,Control sample mean(n = 14),SD,t-value,t-value.1,p value,size effects(Z_cc),95% CI
+Virtual Supermarket Test (VST),Egocentric,4*,12.9,0.9,−9.529,<0.001,<0.001,−9.889,−13.83 to −5.95
+Virtual Supermarket Test (VST),Allocentric,1.5,8.1,3.2,−0.201,NS,NS,−0.206,−3.03 to −1.07
+Virtual Supermarket Test (VST),Heading,6*,12.5,2.1,−2.983,<0.01,<0.01,−3.095,−4.42 to −1.75
+The Clock Test,Cardinal,1*,3.9,0.9,−3.105,<0.01,<0.01,−3.222,−4.59 to −1.83
+The Clock Test,Right Angel,1*,3.6,0.6,−4.176,<0.001,<0.001,−4.333,−6.12 to −2.53
+The Clock Test,Mixed,1,3.9,1.7,−1.644,NS,NS,−1.706,−2.56 to −0.83
+,Total,3*,11.0,2.6,−2.965,0.01,0.01,−3.077,−4.4 to −1.74
+Statue Test,Wall easy,4,4.0,0.0,0,NS,NS,−3.077,−0.54 to 0.54
+,Wall medium,1*,2.6,0.5,−3.085,0.01,0.01,−3.16,−4.51 to 1.79
+,Wall hard,0,0.3,0.6,0,NS,NS,0,−1.08 to 0.09
+,Stool easy,0,3.7,0.4,−0.723,NS,NS,−0.75,0.12 to 1.36
+,Stool medium,4*,2.2,0.8,−0.482,0.02,0.02,−2.687,−3.87 to −1.48
+,Stool hard,2,0.2,0.6,−0.482,NS,NS,0.5,−1.07 to 0.09

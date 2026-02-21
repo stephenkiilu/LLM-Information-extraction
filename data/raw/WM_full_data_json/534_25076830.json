@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Mapping of ApoE4 Related White Matter Damage using Diffusion MRI",
+    "authors": [
+      "Sinchai Tsao",
+      "Niharika Gajawelli",
+      "Darryl Hwa Hwang",
+      "Stephen Kriger",
+      "Meng Law",
+      "Helena Chui",
+      "Michael Weiner",
+      "Natasha Lepore"
+    ],
+    "abstract": "ApoliopoproteinE ε4 (ApoE-ε4) polymorphism is the most well known genetic risk factor for developing Alzheimers Disease. The exact mechanism through which ApoE ε4 increases AD risk is not fully known, but may be related to decreased clearance and increased oligomerization of Aβ. By making measurements of white matter integrity via diffusion MR and correlating the metrics in a voxel-based statistical analysis with ApoE-ε4 genotype (whilst controlling for vascular risk factor, gender, cognitive status and age) we are able to identify changes in white matter associated with carrying an ApoE ε4 allele. We found potentially significant regions (P uncorrected  0.05) near the hippocampus and the posterior cingulum that were independent of voxels that correlated with age or clinical dementia rating (CDR) status suggesting that ApoE may affect cognitive decline via a pathway in dependent of normal aging and acute insults that can be measured by CDR and Framingham Coronary Risk Score (FCRS).",
+    "publication_date": ""
+  },
+  "content": {
+    "INTRODUCTION": {
+      "text": "ApoliopoproteinE ε4 (ApoE ε4) polymorphism is the most well known genetic risk factor for developing Alzheimers Disease. 1 The exact mechanism through which ε4 increases AD risk is not fully known, but may be related to decreased clearance and increased oligomerization of Aβ. By making measurements of white matter integrity via diffusion MR and correlating the metrics in a Voxel-based Statistical Analysis with ε4 genotype (whilst controlling for vascular risk factor, gender, cognitive status and age) we are able to identify changes in white matter associated with carrying an ApoE ε4 allele.\nFurther author information: (Send correspondence to S.T. or N.L.) S.T.: mailSinchaiTsao.com N.L.: leporeusc.edu.",
+      "subsections": {}
+    },
+    "HHS Public Access": {
+      "text": "Author manuscript",
+      "subsections": {}
+    },
+    "METHODS": {
+      "text": "59 subjects with ages ranging from 70-86 years were recruited from 3 different sites in a prospective longitudinal study of vascular contributions to aging and cognitive impairment, alone or in combination with AD. ε4 positive (29 subjects carrying at least one ε4 allele) and ε4 negative (30 subjects). Vascular risk was assessed using the 10 year Framingham Coronary Risk Score (FCRS) and the subjects were categorized either as high or low vascular risk. Dementia staging was performed using the Clinical Dementia Rating (CDR) system. MR imaging was performed on four3T scanners. A rigorous image harmonization routine was performed to ensure all sequences produced comparable images from the different scanners. T1 weighted anatomical images (SPGRMPRAGE) were used to coregister all the images to a common space using SPMs DARTEL Algorithm. b0 maps from the Diffusion images were registered to the T1 images using an affine transformation. Both the affine as well as non-affine transformations were concatenated to achieve coregistration for FA across all the subjects. Statistical Parametric Mapping was performed using SPM8. ε4 status, CDR scores, FRCS Category, Age as well as gender were used as covariates and factors in the Design Matrix.",
+      "subsections": {}
+    },
+    "RESULTS": {
+      "text": "ApoE-ε4 related loss of FA was found most prominently in the parahippocampal regions (figure 1) and did not overlap with regions that correlated with Age and CDR (figure 3). CDR scores correlated most with the posterior fornix tracts (figure 3) in blue whereas the significant voxels for both ApoE-ε4 (red) as well as Age (green) resided more in the anterior regions surrounding the fornix and corpus collosum. A hemispheric asymmetry was observed with more age-related significant voxels on the left hemisphere, consistent with previous studies. 1",
+      "subsections": {}
+    },
+    "CONCLUSION": {
+      "text": "Our study shows promising results for separating the effects of ε4, Normal Aging and dementia severity when performing large scale MR imaging studies using Diffusion MR. Both the ApoE ε4 and CDR effects (parahippocampal gyrus and fornix) are integral components of the episodic memory system, which is highly vulnerable to neurofibrillary degeneration in AD. The involvement of the medial temporal diencephalic system in Vascular Cognitive Impairment is less prominent and more variable. Future work in analyzing the complete N200 dataset will give us the statistical power to investigate the anatomical effects of vascular factors as well as differentiate the cognitive effects of WM damage by correlating individual ROIs with cognitive scores.",
+      "subsections": {}
+    }
+  }
+}

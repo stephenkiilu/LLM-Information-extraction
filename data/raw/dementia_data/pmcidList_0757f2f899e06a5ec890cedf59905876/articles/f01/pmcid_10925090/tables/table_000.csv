@@ -1,0 +1,19 @@
+Study/Dataset,Exclusion Criteria,Age Range (years),Available N(% Male),Bootstrapped N (% Male),Country,Manufacturer (Field Strength),b-values (volumes),Resolution (mm3)
+PING,-,3–21,906 (52.2),902 (52.1),United States,Siemens (3T)GE (3T)Philips (3T),"0 (4), 1000 (32)0 (2), 1000 (30)0 (3), 1000 (30)",2.5 × 2.5 × 2.52.5 × 2.5 × 2.5???2.5 × 2.5 × 2.5
+HCP-D,-,8–21,617 (48.5),617(48.5),United States,Siemens (3T),"0 (28), 1500 (93), 3000 (92)",1.5 × 1.5 × 1.5
+ABCD,One sibling per family,9–13,5611 (52.7),5000 (52.8),United States,Siemens (3T),"0 (7), 500 (6), 1000 (15), 2000 (15), 3000 (60)",1.7 × 1.7 × 1.7
+SLIM,-,17–26,432 (45.1),432(45.1),China,Siemens (3T),"0 (1), 1000 (30)",2.0 × 2.0 × 2.0
+HCP,One sibling per family,22–36,363 (45.5),363 (45.5),United States,Siemens (3T),"0 (18), 1000 (90), 2000 (90), 3000 (90)",1.25 × 1.25 × 1.25
+Cam-CAN,-,18–87,305 (35.1),305 (35.1),United Kingdom,Siemens (3T),"0 (3), 1000 (30), 2000 (30)",2.0 × 2.0 × 2.0
+PPMI,Parkinson ’s disease,30–81,83 (63.9),83 (63.9),International,Siemens (3T),"0 (1), 1000 (64)",1.98 × 1.98 × 2.0
+UK Biobank,"ICD-10 codes: C70-C72, G, I6, Q0, R90, R940, S01-S09; self-report conditions : 1081, 1086, 1266, 1267, 1397, 1434, 1437, 1491, 1626",45–82,"31,986 (46.8)",5000 (47.0),United Kingdom,Siemens (3T),"0 (8), 1000 (50), 2000 (50)",2.0 × 2.0 × 2.0
+OASIS3,Cognitive impairment,42–92,225 (48.4),225 (48.4),United States,Siemens (3T),"0 (1), 1000 (64)",2.5 x2.5 x2.5
+ADNI3,Cognitive impairment,55–95,370 (41.2),370(41.2),United States Canada,Siemens (3T)Siemens (3T)GE (3T)GE (3T)Philips (3T)Philips (3T),"0 (1), 1000 (30)0 (7), 1000 (48)0 (4), 1000 (32)0 (6), 1000 (48)0 (1), 1000 (32)0 (4), 1000 (32)",2.0 × 2.0 × 2.02.0 × 2.0 × 2.02.0 × 2.0 × 2.0???2.0 × 2.0 × 2.0???2.0 × 2.0 × 2.02.0 × 2.0 × 2.0
+NIH Pediatric,Age < 3 years,3–21,122 (44.3),-,United States,Siemens (1.5T)GE (1.5T),"0 (10), 100 (10), 300 (10), 500 (10), 800 (30), 1100 (50) 0 (9), 100 (10), 300 (10), 500 (10), 800 (30), 1100 (50)",2.5 × 2.5 × 2.52.5 × 2.5 × 2.5
+TAOS,One sibling per family,12–16,232 (49.6),-,United States,Siemens (3T),"0 (3), 700 (55)",1.7 × 1.7 × 3
+GOBS,Kinship > 0.125,23–78,189 (37.0),-,United States,Siemens (3T),"0 (3), 700 (55)",1.7 × 1.7 × 3
+QTIM-d30???,One twin per family,18–29,317(35.6),-,Australia,Bruker (4T),"0 (3), 1159 (27)",1.8 × 1.8 × 5.5
+QTIM-d105 ???,One twin per family,18–29,317(35.6),-,Australia,Bruker (4T),"0 (11), 1159 (94)",1.8 × 1.8 × 2
+HUNT,"Multiple sclerosis, cysts, meningioma, infarction, post-op changes",50–67,811 (46.7),-,Norway,GE (1.5T),"0 (5), 1000 (40)",2.5 × 2.5 × 2.5???
+ADNI2,Cognitive impairment,60–85,42 (40.5),-,United States Canada,GE (3T),"0 (5), 1000 (41)",2.7 × 2.7 × 2.7
+ADNI3-S127???,Cognitive impairment,61–85,64 (34.4),-,United States,Siemens (3T),"0(13), 1000 (48), 2000 (60)",2 × 2 × 2

@@ -1,0 +1,12 @@
+Unnamed: 0_level_0,DTI based tractography,DTI based tractography,CSD based tractography,CSD based tractography
+Unnamed: 0_level_1,Beta (95% CI),p-value,Beta (95% CI),p-value
+Model 1,,,,
+FA,0.39 (0.01; 0.78),0.054,0.41 (0.02; 0.81),0.042
+MD,−0.18 (−0.62; 0.25),0.383,−0.16 (−0.58; 0.27),0.461
+Axial diffusivity,0.01 (−0.45; 0.47),0.967,0.08 (−0.39; 0.53),0.737
+Radial diffusivity,−0.27 (−0.68; 0.15),0.195,−0.26 (−0.67; 0.15),0.205
+Model 2,,,,
+FA,0.36 (−0.04; 0.76),0.074,0.53 (0.14; 0.92),0.01
+MD,−0.23 (−0.66; 0.20),0.283,−0.55 (−1.07; −0.02)???,0.044
+Axial diffusivity,−0.10 (−0.59; 0.40),0.69,−0.22 (−0.92; 0.48)???,0.511
+Radial diffusivity,−0.27 (−0.68; 0.14),0.178,−0.55 (−1.0; −0.11)???,0.018

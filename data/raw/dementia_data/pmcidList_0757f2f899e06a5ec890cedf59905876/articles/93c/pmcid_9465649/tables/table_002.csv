@@ -1,0 +1,14 @@
+Unnamed: 0,r,p-value
+FW.NAWM???,−0.141,0.036
+FW.WMH,−0.171,0.010
+MDt.NAWM,−0.058,0.385
+MDt.WMH,−0.213,0.001
+FAt.NAWM,0.261,<0.001
+FAt.WMH,−0.169,0.011
+ADt.NAWM,0.266,<0.001
+ADt.WMH,−0.199,0.003
+RDt.NAWM,−0.196,0.003
+RDt.WMH,0.178,0.007
+WMH volume???,−0.105,0.116
+brain volume (normalized),0.083,0.213
+lacunes???,−2.020,0.045

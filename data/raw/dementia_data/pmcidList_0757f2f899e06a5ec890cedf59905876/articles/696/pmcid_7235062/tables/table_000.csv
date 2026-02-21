@@ -1,0 +1,31 @@
+Variables,"Total cohort, n = 60",Cavitation index ≤ 7%,Cavitation index > 7%,p value
+Variables,"Total cohort, n = 60",N = 29,N = 31,p value
+"Age in years, mean (± SD)",65.1 (10.6),66.1 (9.8),64.1 (11.4),0.47
+"Male sex, n (%)",39 (65),21 (72),18 (58),0.65
+"NIHSS, median (range)",1 (0–7),1 (0–5),1 (0–7),0.20
+"Modified Rankin Scale, median (IQR)",1 (2),1 (1),2 (2),0.170
+"Vascular risk factors, n (%)","Vascular risk factors, n (%)","Vascular risk factors, n (%)","Vascular risk factors, n (%)","Vascular risk factors, n (%)"
+Hypertension,46 (77),26 (84),20 (69),0.17
+Diabetes,6 (10),4 (13),2 (7),0.44
+Hyperlipidemia,39 (65),20 (65),19 (66),0.94
+Smoking,24 (40),12 (39),12 (41),0.83
+Baseline MRI characteristics,Baseline MRI characteristics,Baseline MRI characteristics,Baseline MRI characteristics,Baseline MRI characteristics
+"Symptom onset to baseline MRI in days, median (IQR)",4 (4),4 (5),4 (3.5),0.79
+"Symptom onset to FU 1 MRI in days, median (IQR)",45 (29),47.5 (28.25),41 (31),0.33
+"Symptom onset to FU 2 MRI in days, median (IQR)",386 (53),392 (65.25),384 (49),0.41
+"Maximal axial RSSI diameter in mm, median (IQR)",12 (7),12 (6),10.5 (7.6),0.29
+"RSSI location, n (%)",,,,0.42
+Basal ganglia/internal capsule,15 (25),7 (23),8 (28),
+Centrum semiovale,25 (42),15 (48),10 (35),
+Thalamus,14 (23),5 (16),9 (31),
+Brainstem,6 (10),4 (13),2 (7),
+"Fazekas WMH sum score* (0–6), median (IQR)",3 (3),3.5 (1–6),3 (2–6),0.16
+"Lacunar infarcts ≥ 1, n (%)",30 (50),16 (52),14 (48),0.8
+"Microbleeds ≥ 1, n (%)",17 (28),12 (40),5 (17),0.054
+"PVS in basal ganglia (0–4), median (IQR)",2 (2),2 (1–4),2 (1–4),0.97
+"PVS in centrum semiovale (0–4), median (IQR)",2 (2),2 (0–4),2 (1–4),0.73
+"Deep atrophy score (0–3), median (IQR)",1 (1),1 (0–3),1 (0–3),0.047
+"Superficial atrophy score (0–3), median (IQR)",1 (1),1 (0–3),1 (0–2),0.56
+"Cavitation index at 1 year, median (range)",0.071 (0.01–0.36),0.045 (0.01–0.07),0.116 (0.08–0.36),< 0.001
+"Modified Rankin Scale at 1 year, median (IQR)",1 (1),1 (2),1 (1),0.476
+"ACE-R [???] at 1 year, median (IQR)#",90 (13),91.5 (12),88.5 (15),0.52

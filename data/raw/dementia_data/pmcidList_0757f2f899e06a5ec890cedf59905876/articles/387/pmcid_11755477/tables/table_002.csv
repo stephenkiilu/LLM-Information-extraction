@@ -1,0 +1,50 @@
+Unnamed: 0_level_0,ANCOVA,ANCOVA,ANCOVA,POST-HOC COMPARISONS,POST-HOC COMPARISONS,POST-HOC COMPARISONS,POST-HOC COMPARISONS,POST-HOC COMPARISONS,POST-HOC COMPARISONS,POST-HOC COMPARISONS,POST-HOC COMPARISONS,POST-HOC COMPARISONS
+Unnamed: 0_level_1,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1,CN < EMCI,CN < EMCI,CN < EMCI,CN < LMCI,CN < LMCI,CN < LMCI,EMCI < LMCI,EMCI < LMCI,EMCI < LMCI
+JHU WM Tractography,% Vol,<F>,max η2,% Vol,<t>,max |g|,% Vol,<t>,max |g|,% Vol,<t>,max |g|
+Anterior thalamic radiation L,13.2,6.207,0.954,7.24,−2.043,−0.34,14.11,−2.489,−0.665,2.07,−2.205,−1.022
+Anterior thalamic radiation R,9.72,5.018,0.484,7.09,−2.298,−0.322,9.75,−2.319,−0.637,1.55,−2.752,−0.838
+Cortical spinal tract L,10.29,4.294,0.113,17.14,−2.481,−0.364,-,-,-,-,-,-
+Cortical spinal tract R,4.49,4.17,0.114,6.72,−2.445,−0.338,-,-,-,-,-,-
+Cingulum cingulate gyrus L,10.89,4.518,0.147,5.81,−2.044,−0.33,-,-,-,-,-,-
+Cingulum cingulate gyrus R,6.02,3.954,0.12,-,-,-,-,-,-,-,-,-
+Forceps major,6.87,4.25,0.128,-,-,-,13.13,−2.092,−0.555,1.06,−2.364,−0.643
+Forceps minor,7.15,4.781,0.387,5.34,−1.937,−0.371,6.37,−2.474,−0.582,-,-,-
+Inferior fronto-occipital fasc L,7.76,5.242,0.192,9.64,−2.124,−0.369,10.95,−2.195,−0.673,-,-,-
+Inferior fronto-occipital fasc R,6,4.759,0.176,2.34,−2.262,−0.324,9.25,−2.381,−0.639,-,-,-
+Inferior longitudinal fasc L,11.72,4.583,0.19,11.77,−2.143,−0.384,13.12,−2.43,−0.586,-,-,-
+Inferior longitudinal fasc R,6.86,4.76,0.179,-,-,-,11.21,−2.106,−0.664,-,-,-
+Superior longitudinal fasc L,19.53,4.345,0.187,22.41,−2.297,−0.484,9.31,−2.073,−0.517,-,-,-
+Superior longitudinal fasc R,9.29,3.933,0.155,12.41,−2.264,−0.387,-,-,-,-,-,-
+Uncinate fasc L,3.03,5.871,0.189,10.33,−2.02,−0.296,7.91,−2.217,−0.664,-,-,-
+Sup longitudinal Fasc temporal L,24.06,4.441,0.187,27.23,−2.368,−0.484,12.88,−2.024,−0.507,-,-,-
+Sup longitudinal fasc temporal R,14.56,3.953,0.138,18.7,−2.332,−0.373,-,-,-,-,-,-
+ICBM-DTI 81,% Vol,<F>,max η2,% Vol,<t>,max |g|,% Vol,<t>,max |g|,% Vol,<t>,max |g|
+Genu of corpus callosum,22.63,4.402,0.17,11.05,−1.924,−0.348,21.74,−2.314,−0.582,-,-,-
+Body of corpus callosum,13.66,4.075,0.128,7.88,−2.123,−0.361,11.18,−2.214,−0.514,-,-,-
+Splenium of corpus callosum,8.23,3.638,0.144,-,-,-,11.43,−2.639,−0.55,-,-,-
+Fornix,57.21,7.779,0.242,-,-,-,63.58,−3.167,−0.735,9.26,−2.328,−0.521
+Anterior limb of internal capsule L,1.26,2.865,0.076,1.36,−1.978,−0.307,1.09,−1.48,−0.355,-,-,-
+Posterior limb of internal capsule L,13.41,3.648,0.092,20.39,−2.227,−0.326,-,-,-,-,-,-
+Retrolenticular part of internal capsule L,22.76,4.653,0.144,27.91,−2.325,−0.414,-,-,-,-,-,-
+Anterior corona radiata R,4.37,5.005,0.115,26.54,−2.4,−0.326,-,-,-,-,-,-
+Anterior corona radiata L,1.44,3.666,0.081,15.91,−2.086,−0.318,-,-,-,-,-,-
+Superior corona radiata R,16.48,3.988,0.109,30.83,−2.377,−0.348,-,-,-,-,-,-
+Superior corona radiata L,39.22,4.452,0.13,62.48,−2.543,−0.368,-,-,-,-,-,-
+Posterior corona radiata R,10.97,4.172,0.114,8.96,−2.318,−0.337,-,-,-,-,-,-
+Posterior corona radiata L,18.12,4.024,0.138,30.64,−2.257,−0.371,-,-,-,,,
+Posterior thalamic radiation R,19.31,4.172,0.161,-,-,-,22.89,−2.533,−0.563,-,-,-
+Posterior thalamic radiation L,18.05,5.111,0.19,-,-,-,24.81,−2.548,−0.586,-,-,-
+Sagittal stratum R,24.73,5.05,0.176,-,-,-,27.74,−2.239,−0.597,-,-,-
+Sagittal stratum L,22.9,4.108,0.147,20.57,−1.959,−0.315,25.64,−2.346,−0.559,-,-,-
+External capsule L,11.67,4.391,0.134,22.89,−2.139,−0.357,12.1,−2.393,−0.507,-,-,-
+Cingulum (cingulate gyrus) R,10.42,3.55,0.088,-,-,-,-,-,-,-,-,-
+Cingulum (cingulate gyrus) L,17.23,4.374,0.147,15.59,−2.105,−0.326,-,-,-,-,-,-
+Fornix (cres)/Stria terminalis R,56.58,7.441,0.211,-,-,-,60.14,−3.103,−0.698,-,-,-
+Fornix (cres)/Stria terminalis L,30.22,6.762,0.217,14.13,−2.204,−0.406,40,−2.493,−0.604,-,-,-
+Superior longitudinal fasciculus R,21.49,3.912,0.124,31.18,−2.29,−0.348,-,-,-,-,-,-
+Superior longitudinal fasciculus L,39.74,4.464,0.187,50.17,−2.417,−0.484,-,-,-,-,-,-
+Superior fronto-occipital fasciculus R,0.79,3.554,0.04,14.79,−1.843,−0.344,-,-,-,-,-,-
+Superior fronto-occipital fasciculus L,13.41,3.562,0.084,24.26,−1.92,−0.311,-,-,-,-,-,-
+Uncinate fasciculus L,18.88,3.334,0.115,22.87,−1.842,−0.308,-,-,-,-,-,-
+Tapetum R,71.81,4.716,0.122,-,-,-,79.7,−2.596,−0.476,-,-,-
+Tapetum L,73.33,6.838,0.153,-,-,-,74,−3.188,−0.626,37.17,−2.581,−0.652

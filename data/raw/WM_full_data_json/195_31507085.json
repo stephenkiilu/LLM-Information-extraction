@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "title": "1 C-PK11195 PET imaging and white matter changes in Parkinsons disease dementia",
+    "authors": [
+      "Nicolas Nicastro",
+      "Ajenthan Surendranathan",
+      "Elijah Mak",
+      "James B Rowe",
+      "John T O'brien"
+    ],
+    "abstract": "There is evidence of increased microglial activation in Parkinsons disease (PD) as shown by in vivo PET ligand such as 11 C-PK11195. In addition, diffusion tensor imaging (DTI) imaging reveals widespread changes in PD, especially when the associated dementia develops. In the present case series, we studied five subjects with Parkinsons disease dementia (PDD). Our findings suggest that while DTI metrics mirror cognitive severity, higher 11 C-PK11195 binding seems to be associated with a relative preservation of both white matter tracts and cognition. Longitudinal studies are warranted to tackle the complex relationship between microglial activation and structural abnormalities in neurodegenerative conditions.",
+    "publication_date": ""
+  },
+  "content": {
+    "Introduction": {
+      "text": "Neuroinflammation is increasingly recognized as a key contributor to neurodegeneration in Parkinsons disease (PD) and dementia. 1 PET probes have been developed to assess in vivo brain inflammation, for example, by targeting translocator protein (TSPO). 2 Among those, 11 C-PK11195 is one of the most widely used ligands to estimate microglial activation. 3 Recent studies in Alzheimers disease (AD) and dementia with Lewy bodies (DLB) have shown that microglial activation, as measured with 11 C-PK11195 PET, is more prominent in patients at an earlier disease stage. 4,5 Diffusion tensor imaging (DTI), on the other hand, is an application of diffusion-weighted magnetic resonance imaging designed to assess microstructural integrity based on motion of water molecules. Impaired white matter integrity in people with PD has been consistently observed in corpus callosum, in relation to cognitive impairment and development of dementia. 6,7 In the present case series, we studied 11 C-PK11195 binding as an index of neuroinflammation, and its association with DTI, motor, and cognitive features of Parkinsons disease dementia (PDD).",
+      "subsections": {}
+    },
+    "Subjects and Methods": {
+      "text": "We studied five PDD subjects who were recruited within the Neuroimaging of Inflammation in Memory and other Disorders (NIMROD) study protocol. 8 Mean cortical thickness was obtained with Freesurfer 6.0 using the standard processing pipeline described in. 9 DTI imaging was processed with FSL 6.0. 10 Briefly, this included registration of all diffusion-weighted images to the b  0 (i.e., no diffusion) volume using the FMRIB Software Library (FSL) Diffusion Toolbox, followed by brain masks creation with Brain Extraction Tool, head movement, and eddy currents correction. We then used DTIfit to independently fit the diffusion tensor for each voxel, resulting in the derivation of fractional anisotropy (FA), mean and radial diffusivity (MD and RD, respectively).\nDetails about 11 C-PK11195 PET processing are available in 4 . In brief, binding in each region of interest was quantified using non-displaceable binding potential (BP ND ) determined with a simplified reference tissue model incorporating vascular binding correction and reference region time-activity curve estimation from supervised cluster analysis using four kinetic classes. Regional BP ND was corrected for CSF contamination through division of the region of interest time-activity curve with the mean region of interest fraction of grey and white matter. Regional BP ND binding was obtained for each subject with the Hammers atlas. 4,11 Subsequently, regional 11 C-PK11195 binding Z-scores were computed by comparing each PDD subjects values to 16 similarly aged control subjects (mean AE SD age 69.7 AE 6.6 years, 50 female participants, ACER score 92.5 AE 5.6) scanned with the same imaging protocol, 2 with Z-scores higherlower than 2.0 considered as significant. Spearman correlations and regression analyses were performed in the PDD group between composite lobar (frontal, temporal, parietal, occipital) and whole-cortex 11 C-PK11195 BP ND , DTI metrics, and clinical data. Given the exploratory design of the study, results were not corrected for multiple comparisons.",
+      "subsections": {}
+    },
+    "Results": {
+      "text": "Demographics and main findings are available in Table 1.\nThe analyses revealed that PDD subjects had comparable or lower levels of whole-cortex as well as regional 11 C-PK11195 binding relative to controls (Fig. 1). In addition, lobar occipital 11 C-PK11195 binding was inversely correlated with MD and RD after adjusting for mean cortical thickness (linear regression, for MD: B  À415.6, P  0.035, adjusted R 2  0.89; for RD: B coefficient  À348.6, P  0.032, adjusted R 2  0.90), that is, higher 11 C-PK11195 was associated with a relative preservation of white matter integrity. The directionality of these PET-MRI correlations was congruent with those from neuropsychological data. In fact, ACER score positively correlated with frontal 11 C-PK11195 binding when adjusting for mean cortical thickness (linear regression, B  641.2, P  0.014, adjusted R 2  0.95). In addition, there was a trend for higher ACER scores being related to preserved DTI metrics (lower MDRD and higher FA, Spearman P  0.10, rho  À0.80 for MDRD and 0.80 for FA). There was no significant association between MDS-UPDRS part III score and 11 C-PK11195 binding or DTI metrics.",
+      "subsections": {}
+    },
+    "Discussion": {
+      "text": "Our study suggests that higher 11 C-PK11195 binding is associated with a relative preservation of both white matter tracts and cognition. Specifically, we found that DTI metrics mirror disease severity, and that PDD subjects had similar or reduced 11 C-PK11195 binding compared to controls. 6,12 While these findings require confirmation with larger samples, longitudinal data, and finer imaging proxies (e.g., voxel-wise DTI association with 11 C-PK11195 binding), this case series brings novel evidence for an early role of neuroinflammation in the pathophysiology of PDD and confers additional support for the hypothesis that central inflammation represents a potential therapeutic target in dementia.",
+      "subsections": {}
+    }
+  }
+}

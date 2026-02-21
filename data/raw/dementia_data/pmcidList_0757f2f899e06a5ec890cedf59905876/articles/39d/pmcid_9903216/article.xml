@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cereb Blood Flow Metab</journal-id><journal-id journal-id-type="iso-abbrev">J Cereb Blood Flow Metab</journal-id><journal-id journal-id-type="pmc-domain-id">1259</journal-id><journal-id journal-id-type="pmc-domain">jcbfm</journal-id><journal-id journal-id-type="publisher-id">JCB</journal-id><journal-title-group><journal-title>Journal of Cerebral Blood Flow &amp; Metabolism</journal-title></journal-title-group><issn pub-type="ppub">0271-678X</issn><issn pub-type="epub">1559-7016</issn><publisher><publisher-name>SAGE Publications</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9903216</article-id><article-id pub-id-type="pmcid-ver">PMC9903216.1</article-id><article-id pub-id-type="pmcaid">9903216</article-id><article-id pub-id-type="pmcaiid">9903216</article-id><article-id pub-id-type="pmid">36300327</article-id><article-id pub-id-type="doi">10.1177/0271678X221135658</article-id><article-id pub-id-type="publisher-id">10.1177_0271678X221135658</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Retinal capillary microvessel morphology changes are associated with
+vascular damage and dysfunction in cerebral small vessel disease</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6739-5797</contrib-id><name name-style="western"><surname>Wiseman</surname><given-names initials="SJ">Stewart J</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff2-0271678X221135658" ref-type="aff">2</xref><xref rid="aff3-0271678X221135658" ref-type="aff">3</xref><xref rid="fn1-0271678X221135658" ref-type="author-notes">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="JF">Jun-Fang</given-names></name><xref rid="aff4-0271678X221135658" ref-type="aff">4</xref><xref rid="fn1-0271678X221135658" ref-type="author-notes">*</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2816-4707</contrib-id><name name-style="western"><surname>Gray</surname><given-names initials="C">Calum</given-names></name><xref rid="aff3-0271678X221135658" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Hamid</surname><given-names initials="C">Charlene</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff3-0271678X221135658" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Valdés Hernández</surname><given-names initials="MDC">Maria del C</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff2-0271678X221135658" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ballerini</surname><given-names initials="L">Lucia</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff2-0271678X221135658" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Thrippleton</surname><given-names initials="MJ">Michael J</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff2-0271678X221135658" ref-type="aff">2</xref><xref rid="aff3-0271678X221135658" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Manning</surname><given-names initials="C">Cameron</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3811-4439</contrib-id><name name-style="western"><surname>Stringer</surname><given-names initials="M">Michael</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff2-0271678X221135658" ref-type="aff">2</xref><xref rid="aff3-0271678X221135658" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Sleight</surname><given-names initials="E">Emilie</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff2-0271678X221135658" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Muñoz Maniega</surname><given-names initials="S">Susana</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Morgan</surname><given-names initials="A">Alasdair</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Cheng</surname><given-names initials="Y">Yajun</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff5-0271678X221135658" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2424-7123</contrib-id><name name-style="western"><surname>Arteaga</surname><given-names initials="C">Carmen</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Jaime Garcia</surname><given-names initials="D">Dany</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Clancy</surname><given-names initials="U">Una</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Doubal</surname><given-names initials="FN">Fergus N</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dhillon</surname><given-names initials="B">Baljean</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff6-0271678X221135658" ref-type="aff">6</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>MacGillivray</surname><given-names initials="T">Tom</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff3-0271678X221135658" ref-type="aff">3</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Wu</surname><given-names initials="YC">Yun-Cheng</given-names></name><xref rid="aff4-0271678X221135658" ref-type="aff">4</xref><xref rid="corresp2-0271678X221135658" ref-type="corresp"/></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9812-6642</contrib-id><name name-style="western"><surname>Wardlaw</surname><given-names initials="JM">Joanna M</given-names></name><xref rid="aff1-0271678X221135658" ref-type="aff">1</xref><xref rid="aff2-0271678X221135658" ref-type="aff">2</xref><xref rid="aff3-0271678X221135658" ref-type="aff">3</xref><xref rid="corresp1-0271678X221135658" ref-type="corresp"/></contrib><aff id="aff1-0271678X221135658">
+<label>1</label>Centre for Clinical Brain Sciences, University of Edinburgh,
+Edinburgh, UK</aff><aff id="aff2-0271678X221135658">
+<label>2</label>UK Dementia Research Institute, University of Edinburgh,
+Edinburgh, UK</aff><aff id="aff3-0271678X221135658">
+<label>3</label>Edinburgh Imaging Facilities, Edinburgh Imaging, University of
+Edinburgh, UK</aff><aff id="aff4-0271678X221135658">
+<label>4</label>Department of Neurology, Shanghai General Hospital, Shanghai
+Jiao Tong University School of Medicine, Shanghai, China</aff><aff id="aff5-0271678X221135658">
+<label>5</label>Department of Neurology, West China Hospital, Sichuan
+University, Chengdu, China</aff><aff id="aff6-0271678X221135658">
+<label>6</label>NHS Lothian Princess Alexandra Eye Pavilion, UK</aff></contrib-group><author-notes><fn fn-type="equal" id="fn1-0271678X221135658"><label>*</label><p>These authors contributed equally to this work.</p></fn><corresp id="corresp1-0271678X221135658">Joanna M Wardlaw, CCBS, Chancellor’s
+Building, Royal Infirmary of Edinburgh, 49 Little France Crescent, Edinburgh,
+EH16 4SB, UK. Email: <email>Joanna.Wardlaw@ed.ac.uk</email></corresp><corresp id="corresp2-0271678X221135658">Yun-Cheng Wu, Department of Neurology,
+Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine,
+Shanghai 200080, P.R. China. Email:
+<email>yunchw@medmail.com.cn</email></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>10</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2023</year></pub-date><volume>43</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">428389</issue-id><fpage>231</fpage><lpage>240</lpage><history><date date-type="received"><day>15</day><month>4</month><year>2022</year></date><date date-type="rev-recd"><day>5</day><month>9</month><year>2022</year></date><date date-type="accepted"><day>6</day><month>9</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>27</day><month>10</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>08</day><month>02</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-24 19:25:36.720"><day>24</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© The Author(s) 2022</copyright-statement><copyright-year>2022</copyright-year><copyright-holder content-type="society">International Society for Cerebral Blood
+Flow and Metabolism</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This article is distributed under the terms of the Creative Commons
+Attribution 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>) which permits
+any use, reproduction and distribution of the work without further
+permission provided the original work is attributed as specified on the SAGE
+and Open Access pages (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="10.1177_0271678X221135658.pdf"/><abstract><p>Cerebral small vessel disease (SVD) is a cause of stroke and dementia. Retinal
+capillary microvessels revealed by optical coherence tomography angiography
+(OCTA) are developmentally related to brain microvessels. We quantified retinal
+vessel density (VD) and branching complexity, investigating relationships with
+SVD lesions, white matter integrity on diffusion tensor imaging (DTI) and
+cerebrovascular reactivity (CVR) to CO<sub>2</sub> in patients with minor
+stroke. We enrolled 123 patients (mean age 68.1 ± SD 9.9 years), 115 contributed
+retinal data. Right (R) and left (L) eyes are reported. After adjusting for age,
+eye disease, diabetes, blood pressure and image quality, lower VD remained
+associated with higher mean diffusivity (MD) (standardized β; R −0.16 [95%CI
+−0.32 to −0.01]) and lower CVR (L 0.17 [0.03 to 0.31] and R 0.19 [0.02 to 0.36])
+in normal appearing white matter (NAWM). Sparser branching remained associated
+with sub-visible white matter damage shown by higher MD (R −0.24 [−0.08 to
+−0.40]), lower fractional anisotropy (FA) (L 0.17 [0.01 to 0.33]), and lower CVR
+(R 0.20 [0.02 to 0.38]) in NAWM. OCTA-derived metrics provide evidence of
+microvessel abnormalities that may underpin SVD lesions in the brain.</p></abstract><kwd-group><kwd>OCTA</kwd><kwd>vessel density</kwd><kwd>capillary branching</kwd><kwd>cerebrovascular reactivity</kwd><kwd>perivascular spaces</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>typesetter</meta-name><meta-value>ts2</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1-0271678X221135658"><title>Introduction</title><p>Cerebral small vessel disease (SVD) is a major cause of stroke and dementia yet its
+underlying mechanism remains unclear and treatments are limited. SVD pathophysiology
+is mainly thought to occur at the level of brain perforating microvessels and
+includes impaired vasodilation, subtle blood-brain barrier leakage and perivascular
+tissue damage,<sup>
+<xref rid="bibr1-0271678X221135658" ref-type="bibr">1</xref>
+</sup> and vessel stiffening which could together impair glymphatic
+drainage.<sup><xref rid="bibr2-0271678X221135658" ref-type="bibr">2</xref>,<xref rid="bibr3-0271678X221135658" ref-type="bibr">3</xref></sup>
+Common structural brain imaging features of SVD include white matter
+hyperintensities (WMH) and perivascular spaces (PVS).<sup>
+<xref rid="bibr4-0271678X221135658" ref-type="bibr">4</xref>
+</sup> Magnetic resonance imaging (MRI) methods like blood oxygen level dependent
+(BOLD) cerebrovascular reactivity (CVR) imaging with hypercapnic stimulus<sup>
+<xref rid="bibr5-0271678X221135658" ref-type="bibr">5</xref>
+</sup> and diffusion tensor imaging (DTI)<sup>
+<xref rid="bibr6-0271678X221135658" ref-type="bibr">6</xref>
+</sup> can identify vascular dysfunction and white matter damage, respectively, in
+brain tissue.</p><p>Blood vessels in the retina share many features with similarly sized vessels in the
+brain, including their embryological origin and anatomic and physiological characteristics.<sup>
+<xref rid="bibr7-0271678X221135658" ref-type="bibr">7</xref>
+</sup> By examining the condition of the retina’s microvascular system that is
+captured on non-invasive imaging, from the main arcades (∼40 μm in diameter)
+observed on fundus photography, to the capillaries (down to 8 μm) seen with newer
+technologies such as optical coherence tomography angiography (OCTA),<sup>
+<xref rid="bibr8-0271678X221135658" ref-type="bibr">8</xref>
+</sup> we might draw useful conclusions about the brain’s microvascular health. OCTA
+might even be able to detect early microvascular changes before sequela are visible
+with brain imaging modalities.</p><p>Previous investigations with fundus photography have shown that patients with small
+vessel (lacunar) stroke have wider venules,<sup>
+<xref rid="bibr9-0271678X221135658" ref-type="bibr">9</xref>
+</sup> smaller arterioles<sup>
+<xref rid="bibr10-0271678X221135658" ref-type="bibr">10</xref>
+</sup> and decreased fractal dimension of the vessel branching pattern, suggesting a
+sub-optimal microvascular network compared with other ischemic stroke subtypes.<sup>
+<xref rid="bibr11-0271678X221135658" ref-type="bibr">11</xref>
+</sup> Moreover, retinal microvascular abnormalities (such as focal arteriolar
+narrowing and arteriovenous nicking) observed on fundus imaging are associated with
+incident lacunar stroke during follow-up,<sup>
+<xref rid="bibr12-0271678X221135658" ref-type="bibr">12</xref>
+</sup> and retinopathy (such as microaneurysms, haemorrhages and exudates) is
+associated with dementia<sup>
+<xref rid="bibr13-0271678X221135658" ref-type="bibr">13</xref>
+</sup> and stroke.<sup>
+<xref rid="bibr14-0271678X221135658" ref-type="bibr">14</xref>
+</sup></p><p>Markers of SVD in the brain have also been shown to associate with findings from
+fundus imaging. These include an increase in PVS volume associated with decreasing
+fractal dimension<sup>
+<xref rid="bibr15-0271678X221135658" ref-type="bibr">15</xref>
+</sup> and increased retinal vessel branching coefficients with periventricular WMH.<sup>
+<xref rid="bibr16-0271678X221135658" ref-type="bibr">16</xref>
+</sup></p><p>OCTA is a relatively recent advance in retinal imaging which visualizes retinal
+capillaries, and is described as having ‘near histology level resolution’<sup>
+<xref rid="bibr8-0271678X221135658" ref-type="bibr">8</xref>
+</sup> (see Kashani et al.<sup>
+<xref rid="bibr8-0271678X221135658" ref-type="bibr">8</xref>
+</sup> for its application in eye disease). In neurological disease, a recent
+systematic review<sup>
+<xref rid="bibr17-0271678X221135658" ref-type="bibr">17</xref>
+</sup> found changes on OCTA in the foveal avascular zone, perfusion density and
+vessel density (VD) in patients with Alzheimer’s disease (AD) and pre-symptomatic AD
+but sparse data precluded conclusion about OCTA findings in SVD and whether
+decreased VD was associated with worse WMH. There was no information on other SVD
+features such as PVS and few studies accounted for covariates. Therefore, whether
+and how OCTA imaging features relate to brain imaging features in sporadic SVD
+remains unclear.</p><p>Here, we investigated associations between retinal microvascular parameters measured
+using OCTA and SVD markers from brain MRI including visible SVD lesions, blood flow,
+cerebrovascular reactivity, and DTI measurements of white matter microstructural
+integrity in patients with SVD who presented with a minor stroke.</p></sec><sec sec-type="Materials|methods" id="sec2-0271678X221135658"><title>Materials and methods</title><sec id="sec3-0271678X221135658"><title>Participants</title><p>We recruited adult patients with mild (i.e., expected to be non-disabling)
+ischemic stroke (Modified Rankin Scale ≤2) from NHS Lothian clinical stroke
+services into the Mild Stroke Study 3 (MSS-3; ISRCTN registry 12113543). We
+excluded patients with contraindications to MRI, incapacity to consent or severe
+cardiac failure or respiratory disease. Assessments included clinical, lifestyle
+and cognitive assessments, blood tests and brain and retinal imaging at baseline
+(up to 3 months after stroke), three months, six months and one-year. The
+rationale for the study along with the protocol and design of this single
+centre, observational, longitudinal cohort study and details of data collection
+have been published.<sup>
+<xref rid="bibr18-0271678X221135658" ref-type="bibr">18</xref>
+</sup></p><p>Here we focus on the baseline visit in which retinal imaging and brain MRI were
+conducted on the same day. The South East Scotland Research Ethics Committee
+(18/SS/0044) approved the study and all participants gave written informed
+consent. All procedures were conducted according to the Declaration of Helsinki
+of 1975 (and as revised in 1983).</p></sec><sec id="sec4-0271678X221135658"><title>Vascular risk factors</title><p>Medical histories including cardiovascular risk factors such as smoking status,
+previous stroke, hypertension, hypercholesterolemia, and diabetes mellitus and
+currently prescribed medications were recorded.<sup>
+<xref rid="bibr18-0271678X221135658" ref-type="bibr">18</xref>
+</sup> All patients received guideline secondary stroke prevention
+(antiplatelet, antihypertensive and lipid lowering agents). Resting blood
+pressure readings were recorded.</p></sec><sec id="sec5-0271678X221135658"><title>MRI brain image acquisition</title><p>Full details of the brain imaging scanning protocol for MSS-3 have been published.<sup>
+<xref rid="bibr18-0271678X221135658" ref-type="bibr">18</xref>
+</sup> Briefly, participants underwent brain MRI at 3T (MAGNETOM Prisma, Siemens
+Healthcare GmbH, Erlangen, Germany) with the following sequences: 3D T1-weighted
+(1 mm<sup>3</sup> isotropic; TR 2500; TE 4.37), T2-weighted
+(0.9 mm<sup>3</sup> isotropic; TR 3200; TE 408), fluid attenuated inversion
+recovery-weighted (FLAIR) (1 mm<sup>3</sup> isotropic; TR 5000; TE 388; TI
+1100), susceptibility-weighted (SWI) (0.6 × 0.6 × 3 mm; TR 28; TE 20), inversion
+recovery spin gradient sequence (IR_SPGR) and multi-shell diffusion MRI. At the
+same visit, we also measured BOLD response to 6% CO<sub>2</sub> as a
+standardized measure of cerebrovascular reactivity (CVR) (see below), and total
+blood through the internal carotid and vertebral arteries to calculate mean
+arterial blood flow across the cardiac cycle and total cerebral blood flow (CBF).<sup>
+<xref rid="bibr18-0271678X221135658" ref-type="bibr">18</xref>
+</sup></p></sec><sec id="sec6-0271678X221135658"><title>Analysis of MRI data</title><p>
+<list list-type="bullet" id="list1-0271678X221135658"><list-item><p>Visual rating of SVD</p></list-item></list>All MRI visual assessments of SVD were conducted with reference to STRIVE guidelines.<sup>
+<xref rid="bibr4-0271678X221135658" ref-type="bibr">4</xref>
+</sup> We used the Fazekas<sup>
+<xref rid="bibr19-0271678X221135658" ref-type="bibr">19</xref>
+</sup> scale to visually rate WMH and validated tools to grade PVS in the
+centrum semiovale (CSO PVS) and basal ganglia (BG PVS).<sup><xref rid="bibr20-0271678X221135658" ref-type="bibr">20</xref>,<xref rid="bibr21-0271678X221135658" ref-type="bibr">21</xref></sup> Further
+details are in Supplementary Material. <list list-type="bullet" id="list2-0271678X221135658"><list-item><p>Intracranial volume, brain tissue volumes and quantitative image
+analysis of WMH and PVS</p></list-item></list></p><p>All image sequences were co-registered to the T2-weighted sequence and processed
+with FLIRT,<sup>
+<xref rid="bibr22-0271678X221135658" ref-type="bibr">22</xref>
+</sup> FSL,<sup>
+<xref rid="bibr23-0271678X221135658" ref-type="bibr">23</xref>
+</sup> BET2<sup>
+<xref rid="bibr24-0271678X221135658" ref-type="bibr">24</xref>
+</sup> and in-house software as described in full in Supplementary Material.
+<list list-type="bullet" id="list3-0271678X221135658"><list-item><p>Arterial blood flow to the brain</p></list-item></list></p><p>We manually segmented the internal carotid and vertebral arteries on the phase
+contrast maximum magnitude image using FSLEyes (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLeyes" ext-link-type="uri">https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLeyes</ext-link>) and corrected
+for background phase error.<sup><xref rid="bibr25-0271678X221135658" ref-type="bibr">25</xref>,<xref rid="bibr26-0271678X221135658" ref-type="bibr">26</xref></sup> Here, we compare mean
+arterial blood flow across the cardiac cycle (ml/s) in relation to OCTA metrics.
+<list list-type="bullet" id="list4-0271678X221135658"><list-item><p>Cerebrovascular reactivity of brain vessels</p></list-item></list></p><p>We assessed CVR using a block design gas challenge alternating between medical
+air (2 minutes) and air with 6% carbon dioxide (CO<sub>2</sub>) (3 minutes)
+using an established protocol.<sup><xref rid="bibr5-0271678X221135658" ref-type="bibr">5</xref>,<xref rid="bibr27-0271678X221135658" ref-type="bibr">27</xref><xref rid="bibr28-0271678X221135658" ref-type="bibr"/>–<xref rid="bibr29-0271678X221135658" ref-type="bibr">29</xref></sup> We calculated two metrics
+using linear regression of the mean BOLD signal in NAWM against the end tidal
+CO<sub>2</sub> with a variable delay and controlling for drift using
+in-house MATLAB code as previously described.<sup>
+<xref rid="bibr5-0271678X221135658" ref-type="bibr">5</xref>
+</sup> CVR magnitude is the amplitude of the response (higher indicates a
+stronger vasodilatory response) given in % BOLD signal change per mmHg change in
+end tidal CO<sub>2</sub> (%/mmHg). CVR measurements analyzed here are derived
+from NAWM masks. <list list-type="bullet" id="list5-0271678X221135658"><list-item><p>Diffusion imaging to assess white matter integrity</p></list-item></list></p><p>All WMH and NAWM diffusion measurements were computed in diffusion space as
+described in full in Supplementary Material.</p></sec><sec id="sec7-0271678X221135658"><title>Retinal imaging</title><p>The retinal examination used spectral domain optical coherence tomography (OCT)
+with eye tracking technology (SPECTRALIS OCT2, Heidelberg Engineering, Germany)
+with both left and right eyes imaged.<sup>
+<xref rid="bibr18-0271678X221135658" ref-type="bibr">18</xref>
+</sup> We recorded self-declared eye disease (diabetic retinopathy, glaucoma,
+and age-related macular degeneration) which we checked against our
+ophthalmological graded assessments of the images. Queries were resolved by an
+ophthalmologist (B.D.).</p></sec><sec id="sec8-0271678X221135658"><title>OCTA image acquisition</title><p>The macula was localized by a scanning laser ophthalmoscope infrared fundus
+image. Next, a 10° × 10° structural OCT image was captured together with the
+corresponding OCTA flow data, detected by variation in acquired signal and
+representing the movement of red blood cells through vessels.<sup>
+<xref rid="bibr8-0271678X221135658" ref-type="bibr">8</xref>
+</sup> The scan pattern in MSS-3 consists of 512 B-Scans separated at 6 μm
+intervals. The combined structural OCT and functional OCTA covers 3 mm × 3 mm of
+the retina, centered at the fovea.</p></sec><sec id="sec9-0271678X221135658"><title>OCTA image processing</title><p>All image analysis was performed masked to patient characteristics and all other
+data (i.e., retinal imaging masked to MRI and clinical data, and vice versa).
+<italic toggle="yes">Enface</italic> transverse images of the superficial vascular
+complex (SVC) were extracted – i.e., vessels bounded by the internal limiting
+membrane to inner plexiform layer, being the vessels that supply blood to the
+retinal nerve fiber layer and ganglion cells (<xref rid="fig1-0271678X221135658" ref-type="fig">Figure 1</xref>). These images were processed
+using bespoke software written in MATLAB (MathWorks, Natik, MA, USA; version
+2016a).</p><fig position="float" id="fig1-0271678X221135658" orientation="portrait"><label>Figure 1.</label><caption><p>(a) <italic toggle="yes">Enface</italic> optical coherence tomography angiography
+(OCTA) transverse image of the superficial vascular complex with (b)
+corresponding structural and OCTA flow image where yellow colouration
+represents blood flow in vessels and segmentation (red dotted lines)
+bounds the internal limiting membrane to inner plexiform layer.
+Processed images: (c) adaptive threshold with Hessian filter and (d)
+skeletonized image.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_0271678X221135658-fig1.jpg"/></fig></sec><sec id="sec10-0271678X221135658"><title>Vessel density and vessel branching complexity</title><p>VD was calculated from a binary map of the vessels and indicates the percentage
+of vessel area (white pixels to black background) occupying the image.<sup>
+<xref rid="bibr30-0271678X221135658" ref-type="bibr">30</xref>
+</sup> To create the binary map a pre-processing step was performed using
+Hessian-based Frangi filters to enhance vessel structures. Next, the filtered
+image was thresholded using Otsu (‘global’) and local (‘adaptive’) thresholding
+methods. The outputs from both methods were combined to generate the final
+binary map that contained vessels where both threshold images agreed. Larger
+values of VD reflect greater density.</p><p>Fractal analysis quantifies the complexity of the vessel branching pattern
+visible in a retinal image in terms of fractal dimension, being a single value
+that summarizes how complex or sparse the vascular pattern is.<sup><xref rid="bibr30-0271678X221135658" ref-type="bibr">30</xref>,<xref rid="bibr31-0271678X221135658" ref-type="bibr">31</xref></sup> We used a
+multifractal/multispectral approach that models the vascular pattern in the
+binary map as if composed of many fractals with different fractal dimensions
+depending on the scale,<sup>
+<xref rid="bibr32-0271678X221135658" ref-type="bibr">32</xref>
+</sup> yielding a spectrum of fractal dimensions.<sup>
+<xref rid="bibr33-0271678X221135658" ref-type="bibr">33</xref>
+</sup> Values are unitless, with larger numbers reflecting greater
+complexity.</p></sec><sec id="sec11-0271678X221135658"><title>Quality of OCTA images</title><p>Image quality can be affected by patient movement and media opacities such as
+cataracts which adversely impact the measurement process. The manufacturer’s
+OCTA quality index, Q, being the average signal strength measured in decibels
+for all structural B-scans in the image volume, was recorded for each eye.
+B-scans of Q &lt; 20 are rejected during acquisition, thus the averaged Q has a
+lower bound of 20. Healthy eyes with no media opacities can achieve Q values of
+around 40 or higher, thus Q tends to range from 20 to 40. Heidelberg Engineering
+suggests good OCTA <italic toggle="yes">enface</italic> images are obtained with Q
+&gt; = 28.</p><p>Q does not always correlate well with image quality as perceived by a human
+rater. Important factors not captured in Q include focus and residual eye
+motion. Thus, two trained raters (S.J.W. and J.F.Z.) visually graded the
+interpretability of all OCTA images independently on an ordinal scale with 5
+categories (1 = “Inadequate”, 2 = “Poor”, 3 = “Average”, 4 = “Good” and
+5 = “Excellent”) (examples given in Supplementary Figure 1), and disagreements
+were resolved by discussion. Agreement between raters was determined by
+intraclass correlation coefficient (ICC)<sup>
+<xref rid="bibr34-0271678X221135658" ref-type="bibr">34</xref>
+</sup> with estimates calculated using the ‘irr’ package.<sup>
+<xref rid="bibr35-0271678X221135658" ref-type="bibr">35</xref>
+</sup> The final consensus in visual assessment was then compared to Q using
+Spearman’s correlation.</p></sec><sec id="sec12-0271678X221135658"><title>OCTA image quality: inter-rater visual agreement and correlation with signal
+strength</title><p>Rater agreement in OCTA image quality visual assessment was ICC 0.71 [95%CI 0.53
+to 0.82] and ICC 0.69 [0.41 to 0.83] for right and left eyes respectively.
+Spearman’s correlation between the visual assessment consensus and the
+instrument manufacturer’s signal strength Q index was <italic toggle="yes">r</italic> = 0.62
+and <italic toggle="yes">r</italic> = 0.56 for right and left eyes, respectively. We account
+for image quality in the primary analyses by adding it as a covariate in the
+adjusted models.</p></sec><sec id="sec13-0271678X221135658"><title>Statistical analysis</title><p>Data were checked for normality by visual inspection of the distributions and by
+Kolmogorov-Smirnov test. We log transformed WMH volumes. Missing data were
+recorded (<xref rid="table1-0271678X221135658" ref-type="table">Table 1</xref>).
+All analyses were per patient, and although we analyze both right and left eyes,
+we do so as separate tasks, and show results from both eyes for transparency.
+Eye asymmetry could be important.<sup>
+<xref rid="bibr36-0271678X221135658" ref-type="bibr">36</xref>
+</sup></p><table-wrap position="float" id="table1-0271678X221135658" orientation="portrait"><label>Table 1.</label><caption><p>Mild Stroke Study 3 demographics, OCTA data, co-morbid eye disease,
+vascular risks, and comprehensive brain imaging data at baseline.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_0271678X221135658-table1.jpg"/><table frame="hsides" rules="groups"><tbody valign="top"><tr><td rowspan="1" colspan="1">Mean age (years)</td><td rowspan="1" colspan="1">68.1 (SD 9.9)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Male/Female</td><td rowspan="1" colspan="1">80/43</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">OCTA</td><td rowspan="1" colspan="1"><italic toggle="yes">Right eye (N</italic> = <italic toggle="yes">104)</italic></td><td rowspan="1" colspan="1"><italic toggle="yes">Left eye (N</italic> = <italic toggle="yes">105)</italic></td></tr><tr><td rowspan="1" colspan="1">Vessel density (%)</td><td rowspan="1" colspan="1">32.1 (SD 5.62)</td><td rowspan="1" colspan="1">32.1 (SD 5.24)</td></tr><tr><td rowspan="1" colspan="1">Fractal complexity (unitless)</td><td rowspan="1" colspan="1">1.81 (SD 0.03)</td><td rowspan="1" colspan="1">1.82 (0.03)</td></tr><tr><td rowspan="1" colspan="1">OCTA image quality</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Signal strength ‘Q’ (decibels)</td><td rowspan="1" colspan="1">37.3 (SD 2.92)</td><td rowspan="1" colspan="1">37.7 (SD 2.90)</td></tr><tr><td rowspan="1" colspan="1">  1 Inadequate (N)</td><td rowspan="1" colspan="1">12</td><td rowspan="1" colspan="1">9</td></tr><tr><td rowspan="1" colspan="1">  2 Poor (N)</td><td rowspan="1" colspan="1">24</td><td rowspan="1" colspan="1">31</td></tr><tr><td rowspan="1" colspan="1">  3 Average (N)</td><td rowspan="1" colspan="1">52</td><td rowspan="1" colspan="1">47</td></tr><tr><td rowspan="1" colspan="1">  4 Good (N)</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">10</td></tr><tr><td rowspan="1" colspan="1">  5 Excellent (N)</td><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">8</td></tr><tr><td rowspan="1" colspan="1">Co-morbid eye disease</td><td rowspan="1" colspan="1"><italic toggle="yes">N</italic> = <italic toggle="yes">117</italic></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Diabetic retinopathy</td><td rowspan="1" colspan="1">6/117 (5.13%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Glaucoma</td><td rowspan="1" colspan="1">3/117 (2.56%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> AMD</td><td rowspan="1" colspan="1">5/117 (4.27%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Any of the above</td><td rowspan="1" colspan="1">14/117 (11.96%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Vascular risk factors</td><td rowspan="1" colspan="1"><italic toggle="yes">N</italic> = <italic toggle="yes">123</italic></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Diabetes</td><td rowspan="1" colspan="1">27/123 (21.9%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Hypertension</td><td rowspan="1" colspan="1">87/123 (70.7%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Hypercholesterolemia</td><td rowspan="1" colspan="1">92/123 (74.7%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Smoker: current</td><td rowspan="1" colspan="1">14/123 (11.4%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Smoker: never <italic toggle="yes">v.</italic> ever</td><td rowspan="1" colspan="1">56/123 (45.5%) <italic toggle="yes">v.</italic> 67/123 (54.4%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Mean SBP (mmHg)</td><td rowspan="1" colspan="1">149.0 ± 19.67</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">White matter lesions</td><td rowspan="1" colspan="1"><italic toggle="yes">N</italic> = <italic toggle="yes">122</italic></td><td rowspan="1" colspan="1">
+<italic toggle="yes">% of ICV</italic>
+</td></tr><tr><td rowspan="1" colspan="1"> ICV volume (ml)</td><td rowspan="1" colspan="1">1,612.0 (SD 160.4)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> WMH volume, median (ml)</td><td rowspan="1" colspan="1">8.17 (3.47–18.60)</td><td rowspan="1" colspan="1">0.50</td></tr><tr><td rowspan="1" colspan="1"> Fazekas periventricular (0:3)</td><td rowspan="1" colspan="1">1.5 (1–2)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Fazekas deep (0:3)</td><td rowspan="1" colspan="1">1 (1–2)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Fazekas total (0:6)</td><td rowspan="1" colspan="1">3 (2–3)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">PVS: computational</td><td rowspan="1" colspan="1"><italic toggle="yes">N</italic> = <italic toggle="yes">115</italic></td><td rowspan="1" colspan="1">
+<italic toggle="yes">% of CSO or BG</italic>
+<sup>a</sup>
+</td></tr><tr><td rowspan="1" colspan="1"> PVS volume in CSO (ml)</td><td rowspan="1" colspan="1">11.5 (6.9–17.5)</td><td rowspan="1" colspan="1">3.6 (2.2–5.8)</td></tr><tr><td rowspan="1" colspan="1"> PVS volume in BG (ml)</td><td rowspan="1" colspan="1">2.9 (2.1–3.8)</td><td rowspan="1" colspan="1">4.9 (3.7–6.0)</td></tr><tr><td rowspan="1" colspan="1"> PVS count in CSO</td><td rowspan="1" colspan="1">890 (302)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> PVS count in BG</td><td rowspan="1" colspan="1">170 (41)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">PVS: visual ratings</td><td rowspan="1" colspan="1"><italic toggle="yes">N</italic> = <italic toggle="yes">122</italic></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> CSO PVS</td><td rowspan="1" colspan="1">3 (2–3)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> BG PVS</td><td rowspan="1" colspan="1">2 (1–2)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Blood flow to the brain</td><td rowspan="1" colspan="1"><italic toggle="yes">N</italic> = <italic toggle="yes">100</italic></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> Arterial mean (ml/s)</td><td rowspan="1" colspan="1">9.44 (SD 1.94)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Cerebrovascular reactivity</td><td rowspan="1" colspan="1"><italic toggle="yes">N</italic> = <italic toggle="yes">114</italic></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> CVR magnitude (%/mmHg)</td><td rowspan="1" colspan="1">0.043 (SD 0.020)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> CVR delay (s)</td><td rowspan="1" colspan="1">30.89 (SD 21.0)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">White matter integrity</td><td rowspan="1" colspan="1"><italic toggle="yes">N</italic> = <italic toggle="yes">117</italic></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> FA in NAWM (unitless)</td><td rowspan="1" colspan="1">0.42 (SD 0.02)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> FA in WMH (unitless)</td><td rowspan="1" colspan="1">0.27 (SD 0.04)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> MD in NAWM (10<sup>–3</sup> mm<sup>2</sup>/s)</td><td rowspan="1" colspan="1">0.76 (SD 0.02)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"> MD in WMH (10<sup>–3</sup> mm<sup>2</sup>/s)</td><td rowspan="1" colspan="1">1.09 (SD 0.07)</td><td rowspan="1" colspan="1"/></tr></tbody></table></alternatives><table-wrap-foot><fn id="table-fn1-0271678X221135658"><p>AMD: age-related macular degeneration. BG: basal ganglia. CSO:
+centrum semiovale. CVR: cerebrovascular reactivity. FA: fractional
+anisotropy. ICV: inter cranial volume. MD: mean diffusivity. NAWM:
+normal appearing white matter. PVS: perivascular spaces. SBP:
+systolic blood pressure. WMH: white matter hyperintensity.</p></fn><fn id="table-fn2-0271678X221135658"><p><sup>a</sup>PVS volume as a percentage of the region of interest,
+either CSO or BG. ICV volume and PVS counts as mean (SD), other
+volumes have non-normal distributions and so presented as medians
+(interquartile range, Q1–Q3).</p></fn></table-wrap-foot></table-wrap><p>WMH volumes were corrected for ICV volume, and PVS volumes corrected for the
+relevant region of interest volume, either centrum semiovale or basal ganglia.
+PVS counts are given as counts without correction for a region of interest.</p><p>We used linear regression to investigate univariate associations between VD and
+branching pattern fractal complexity as outcomes of interest with various
+predictor variables: age and sex, vascular risks (smoking, blood pressure
+measures, hypertension, diabetes, high cholesterol) and various brain MRI
+measurements. Next, multiple general linear models estimated the relationship
+between OCTA variables and brain imaging variables, controlling for key
+co-variates: comorbid eye disease, age, diabetes, blood pressure and OCTA image
+quality. Model estimates for the continuous predictors are presented as
+standardized betas (β). All statistical analyses were conducted in R Studio
+using R version 3.6.1.</p></sec></sec><sec sec-type="results" id="sec14-0271678X221135658"><title>Results</title><p>We analyzed data from the baseline visit obtained on average 53 days (range 6–95
+days) after index stroke symptoms in 123 consecutive participants recruited to MSS-3
+between August 2018 and August 2020. Mean age across the cohort was 68.1 ± SD 9.9
+years (range 40–86 years).</p><p>There were 80/123 (65%) men, 14/123 (11.4%) smokers, 27/123 (21.9%) had diabetes and
+87/123 (70.7%) were hypertensive. Median WMH volume was 8.17 ml (interquartile
+range: 3.47–18.60). Patient-level missing data were due to technical and
+organizational issues with retinal image acquisition (N = 8) leaving N = 115
+participants with retinal examinations (mean age of these 115 was 68.2 ± SD 10.0
+years). Eleven right and 10 left eye OCTAs were not performed or were unsuccessful
+due to severe eye disease, leaving 104 right and 105 left eyes for the current
+analyses.</p><p>Patient demographics and baseline retinal and brain imaging measurements are given in
+<xref rid="table1-0271678X221135658" ref-type="table">Table 1</xref>. One
+participant did not have a baseline brain scan due to MRI claustrophobia but is
+retained in the analysis to contribute to the summarized vascular risks and eye data
+in <xref rid="table1-0271678X221135658" ref-type="table">Table 1</xref>. VD and
+branching complexity (i.e., multispectral fractal dimension) were correlated: right
+eye <italic toggle="yes">r</italic> = 0.93 and left eye <italic toggle="yes">r</italic> = 0.90.</p><sec id="sec15-0271678X221135658"><title>OCTA retinal vessel density</title><p>We analyze and report right (R) and left (L) eyes separately. On univariate
+analyses, lower VD related to older age, hypertension, diabetes, and comorbid
+eye disease, as well as more WMH, more CSO and BG PVS, and MD both in NAWM and
+in WMH (Supplementary Figure S2). As expected, higher VD related to better image
+quality, higher CVR magnitude and higher FA in NAWM (Supplementary Figure
+S2).</p><p>After adjusting for age, eye disease, diabetes, blood pressure and image quality,
+lower VD remained associated with higher MD (standardized β; R −0.16 [95%CI
+−0.32 to −0.01]) and lower CVR (L 0.17 [0.03 to 0.31] and R 0.19 [0.02 to 0.36])
+in NAWM (<xref rid="fig2-0271678X221135658" ref-type="fig">Figure 2</xref>). We
+did not find any association between VD and arterial blood flow.</p><fig position="float" id="fig2-0271678X221135658" orientation="portrait"><label>Figure 2.</label><caption><p>Fully adjusted models. OCTA vessel density (panels a and b) and vessel
+branching complexity (panels c and d) in relation to brain imaging
+variables characterizing SVD, after adjustment for age, eye disease,
+diabetes, systolic blood pressure and OCTA image quality. CSO PVS:
+centrum semiovale perivascular spaces; CVR: cerebrovascular reactivity;
+FA: fractional anisotropy; MD: mean diffusivity; OCTA: optical coherence
+tomography angiography; SVD: small vessel disease; WMH: white matter
+hyperintensities.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="10.1177_0271678X221135658-fig2.jpg"/></fig></sec><sec id="sec16-0271678X221135658"><title>OCTA retinal vessel branching complexity (fractal dimension)</title><p>On univariate analyses, less complex branching related to older age, diabetes,
+comorbid eye disease, greater WMH burden, more CSO PVS and BG PVS and higher MD
+in NAWM (Supplementary Figure S3). More complex branching related to better
+image quality and higher FA in NAWM (Supplementary Figure S3). After adjusting
+for covariates, sparser branching associated with higher MD (R −0.24 [−0.08 to
+−0.40]) and lower FA (L 0.17 [0.01 to 0.33]), and lower CVR (R 0.20 [0.02 to
+0.38]) in NAWM (<xref rid="fig2-0271678X221135658" ref-type="fig">Figure
+2</xref>). We did not find any association between branching complexity and
+arterial blood flow.</p></sec></sec><sec sec-type="discussion" id="sec17-0271678X221135658"><title>Discussion</title><p>This study demonstrates that lower retinal VD on OCTA is associated with higher MD
+and lower CVR magnitude in NAWM, consistent with a reduction in small vessel density
+in the brain underpinning the observed impairments in vascular function and
+sub-visible white matter structure seen with increasing SVD lesion burden. We also
+observed lower branching complexity (fractal dimension) with lower CVR magnitude,
+and with sub-visible white matter damage suggested by higher MD and lower FA in
+NAWM.</p><p>CVR estimates the adequacy of the change in blood flow in response to a vasoactive
+stimulus, and is impaired in SVD particularly in affected tissues.<sup>
+<xref rid="bibr29-0271678X221135658" ref-type="bibr">29</xref>
+</sup> CVR magnitude in white matter is lower in patients with more severe SVD features,<sup>
+<xref rid="bibr28-0271678X221135658" ref-type="bibr">28</xref>
+</sup> and CVR delay is longer in SVD patients than healthy controls.<sup><xref rid="bibr5-0271678X221135658" ref-type="bibr">5</xref>,<xref rid="bibr37-0271678X221135658" ref-type="bibr">37</xref>,<xref rid="bibr38-0271678X221135658" ref-type="bibr">38</xref></sup> Here, we found that lower
+retinal VD on OCTA was associated with lower CVR magnitude in NAWM after correcting
+for a range of key covariates, also validating the results of a much smaller
+(N = 11) study of older subjects.<sup>
+<xref rid="bibr39-0271678X221135658" ref-type="bibr">39</xref>
+</sup> Lower branching complexity related to lower CVR and higher MD in NAWM.</p><p>Increased MD occurs in WMH and also in NAWM as the severity of SVD lesions increase
+and indicates sub-visible alterations in white matter integrity.<sup>
+<xref rid="bibr40-0271678X221135658" ref-type="bibr">40</xref>
+</sup> No prior studies investigated the relationship between OCTA parameters and
+DTI measures of white matter structural integrity in SVD. Here, we found that lower
+retinal VD on OCTA was associated with increased MD in NAWM, consistent with vessel
+density decreasing in NAWM as the SVD burden worsens. Here, reduced branching
+complexity also related to more sub-visible white matter damage (higher MD and lower
+FA in NAWM) in keeping with increased interstitial fluid content and mobility,
+demyelination, and axonal loss. It will be important to assess whether early retinal
+vascular changes can predict WMH progression and white matter damage in the long
+term.</p><p>PVS in the brain are a marker of vascular dysfunction, amongst several associations,
+and occur early in development of SVD.<sup>
+<xref rid="bibr41-0271678X221135658" ref-type="bibr">41</xref>
+</sup> We have previously demonstrated a link between increasing PVS volumes and
+decreasing fractal dimension of larger retinal arterioles on fundus photography,<sup>
+<xref rid="bibr15-0271678X221135658" ref-type="bibr">15</xref>
+</sup> as did a previous study of PVS in the CSO.<sup>
+<xref rid="bibr42-0271678X221135658" ref-type="bibr">42</xref>
+</sup> Here, there were strong univariate associations between both lower VD and
+less complex branching and more PVS (computational volumes and counts but not visual
+ratings), but none survived adjustment for covariates. The typical vessel
+arborization pattern of the retina is thought to be in accordance with Murray’s Law
+of Minimal Work, which strives for less energy dissipation and maximum efficiency of
+energy use when transporting blood.<sup>
+<xref rid="bibr43-0271678X221135658" ref-type="bibr">43</xref>
+</sup> Reduction from the optimized vessel branching to sparser patterns may link to
+SVD lesions through impaired small vessel function (as reflected in impaired CVR)
+and less efficient energy management.</p><p>WMH are a common feature of cerebral SVD on brain MRI. Previous retinal OCTA studies
+used Fazekas score to represent WMH severity, with inconsistent findings.<sup><xref rid="bibr17-0271678X221135658" ref-type="bibr">17</xref>,<xref rid="bibr39-0271678X221135658" ref-type="bibr">39</xref>,<xref rid="bibr44-0271678X221135658" ref-type="bibr">44</xref>,<xref rid="bibr45-0271678X221135658" ref-type="bibr">45</xref></sup> In a wide
+range of study populations including AD, mild cognitive impairment (MCI), SVD or
+cognitively normal adults, some studies<sup><xref rid="bibr17-0271678X221135658" ref-type="bibr">17</xref>,<xref rid="bibr39-0271678X221135658" ref-type="bibr">39</xref>,<xref rid="bibr44-0271678X221135658" ref-type="bibr">44</xref></sup> observed that decreased VD on
+OCTA was associated with increased Fazekas score, while others<sup><xref rid="bibr17-0271678X221135658" ref-type="bibr">17</xref>,<xref rid="bibr45-0271678X221135658" ref-type="bibr">45</xref></sup> showed no
+significant association which might partly be due to small sample size.<sup>
+<xref rid="bibr17-0271678X221135658" ref-type="bibr">17</xref>
+</sup> Here, worse WMH (computationally and by visual score) strongly related to
+reduced VD and reduced branching on univariate analyses (Supplementary Figure S2)
+but effects were lost in fully adjusted analyses.</p><p>In our study, we did not find an association between OCTA measures and resting
+arterial blood flow, possibly suggesting retinal/central perfusion stability. In a
+small study (35 eyes from 18 patients) of pre- and post-operative major
+non-neurological surgery requiring planned intensive therapy unit (ITU) admission,<sup>
+<xref rid="bibr46-0271678X221135658" ref-type="bibr">46</xref>
+</sup> retinal blood flow was stable and the authors conclude that the stability of
+retinal blood flow measures suggests the potential for OCTA to provide clinically
+useful measures in ITU patients. OCTA could be used as a potential biomarker of
+central perfusion in SVD but more data is needed. In a recent updated meta-analysis,<sup>
+<xref rid="bibr47-0271678X221135658" ref-type="bibr">47</xref>
+</sup> WMH were found to associate with reduced cerebral blood flow
+cross-sectionally but when studies of patients with dementia or that failed to
+account for vascular risk factors were excluded, the relationship disappeared.
+Longitudinal associations between blood flow and SVD burden are mixed and remain unclear.<sup>
+<xref rid="bibr47-0271678X221135658" ref-type="bibr">47</xref>
+</sup></p><p>The strengths of this study are the relatively large sample of patients with a
+confirmed stroke, analyses of both eyes per participant, a comprehensive brain
+imaging protocol that generated key brain imaging metrics describing SVD, and
+adjustment for vascular risk factors and OCTA image quality. We also acknowledge
+weaknesses. The cross-sectional design precludes inferences on the temporal link
+between impaired retinal microvasculature and SVD progression but MSS-3 is gathering
+the data to address retinal and brain changes in SVD. We did not assess retinal
+vessels from the deep vascular layers. There are no data in our study representing a
+non-stroke control group, rather, we are interested in within-group associations
+between the eye and brain to help deepen our understanding of small vessel
+dysfunction.</p><p>In conclusion, our study showed that impaired retinal capillary-level changes
+identified using OCTA were associated with structural SVD markers and impaired
+cerebral vasoreactivity. OCTA measures hold promise as non-invasive biomarkers of
+cerebral SVD, being relatively easy to tolerate and economical. Longitudinal studies
+are warranted to assess the predictive power of OCTA measurements for SVD
+progression and monitor treatment responses.</p></sec><sec sec-type="supplementary-material" specific-use="figshare"><title>Supplemental Material</title><supplementary-material id="suppl1-0271678X221135658" position="float" content-type="local-data" orientation="portrait"><caption><title>sj-pdf-1-jcb-10.1177_0271678X221135658 - Supplemental material for
+Retinal capillary microvessel morphology changes are associated with
+vascular damage and dysfunction in cerebral small vessel disease</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sj-pdf-1-jcb-10.1177_0271678X221135658.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media><p>Supplemental material, sj-pdf-1-jcb-10.1177_0271678X221135658 for Retinal
+capillary microvessel morphology changes are associated with vascular damage and
+dysfunction in cerebral small vessel disease by Stewart J Wiseman, Jun-Fang
+Zhang, Calum Gray, Charlene Hamid, Maria del C Valdés Hernández, Lucia
+Ballerini, Michael J Thrippleton, Cameron Manning, Michael Stringer, Emilie
+Sleight, Susana Muñoz Maniega, Alasdair Morgan, Yajun Cheng, Carmen Arteaga,
+Dany Jaime Garcia, Una Clancy, Fergus N Doubal, Baljean Dhillon, Tom
+MacGillivray, Yun-Cheng Wu and Joanna M Wardlaw in Journal of Cerebral Blood
+Flow &amp; Metabolism</p></supplementary-material></sec></body><back><fn-group><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship, and/or publication of this article: This work is supported
+by: the UK Dementia Research Institute which receives its funding from DRI Ltd,
+funded by the UK MRC, Alzheimer’s Society and Alzheimer’s Research UK; the
+Fondation Leducq Network for the Study of Perivascular Spaces in Small Vessel
+Disease (16 CVD 05); Stroke Association ‘Small Vessel Disease-Spotlight on
+Symptoms (SVD-SOS)’(SAPG 19\100068; British Heart Foundation Edinburgh Centre
+for Research Excellence (RE/18/5/34216); The Row Fogo Charitable Trust Centre
+for Research into Aging and the Brain; Stroke Association Garfield Weston
+Foundation Senior Clinical Lectureship (F.N.D.) (TSALECT 2015/04); NHS Research
+Scotland (F.N.D.); Stroke Association Post-Doctoral Fellowship (S.J.W.) (SAPDF
+18/100026); NHS Lothian Research and Development Office (MJT); European Union
+Horizon 2020, PHC-03–15, project No666881, ‘SVDs@Target’ (MS); Chief Scientist
+Office of Scotland Clinical Academic Fellowship (UC) (CAF/18/08); Stroke
+Association Princess Margaret Research Development Fellowship (UC) (2018);
+Medical Research Scotland studentship (AM) (PhD-1165–2017); MRC Doctoral
+Training Programme in Precision Medicine (CM) (MR/R01566X/1); Siemens Healthcare
+(AM and CM); Science and Technology Innovation 2030-“Brain Science and
+Brain-Like Intelligence Technology” Major Project (The China Brain Project) (No.
+2021ZD0201905), Clinical Research Innovation Plan of Shanghai General Hospital
+(CTCCR-2018B03) and the National Natural Science Foundation of China (81971185,
+82171243). The research MRI scanner is supported by the Scottish Funding Council
+through the Scottish Imaging Network, A Platform for Scientific Excellence
+(SINAPSE) Collaboration; the Wellcome Trust (104916/Z/14/Z), Dunhill Trust
+(R380R/1114), Edinburgh and Lothians Health Foundation (2012/17), Muir Maxwell
+Research Fund and the University of Edinburgh.</p></fn><fn fn-type="COI-statement"><p>The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="other"><p><bold>Authors’ contributions:</bold>
+<italic toggle="yes">Conceptualization and Design</italic>: S.J.W., J-F.Z., T.MacG., Y-C.W.,
+J.M.W.; <italic toggle="yes">Image processing, Investigations and Analysis</italic>: S.J.W.,
+J-F.Z., C.G., C.H., M.V.H., L.B., M.J.T., C.M., M.S., E.S., S.M.M., A.M., Y.C.,
+C.A., D.J.G., U.C.; <italic toggle="yes">Supervision</italic>: M.V.H., M.J.T., M.S., F.N.D.,
+B.D., T.MacG., Y-C.W., J.M.W.; <italic toggle="yes">Writing</italic>: S.J.W., J-F.Z., M.S.,
+E.S., S.M.M., T.MacG., Y-C.W., J.M.W; <italic toggle="yes">Review and Editing</italic>:
+S.J.W., J-F.Z., C.G., M.V.H., M.J.T., F.N.D., B.D., T.MacG., Y-C.W., J.M.W. All
+authors approved the final manuscript.</p></fn></fn-group><fn-group><fn fn-type="other"><p><bold>Supplemental material:</bold> Supplemental material for this article is available online.</p></fn></fn-group><sec id="sec18-0271678X221135658"><title>Open access publishing statement</title><p>This research was funded in whole, or in part, by the Wellcome Trust [Grant number
+104916/Z/14/Z]. For the purpose of open access, the author has applied a CC BY
+public copyright license to any Author Accepted Manuscript version arising from this
+submission.</p></sec><sec><title>ORCID iDs</title><p>Stewart J Wiseman <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0001-6739-5797" ext-link-type="uri">https://orcid.org/0000-0001-6739-5797</ext-link></p><p>Calum Gray <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-2816-4707" ext-link-type="uri">https://orcid.org/0000-0002-2816-4707</ext-link></p><p>Michael Stringer <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-3811-4439" ext-link-type="uri">https://orcid.org/0000-0002-3811-4439</ext-link></p><p>Carmen Arteaga <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0003-2424-7123" ext-link-type="uri">https://orcid.org/0000-0003-2424-7123</ext-link></p><p>Joanna M Wardlaw <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://orcid.org/0000-0002-9812-6642" ext-link-type="uri">https://orcid.org/0000-0002-9812-6642</ext-link></p></sec><ref-list content-type="numbered"><title>References</title><ref id="bibr1-0271678X221135658"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Davalos</surname><given-names>D</given-names></name><name name-style="western"><surname>Ryu</surname><given-names>JK</given-names></name><name name-style="western"><surname>Merlini</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Fibrinogen-induced
+perivascular microglial clustering is required for the development of axonal
+damage in neuroinflammation</article-title>. <source>Nat Commun</source><year>2012</year>; <volume>3</volume>: <fpage>1227</fpage>.<pub-id pub-id-type="pmid">23187627</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms2230</pub-id><pub-id pub-id-type="pmcid">PMC3514498</pub-id></mixed-citation></ref><ref id="bibr2-0271678X221135658"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kida</surname><given-names>S.</given-names></name></person-group><article-title>Progress in diagnosis of and therapy for idiopathic
+normal-pressure hydrocephalus – lymphatic drainage of CSF and ISF from the
+brain: recent concept and hypothesis</article-title>. <source>Rinsho
+Shinkeigaku</source><year>2014</year>; <volume>54</volume>:
+<fpage>1187</fpage>–<lpage>1189</lpage>.<pub-id pub-id-type="pmid">25672741</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5692/clinicalneurol.54.1187</pub-id></mixed-citation></ref><ref id="bibr3-0271678X221135658"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ding</surname><given-names>XB</given-names></name><name name-style="western"><surname>Wang</surname><given-names>XX</given-names></name><name name-style="western"><surname>Xia</surname><given-names>DH</given-names></name></person-group>, <etal>et al</etal>. <article-title>Impaired meningeal lymphatic
+drainage in patients with idiopathic Parkinson’s disease</article-title>.
+<source>Nat Med</source><year>2021</year>; <volume>27</volume>:
+<fpage>411</fpage>–<lpage>418</lpage>.<pub-id pub-id-type="pmid">33462448</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-020-01198-1</pub-id></mixed-citation></ref><ref id="bibr4-0271678X221135658"><label>4</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wardlaw</surname><given-names>JM</given-names></name><name name-style="western"><surname>Smith</surname><given-names>EE</given-names></name><name name-style="western"><surname>Biessels</surname><given-names>GJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>Neuroimaging standards for
+research into small vessel disease and its contribution to ageing and
+neurodegeneration</article-title>. <source>Lancet Neurol</source><year>2013</year>; <volume>12</volume>:
+<fpage>822</fpage>–<lpage>838</lpage>.<pub-id pub-id-type="pmid">23867200</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(13)70124-8</pub-id><pub-id pub-id-type="pmcid">PMC3714437</pub-id></mixed-citation></ref><ref id="bibr5-0271678X221135658"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Thrippleton</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name><name name-style="western"><surname>Blair</surname><given-names>G</given-names></name></person-group>, <etal>et al</etal>. <article-title>Cerebrovascular reactivity
+measurement in cerebral small vessel disease: rationale and reproducibility
+of a protocol for MRI acquisition and image processing</article-title>.
+<source>Int J Stroke</source><year>2018</year>; <volume>13</volume>:
+<fpage>195</fpage>–<lpage>206</lpage>.<pub-id pub-id-type="pmid">28933655</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1747493017730740</pub-id></mixed-citation></ref><ref id="bibr6-0271678X221135658"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Pasi</surname><given-names>M</given-names></name><name name-style="western"><surname>van Uden</surname><given-names>IWM</given-names></name><name name-style="western"><surname>Tuladhar</surname><given-names>AM</given-names></name></person-group>, <etal>et al</etal>. <article-title>White matter microstructural
+damage on diffusion tensor imaging in cerebral small vessel disease:
+clinical consequences</article-title>. <source>Stroke</source><year>2016</year>; <volume>47</volume>:
+<fpage>1679</fpage>–<lpage>1684</lpage>.<pub-id pub-id-type="pmid">27103015</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/STROKEAHA.115.012065</pub-id></mixed-citation></ref><ref id="bibr7-0271678X221135658"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Patton</surname><given-names>N</given-names></name><name name-style="western"><surname>Aslam</surname><given-names>T</given-names></name><name name-style="western"><surname>MacGillivray</surname><given-names>T</given-names></name></person-group>, <etal>et al</etal>. <article-title>Retinal vascular image
+analysis as a potential screening tool for cerebrovascular disease: a
+rationale based on homology between cerebral and retinal
+microvasculatures</article-title>. <source>J Anat</source><year>2005</year>; <volume>206</volume>:
+<fpage>319</fpage>–<lpage>348</lpage>.<pub-id pub-id-type="pmid">15817102</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1469-7580.2005.00395.x</pub-id><pub-id pub-id-type="pmcid">PMC1571489</pub-id></mixed-citation></ref><ref id="bibr8-0271678X221135658"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kashani</surname><given-names>AH</given-names></name><name name-style="western"><surname>Chen</surname><given-names>C-L</given-names></name><name name-style="western"><surname>Gahm</surname><given-names>JK</given-names></name></person-group>, <etal>et al</etal>. <article-title>Optical coherence tomography
+angiography: a comprehensive review of current methods and clinical
+applications</article-title>. <source>Prog Retin Eye Res</source><year>2017</year>; <volume>60</volume>:
+<fpage>66</fpage>–<lpage>100</lpage>.<pub-id pub-id-type="pmid">28760677</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.preteyeres.2017.07.002</pub-id><pub-id pub-id-type="pmcid">PMC5600872</pub-id></mixed-citation></ref><ref id="bibr9-0271678X221135658"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Doubal</surname><given-names>FN</given-names></name><name name-style="western"><surname>MacGillivray</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Hokke</surname><given-names>PE</given-names></name></person-group>, <etal>et al</etal>. <article-title>Differences in retinal
+vessels support a distinct vasculopathy causing lacunar
+stroke</article-title>. <source>Neurology</source><year>2009</year>; <volume>72</volume>:
+<fpage>1773</fpage>–<lpage>1778</lpage>.<pub-id pub-id-type="pmid">19451533</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0b013e3181a60a71</pub-id><pub-id pub-id-type="pmcid">PMC2827311</pub-id></mixed-citation></ref><ref id="bibr10-0271678X221135658"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lindley</surname><given-names>RI</given-names></name><name name-style="western"><surname>Wang</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Wang</surname><given-names>M-C</given-names></name></person-group>, <etal>et al</etal>. <article-title>Retinal microvasculature in
+acute lacunar stroke: a cross-sectional study</article-title>.
+<source>Lancet Neurol</source><year>2009</year>; <volume>8</volume>:
+<fpage>628</fpage>–<lpage>634</lpage>.<pub-id pub-id-type="pmid">19481977</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(09)70131-0</pub-id></mixed-citation></ref><ref id="bibr11-0271678X221135658"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Doubal</surname><given-names>FN</given-names></name><name name-style="western"><surname>MacGillivray</surname><given-names>TJ</given-names></name><name name-style="western"><surname>Patton</surname><given-names>N</given-names></name></person-group>, <etal>et al</etal>. <article-title>Fractal analysis of retinal
+vessels suggests that a distinct vasculopathy causes lacunar
+stroke</article-title>. <source>Neurology</source><year>2010</year>; <volume>74</volume>:
+<fpage>1102</fpage>–<lpage>1107</lpage>.<pub-id pub-id-type="pmid">20368631</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0b013e3181d7d8b4</pub-id><pub-id pub-id-type="pmcid">PMC2865776</pub-id></mixed-citation></ref><ref id="bibr12-0271678X221135658"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yatsuya</surname><given-names>H</given-names></name><name name-style="western"><surname>Folsom</surname><given-names>AR</given-names></name><name name-style="western"><surname>Wong</surname><given-names>TY</given-names></name></person-group>, <etal>et al</etal>. <article-title>Retinal microvascular
+abnormalities and risk of lacunar stroke: atherosclerosis risk in
+communities study</article-title>. <source>Stroke</source><year>2010</year>; <volume>41</volume>:
+<fpage>1349</fpage>–<lpage>1355</lpage>.<pub-id pub-id-type="pmid">20522816</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/STROKEAHA.110.580837</pub-id><pub-id pub-id-type="pmcid">PMC2894269</pub-id></mixed-citation></ref><ref id="bibr13-0271678X221135658"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>McGrory</surname><given-names>S</given-names></name><name name-style="western"><surname>Cameron</surname><given-names>JR</given-names></name><name name-style="western"><surname>Pellegrini</surname><given-names>E</given-names></name></person-group>, <etal>et al</etal>. <article-title>The application of retinal
+fundus camera imaging in dementia: a systematic review.</article-title><source>Alzheimers Dement (Amst)</source><year>2017</year>; <volume>6</volume>:
+<fpage>91</fpage>–<lpage>107</lpage>.<pub-id pub-id-type="pmid">28229127</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dadm.2016.11.001</pub-id><pub-id pub-id-type="pmcid">PMC5312461</pub-id></mixed-citation></ref><ref id="bibr14-0271678X221135658"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Doubal</surname><given-names>FN</given-names></name><name name-style="western"><surname>Hokke</surname><given-names>PE</given-names></name><name name-style="western"><surname>Wardlaw</surname><given-names>JM.</given-names></name></person-group><article-title>Retinal microvascular abnormalities and stroke: a systematic
+review</article-title>. <source>J Neurol Neurosurg Psychiatry</source><year>2009</year>; <volume>80</volume>:
+<fpage>158</fpage>–<lpage>165</lpage>.<pub-id pub-id-type="pmid">18931002</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jnnp.2008.153460</pub-id></mixed-citation></ref><ref id="bibr15-0271678X221135658"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ballerini</surname><given-names>L</given-names></name><name name-style="western"><surname>McGrory</surname><given-names>S</given-names></name><name name-style="western"><surname>Valdes Hernandez</surname><given-names>MDC</given-names></name></person-group>, <etal>et al</etal>. <article-title>Quantitative measurements of
+enlarged perivascular spaces in the brain are associated with retinal
+microvascular parameters in older community-dwelling
+subjects</article-title>. <source>Cereb Circ Cog Behav</source><year>2020</year>; <volume>1</volume>:
+<fpage>1</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cccb.2020.100002</pub-id><pub-id pub-id-type="pmcid">PMC7792660</pub-id><pub-id pub-id-type="pmid">33458712</pub-id></mixed-citation></ref><ref id="bibr16-0271678X221135658"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Doubal</surname><given-names>FN</given-names></name><name name-style="western"><surname>De Haan</surname><given-names>R</given-names></name><name name-style="western"><surname>MacGillivray</surname><given-names>TJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>Retinal arteriolar geometry
+is associated with cerebral white matter hyperintensities on magnetic
+resonance imaging</article-title>. <source>Int J Stroke</source><year>2010</year>; <volume>5</volume>:
+<fpage>434</fpage>–<lpage>439</lpage>.<pub-id pub-id-type="pmid">21050397</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1747-4949.2010.00483.x</pub-id><pub-id pub-id-type="pmcid">PMC3489044</pub-id></mixed-citation></ref><ref id="bibr17-0271678X221135658"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>JF</given-names></name><name name-style="western"><surname>Wiseman</surname><given-names>S</given-names></name><name name-style="western"><surname>Valdés Hernández</surname><given-names>MC</given-names></name></person-group>, <etal>et al</etal>. <article-title>The application of optical
+coherence tomography angiography in cerebral small vessel disease, ischemic
+stroke and dementia: a systematic review</article-title>. <source>Front
+Neurol</source><year>2020</year>; <volume>11</volume>: <fpage>1009</fpage>.<pub-id pub-id-type="pmid">33013667</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2020.01009</pub-id><pub-id pub-id-type="pmcid">PMC7511809</pub-id></mixed-citation></ref><ref id="bibr18-0271678X221135658"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Clancy</surname><given-names>U</given-names></name><name name-style="western"><surname>Jaime Garcia</surname><given-names>D</given-names></name><name name-style="western"><surname>Stringer</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Rational and design of a
+longitudinal study of cerebral small vessel diseases, clinical, and imaging
+outcomes in patients presenting with mild ischaemic stroke: Mild Stroke
+Study 3 (MSS-3</article-title>). <source>Eur Stroke J</source><year>2021</year>; <volume>6</volume>:
+<fpage>81</fpage>–<lpage>88</lpage>.<pub-id pub-id-type="pmid">33817338</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/2396987320929617</pub-id><pub-id pub-id-type="pmcid">PMC7995323</pub-id></mixed-citation></ref><ref id="bibr19-0271678X221135658"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Fazekas</surname><given-names>F</given-names></name><name name-style="western"><surname>Chawluk</surname><given-names>JB</given-names></name><name name-style="western"><surname>Alavi</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>. <article-title>MR signal abnormalities at
+1.5 T in Alzheimer’ s dementia and normal aging</article-title>. <source>AJR
+Am J Roentgenol</source><year>1987</year>; <volume>149</volume>:
+<fpage>351</fpage>–<lpage>356</lpage>.<pub-id pub-id-type="pmid">3496763</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2214/ajr.149.2.351</pub-id></mixed-citation></ref><ref id="bibr20-0271678X221135658"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Potter</surname><given-names>GM</given-names></name><name name-style="western"><surname>Chappell</surname><given-names>FM</given-names></name><name name-style="western"><surname>Morris</surname><given-names>Z</given-names></name></person-group>, <etal>et al</etal>. <article-title>Cerebral perivascular spaces
+visible on magnetic resonance imaging: development of a qualitative rating
+scale and its observer reliability</article-title>. <source>Cerebrovasc
+Dis</source><year>2015</year>; <volume>39</volume>:
+<fpage>224</fpage>–<lpage>231</lpage>.<pub-id pub-id-type="pmid">25823458</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000375153</pub-id><pub-id pub-id-type="pmcid">PMC4386144</pub-id></mixed-citation></ref><ref id="bibr21-0271678X221135658"><label>21</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Potter</surname><given-names>G</given-names></name><name name-style="western"><surname>Morris</surname><given-names>Z</given-names></name><name name-style="western"><surname>Wardlaw</surname><given-names>J.</given-names></name></person-group> Enlarged perivascular spaces (EPVS): a visual rating scale and
+user guide, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ed.ac.uk/files/imports/fileManager/epvs-rating-scale-user-guide.pdf" ext-link-type="uri">www.ed.ac.uk/files/imports/fileManager/epvs-rating-scale-user-guide.pdf</ext-link>
+(accessed 23 January <year>2020</year>).</mixed-citation></ref><ref id="bibr22-0271678X221135658"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jenkinson</surname><given-names>M</given-names></name><name name-style="western"><surname>Bannister</surname><given-names>P</given-names></name><name name-style="western"><surname>Brady</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Improved optimisation for
+the robust and accurate linear registration and motion correction of brain
+images</article-title>. <source>NeuroImage</source><year>2002</year>; <volume>17</volume>:
+<fpage>825</fpage>–<lpage>841</lpage>.<pub-id pub-id-type="pmid">12377157</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1053-8119(02)91132-8</pub-id></mixed-citation></ref><ref id="bibr23-0271678X221135658"><label>23</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Brady</surname><given-names>M</given-names></name><name name-style="western"><surname>Smith</surname><given-names>S.</given-names></name></person-group><article-title>Segmentation of brain MR images through a hidden Markov random
+field model and the expectation-maximization algorithm</article-title>.
+<source>IEEE Trans Med Imaging</source><year>2001</year>; <volume>20</volume>:
+<fpage>45</fpage>–<lpage>57</lpage>.<pub-id pub-id-type="pmid">11293691</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/42.906424</pub-id></mixed-citation></ref><ref id="bibr24-0271678X221135658"><label>24</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Pechaud</surname><given-names>M</given-names></name><name name-style="western"><surname>Jenkinson</surname><given-names>M</given-names></name><name name-style="western"><surname>Smith</surname><given-names>S.</given-names></name></person-group> BET2 – MRI-based estimation of brain, skull and scalp surfaces.
+<italic toggle="yes">FMRIB Tech Rep TR06MP1.</italic> 206AD, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.fmrib.ox.ac.uk/datasets/techrep/tr06mp1/tr06mp1.pdf" ext-link-type="uri">www.fmrib.ox.ac.uk/datasets/techrep/tr06mp1/tr06mp1.pdf</ext-link>
+(accessed 20 December 2020).</mixed-citation></ref><ref id="bibr25-0271678X221135658"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name><name name-style="western"><surname>Thrippleton</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Blair</surname><given-names>GW</given-names></name></person-group>, <etal>et al</etal>. <article-title>Small vessel disease is
+associated with altered cerebrovascular pulsatility but not resting cerebral
+blood flow</article-title>. <source>J Cereb Blood Flow Metab</source><year>2020</year>; <volume>40</volume>:
+<fpage>85</fpage>–<lpage>99</lpage>.<pub-id pub-id-type="pmid">30295558</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0271678X18803956</pub-id><pub-id pub-id-type="pmcid">PMC6928551</pub-id></mixed-citation></ref><ref id="bibr26-0271678X221135658"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Walker</surname><given-names>PG</given-names></name><name name-style="western"><surname>Cranney</surname><given-names>GB</given-names></name><name name-style="western"><surname>Scheideggar</surname><given-names>MB</given-names></name></person-group>, <etal>et al</etal>. <article-title>Semiautomated method for
+noise reduction and background phase error correction in MR phase velocity
+data</article-title>. <source>J Mag Res Imaging</source><year>1993</year>; <volume>3</volume>:
+<fpage>521</fpage>–<lpage>530</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jmri.1880030315</pub-id><pub-id pub-id-type="pmid">8324312</pub-id></mixed-citation></ref><ref id="bibr27-0271678X221135658"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sleight</surname><given-names>E</given-names></name><name name-style="western"><surname>Stringer</surname><given-names>MS</given-names></name><name name-style="western"><surname>Marshall</surname><given-names>I</given-names></name></person-group>, <etal>et al</etal>. <article-title>Cerebrovascular reactivity
+measurement using magnetic resonance imaging: a systematic
+review</article-title>. <source>Front Physiol</source><year>2021</year>; <volume>12</volume>: <fpage>643468</fpage>.<pub-id pub-id-type="pmid">33716793</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2021.643468</pub-id><pub-id pub-id-type="pmcid">PMC7947694</pub-id></mixed-citation></ref><ref id="bibr28-0271678X221135658"><label>28</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Blair</surname><given-names>GW</given-names></name><name name-style="western"><surname>Thrippleton</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal>. <article-title>Intracranial hemodynamic
+relationships in patients with cerebral small vessel
+disease</article-title>. <source>Neurology</source><year>2020</year>; <volume>94</volume>:
+<fpage>e2258</fpage>–<lpage>e2269</lpage>.<pub-id pub-id-type="pmid">32366534</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000009483</pub-id><pub-id pub-id-type="pmcid">PMC7357294</pub-id></mixed-citation></ref><ref id="bibr29-0271678X221135658"><label>29</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Blair</surname><given-names>GW</given-names></name><name name-style="western"><surname>Doubal</surname><given-names>FN</given-names></name><name name-style="western"><surname>Thrippleton</surname><given-names>MJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>Magnetic resonance imaging
+for assessment of cerebrovascular reactivity in cerebral small vessel
+disease: a systematic review</article-title>. <source>J Cereb Blood Flow
+Metab</source><year>2016</year>; <volume>36</volume>:
+<fpage>833</fpage>–<lpage>841</lpage>.<pub-id pub-id-type="pmid">26884471</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0271678X16631756</pub-id><pub-id pub-id-type="pmcid">PMC4853842</pub-id></mixed-citation></ref><ref id="bibr30-0271678X221135658"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gadde</surname><given-names>SGK</given-names></name><name name-style="western"><surname>Anegondi</surname><given-names>N</given-names></name><name name-style="western"><surname>Bhanushali</surname><given-names>D</given-names></name></person-group>, <etal>et al</etal>. <article-title>Quantification of vessel
+density in retinal optical coherence tomography angiography images using
+local fractal dimension</article-title>. <source>Invest Ophthalmol Vis
+Sci</source><year>2016</year>; <volume>57</volume>:
+<fpage>246</fpage>–<lpage>252</lpage>.<pub-id pub-id-type="pmid">26803800</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1167/iovs.15-18287</pub-id></mixed-citation></ref><ref id="bibr31-0271678X221135658"><label>31</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lemmens</surname><given-names>S</given-names></name><name name-style="western"><surname>Devulder</surname><given-names>AV</given-names></name><name name-style="western"><surname>Keer</surname><given-names>K</given-names></name></person-group>, <etal>et al</etal>. <article-title>Systematic review on fractal
+dimension of the retinal vasculature in neurodegeneration and stroke:
+assessment of a potential biomarker</article-title>. <source>Front
+Neurosci</source><year>2020</year>; <volume>14</volume>: <fpage>16</fpage>.<pub-id pub-id-type="pmid">32116491</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnins.2020.00016</pub-id><pub-id pub-id-type="pmcid">PMC7025576</pub-id></mixed-citation></ref><ref id="bibr32-0271678X221135658"><label>32</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Stošić</surname><given-names>T</given-names></name><name name-style="western"><surname>Stošić</surname><given-names>BD.</given-names></name></person-group><article-title>Multifractal analysis of human retinal vessels</article-title>.
+<source>IEEE Trans Med Imaging</source><year>2006</year>; <volume>25</volume>:
+<fpage>1101</fpage>–<lpage>1107</lpage>.<pub-id pub-id-type="pmid">16895002</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/tmi.2006.879316</pub-id></mixed-citation></ref><ref id="bibr33-0271678X221135658"><label>33</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Lim</surname><given-names>J-H</given-names></name><name name-style="western"><surname>Ong</surname><given-names>S-H</given-names></name><name name-style="western"><surname>Wei</surname><given-names>X.</given-names></name></person-group> Morphometric measurements of the retinal vasculature in fundus
+images with VAMPIRE (Chapter 3). In: <italic toggle="yes">Biomedical image understanding:
+methods and applications</italic>. Hoboken, NJ: Wiley, <year>2015</year>,
+pp. 91–111.</mixed-citation></ref><ref id="bibr34-0271678X221135658"><label>34</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Koo</surname><given-names>TK</given-names></name><name name-style="western"><surname>Li</surname><given-names>MY.</given-names></name></person-group><article-title>A guideline of selecting and reporting intraclass correlation
+coefficients for reliability research</article-title>. <source>J Chiropr
+Med</source><year>2016</year>; <volume>15</volume>:
+<fpage>155</fpage>–<lpage>163</lpage>.<pub-id pub-id-type="pmid">27330520</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcm.2016.02.012</pub-id><pub-id pub-id-type="pmcid">PMC4913118</pub-id></mixed-citation></ref><ref id="bibr35-0271678X221135658"><label>35</label><mixed-citation publication-type="other"><person-group person-group-type="author"><name name-style="western"><surname>Gamer</surname><given-names>M</given-names></name><name name-style="western"><surname>Lemon</surname><given-names>J</given-names></name><name name-style="western"><surname>Fellows</surname><given-names>I</given-names></name></person-group>, <etal>et al</etal>. irr: various coefficients of interrater
+reliability and agreement. R package version 0.84, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://CRAN.R-project.org/package=irr" ext-link-type="uri">https://CRAN.R-project.org/package=irr</ext-link> (accessed 15 March
+2021).</mixed-citation></ref><ref id="bibr36-0271678X221135658"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cameron</surname><given-names>JR</given-names></name><name name-style="western"><surname>Megaw</surname><given-names>RD</given-names></name><name name-style="western"><surname>Tatham</surname><given-names>AJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>Lateral thinking –
+interocular symmetry and asymmetry in neurovascular patterning, in health
+and disease</article-title>. <source>Prog Retin Eye Res</source><year>2017</year>; <volume>59</volume>:
+<fpage>131</fpage>–<lpage>157</lpage>.<pub-id pub-id-type="pmid">28457789</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.preteyeres.2017.04.003</pub-id></mixed-citation></ref><ref id="bibr37-0271678X221135658"><label>37</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sam</surname><given-names>K</given-names></name><name name-style="western"><surname>Conklin</surname><given-names>J</given-names></name><name name-style="western"><surname>Holmes</surname><given-names>KR</given-names></name></person-group>, <etal>et al</etal>. <article-title>Impaired dynamic
+cerebrovascular response to hypercapnia predicts development of white matter
+hyperintensities</article-title>. <source>NeuroImage Clin</source><year>2016</year>; <volume>11</volume>:
+<fpage>796</fpage>–<lpage>801</lpage>.<pub-id pub-id-type="pmid">27358765</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nicl.2016.05.008</pub-id><pub-id pub-id-type="pmcid">PMC4917393</pub-id></mixed-citation></ref><ref id="bibr38-0271678X221135658"><label>38</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Atwi</surname><given-names>S</given-names></name><name name-style="western"><surname>Shao</surname><given-names>H</given-names></name><name name-style="western"><surname>Crane</surname><given-names>DE</given-names></name></person-group>, <etal>et al</etal>. <article-title>BOLD-based cerebrovascular
+reactivity vascular transfer function isolates amplitude and timing
+responses to better characterize cerebral small vessel
+disease</article-title>. <source>NMR Biomed</source><year>2019</year>; <volume>32</volume>:
+<fpage>1</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/nbm.4064</pub-id><pub-id pub-id-type="pmid">30693582</pub-id></mixed-citation></ref><ref id="bibr39-0271678X221135658"><label>39</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ashimatey</surname><given-names>BS</given-names></name><name name-style="western"><surname>D’Orazio</surname><given-names>LM</given-names></name><name name-style="western"><surname>Ma</surname><given-names>SJ</given-names></name></person-group>, <etal>et al</etal>. <article-title>Lower retinal capillary
+density in minimal cognitive impairment among older latinx
+adults</article-title>. <source>Alzheimers Dement (Amst)</source><year>2020</year>; <volume>12</volume>:
+<fpage>1</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/dad2.12071</pub-id><pub-id pub-id-type="pmcid">PMC7447879</pub-id><pub-id pub-id-type="pmid">32875053</pub-id></mixed-citation></ref><ref id="bibr40-0271678X221135658"><label>40</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Maniega</surname><given-names>SM</given-names></name><name name-style="western"><surname>Valdés Hernández</surname><given-names>MC</given-names></name><name name-style="western"><surname>Clayden</surname><given-names>JD</given-names></name></person-group>, <etal>et al</etal>. <article-title>White matter
+hyperintensities and normal-appearing white matter integrity in the aging
+brain</article-title>. <source>Neurobiol Aging</source><year>2015</year>; <volume>36</volume>:
+<fpage>909</fpage>–<lpage>918</lpage>.<pub-id pub-id-type="pmid">25457555</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2014.07.048</pub-id><pub-id pub-id-type="pmcid">PMC4321830</pub-id></mixed-citation></ref><ref id="bibr41-0271678X221135658"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wardlaw</surname><given-names>JM</given-names></name><name name-style="western"><surname>Benveniste</surname><given-names>H</given-names></name><name name-style="western"><surname>Nedergaard</surname><given-names>M</given-names></name></person-group>, <etal>et al</etal>. <article-title>Perivascular spaces in the
+brain: anatomy, physiology and pathology</article-title>. <source>Nat Rev
+Neurol</source><year>2020</year>; <volume>16</volume>:
+<fpage>137</fpage>–<lpage>153</lpage>.<pub-id pub-id-type="pmid">32094487</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41582-020-0312-z</pub-id></mixed-citation></ref><ref id="bibr42-0271678X221135658"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mutlu</surname><given-names>U</given-names></name><name name-style="western"><surname>Adams</surname><given-names>HHH</given-names></name><name name-style="western"><surname>Hofman</surname><given-names>A</given-names></name></person-group>, <etal>et al</etal>. <article-title>Retinal microvascular
+calibers are associated with enlarged perivascular spaces in the
+brain</article-title>. <source>Stroke</source><year>2016</year>; <volume>47</volume>:
+<fpage>1374</fpage>–<lpage>1376</lpage>.<pub-id pub-id-type="pmid">26979867</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/STROKEAHA.115.012438</pub-id></mixed-citation></ref><ref id="bibr43-0271678X221135658"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rossitti</surname><given-names>S</given-names></name><name name-style="western"><surname>Frisen</surname><given-names>L.</given-names></name></person-group><article-title>Remodelling of the retinal arterioles in descending optic atrophy
+follows the principle of minimum work</article-title>. <source>Acta Physiol
+Scand</source><year>1994</year>; <volume>152</volume>:
+<fpage>333</fpage>–<lpage>340</lpage>.<pub-id pub-id-type="pmid">7872010</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1748-1716.1994.tb09813.x</pub-id></mixed-citation></ref><ref id="bibr44-0271678X221135658"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Wei</surname><given-names>Q</given-names></name><name name-style="western"><surname>Wu</surname><given-names>X</given-names></name></person-group>, <etal>et al</etal>. <article-title>The vessel density of the
+superficial retinal capillary plexus as a new biomarker in cerebral small
+vessel disease: an optical coherence tomography angiography
+study</article-title>. <source>Neurol Sci</source><year>2021</year>; <volume>42</volume>:
+<fpage>3615</fpage>–<lpage>3624</lpage>.<pub-id pub-id-type="pmid">33432462</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10072-021-05038-z</pub-id></mixed-citation></ref><ref id="bibr45-0271678X221135658"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wang</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name><name name-style="western"><surname>Tao</surname><given-names>R</given-names></name></person-group>, <etal>et al</etal>. <article-title>Decreased retinal vascular
+density in Alzheimer’s disease (AD) and mild cognitive impairment (MCI): an
+optical coherence tomography angiography (OCTA) study</article-title>.
+<source>Front Aging Neurosci</source><year>2020</year>; <volume>12</volume>: <fpage>572484</fpage>.<pub-id pub-id-type="pmid">33519415</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2020.572484</pub-id><pub-id pub-id-type="pmcid">PMC7843508</pub-id></mixed-citation></ref><ref id="bibr46-0271678X221135658"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Courtie</surname><given-names>EF</given-names></name><name name-style="western"><surname>Kale</surname><given-names>AU</given-names></name><name name-style="western"><surname>Hui</surname><given-names>BTK</given-names></name></person-group>, <etal>et al</etal>. <article-title>Stability of OCT and OCTA in
+the intensive therapy unit setting</article-title>.
+<source>Diagnostics</source><year>2021</year>; <volume>11</volume>: <fpage>1516</fpage>.<pub-id pub-id-type="pmid">34441449</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/diagnostics11081516</pub-id><pub-id pub-id-type="pmcid">PMC8394026</pub-id></mixed-citation></ref><ref id="bibr47-0271678X221135658"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Stewart</surname><given-names>CR</given-names></name><name name-style="western"><surname>Stringer</surname><given-names>MS</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name></person-group>, <etal>et al</etal>. <article-title>Associations between white
+matter hyperintensity burden, cerebral blood flow and transit time in small
+vessel disease: an updated meta-analysis</article-title>. <source>Front
+Neurol</source><year>2021</year>; <volume>12</volume>: <fpage>647848</fpage>.<pub-id pub-id-type="pmid">34017302</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fneur.2021.647848</pub-id><pub-id pub-id-type="pmcid">PMC8129542</pub-id></mixed-citation></ref></ref-list></back></article>

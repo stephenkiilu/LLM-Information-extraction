@@ -1,0 +1,20 @@
+No,Age,Gender,Genetics,Language,Motor function,ASD,Epilepsy,Cognition,ADHD,Regressivesymptoms
+1,5,M,"arr[GRCh37] 20q13.33(62,908,679)x3, 22q13.33(50915849_51178213)x1",expressive + receptive,Hypotonia,yes,yes,moderate impairment,yes,yes
+2,10,F,"46, XX, del(22) (q13.3).ish 22q13.3 (ARSA-).rev ish dim (22)(q13.3)",expressive,fine motor impairment,yes,no,mild impairment,no,yes
+3,22,F,(c.3788dupC; pALA1264Glyfs*32 in SHANK3),expressive + receptive,fine motor impairment,no,no,heavy impairment,no,yes
+4,22,M,"ring chromosome 22, breakpoint in SHANK3",expressive,fine motor impairment,no,no,mild impairment,no,yes
+5,56,M,Point mutation in SHANK3,expressive,fine motor impairment,no,no,mild impairment,no,no
+6,57,M,"translocation, breakpoint in SHANK3",expressive,fine motor impairment,no,no,mild impairment,no,no
+7*,2,F,"deletion 22q13.32q13.33,not SHANK3-related",expressive + receptive,Hypotonia,yes,no,moderate impairment,no,no
+8,3,F,arr[hg19] 22q13.33q13.33(48568738_51219009)x1,expressive + receptive,Hypotonia,yes,no,moderate impairment,no,no
+9,29,F,deletion 22q13.33,expressive + receptive,fine motor impairment,yes,no,heavy impairment,no,yes
+10,4,M,arr[GRCh37] 22q13.31q13.33 (47922828_51195728)x1,expressive + receptive,Hypotonia,yes,no,heavy impairment,no,no
+11,19,F,c.3711_3723; p.Arg1241fs,expressive + receptive,fine motor impairment,yes,no,moderate impairment,no,no
+12,15,M,c.2998 G > T; p.Glu1000Ter,expressive + receptive,Hypotonia,no,no,moderate impairment,no,no
+13,12,M,microdeletion 22q13.3,expressive + receptive,Hypotonia,yes,no,heavy impairment,no,no
+14,4,M,deletion 22q13.33,expressive,Hypotonia,no,no,moderate impairment,no,no
+15,4,F,"c.3640dupG, p-(Ala1214Glyfs*69)",expressive,fine motor impairment,no,no,mild impairment,yes,no
+16,5,M,"translocation with microdeletion 22q13, microduplication 1q43q44",expressive + receptive,Hypotonia,yes,no,moderate impairment,yes,no
+17,22,F,"ring chromosome 22, breakpoint in SHANK3",expressive + receptive,fine motor impairment,yes,yes,heavy impairment,no,yes
+18,3,M,"46 XY, del(22)(q13).ish, del(2q13.1)(HIRA+, SHANK3-)",expressive + receptive,severe hypotonia,no,no,heavy impairment,no,no
+19,4,F,deletion 22q13.33,expressive + receptive,fine motor impairment,yes,no,moderate impairment,yes,no

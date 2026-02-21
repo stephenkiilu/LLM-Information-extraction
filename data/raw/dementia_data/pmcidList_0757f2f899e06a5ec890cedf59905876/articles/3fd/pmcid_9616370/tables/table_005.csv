@@ -1,0 +1,11 @@
+MR sequence,Acquired resolution mm3,Time min:s,Parameters
+T1-weighted,1.0 × 1.0 × 1.0,01:59,FOV 250 × 250 × 190 mm3; TR 4.2 ms; TI 1297 ms; shot interval 3000 ms; flip angle 5°
+2D-Qflow CSO,0.3 × 0.3 × 2.0,03:24*,FOV 230 × 230 mm2; reconstructed resolution 0.18 × 0.18 mm ???; TR 29 ms; TE 16 ms; Venc 4 cm/s
+T1-weighted???,1.0 × 1.0 × 1.0,00:47,FOV 250 × 250 × 190; TR 4.1 ms; TI 1253 ms; shot interval 3000; flip angle 5°
+2D-Qflow BG,0.3 × 0.3 × 2.0,03:47*,FOV 170 × 170 mm2; reconstructed resolution 0.18 × 0.18 mm2;TR 28 ms; TE 15 ms; Venc 20 cm/s
+2D-Qflow M1,0.5 × 0.5 × 3.0,01:47*,FOV 250 × 200 mm2; TR 12 ms; TE 4.3 ms; Venc 100 cm/s
+T2* whole brain,0.6 × 0.6 × 0.6,03:02,FOV 239 × 191 × 100 mm3; TR 77 ms; TE 27 ms; flip angle 20°
+T2* visual cortex,0.6 × 0.6 × 1.0,02:21,FOV 160 × 169 × 29 mm3; TR 1250 ms; TE 16 ms; flip angle 40°
+BOLD fMRIvisual cortex???,1.3 × 1.3 × 1.3,10:05,FOV 140 × 140 × 11 mm3; TR 880 ms; TE 25 ms
+T1-weighted???,1.0 × 1.0 × 1.0,00:47,FOV 250 × 250 × 190 mm3; TR 4.1 ms; TI 1253 ms; shot interval 3000; flip angle 5°
+BOLD fMRIwhole-brain???,2.0 × 2.0 × 2.0,10:00,FOV 224 × 256 × 101 mm3; TR 3000 ms; TE 25 ms

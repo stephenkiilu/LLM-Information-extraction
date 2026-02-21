@@ -1,0 +1,12 @@
+Group,n,Sex,Age,Time between symptoms outbreak and MRI (months),Total disease duration (months),% Path- proven,Codon 129???,Molecular classification,Molecular classification.1
+Healthy controls,9,4F (44%); 5M (56%),61 ± 16,—,—,—,—,—,—
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,MM 58%???,MM 1,15%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,MM 58%???,MM 2,23%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,MM 58%???,MM 1/2,12%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,MM 58%???,MM N/A,8%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,MV 31%,MV1,8%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,MV 31%,MV2,15%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,MV 31%,MV 1/2,4%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,MV 31%,MV N/A,4%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,VV 8%,VV 2,8%
+Sporadic CJD,26,12F (46%); 14M (54%),62 ± 9,12 ± 8,19 ± 13,88%,N/A 4%,,4%

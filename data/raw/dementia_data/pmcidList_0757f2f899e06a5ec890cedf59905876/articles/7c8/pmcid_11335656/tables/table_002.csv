@@ -1,0 +1,24 @@
+DKI (MKT & KFA),DKI (MKT & KFA),DKI (MKT & KFA),DKI (MKT & KFA),DKI (MKT & KFA),DKI (MKT & KFA),DKI (MKT & KFA)
+(A),MKT,MKT,MKT,MKT,MKT,MKT
+Unnamed: 0_level_2,CN < MCI,CN < MCI,CN < MCI,CN > MCI,CN > MCI,CN > MCI
+Unnamed: 0_level_3,t-stats,t-stats,Effect-size,t-stats,t-stats,Effect-size
+Unnamed: 0_level_4,Vol (%),<t>,gmax,Vol (%),<t>,gmax
+JHU Atlas,JHU Atlas,JHU Atlas,JHU Atlas,JHU Atlas,JHU Atlas,JHU Atlas
+Cortical spinal tract R,0.24,2.552,0.697,–,–,–
+Forceps major,0.97,2.623,0.640,–,–,–
+Forceps minor,0.22,2.663,0.739,–,–,–
+Inferior fronto-occipital fasciculus L,0.38,2.588,0.620,16.43,−2.220,−0.708
+Inferior longitudinal fasciculus L,0.58,2.652,0.849,14.73,−2.347,−0.755
+Superior longitudinal fasciculus L,–,–,–,18.91,−2.539,−0.747
+Superior longitudinal fasciculus R,–,–,–,20.89,−2.542,−0.732
+Uncinate fasciculus R,0.28,2.587,0.660,–,–,–
+Superior longitudinal fasciculus temporal L,–,–,–,31.72,−2.556,−0.747
+Superior longitudinal fasciculus temporal R,–,–,–,35.23,−2.574,−0.732
+ICBM81 Atlas,,,,,,
+Splenium of corpus callosum,–,–,–,16.08,−2.435,−0.661
+Posterior limb of internal capsule R,0.77,2.492,0.649,–,–,–
+Posterior thalamic radiation L,–,–,–,28.23,−2.189,−0.697
+Superior longitudinal fasciculus R,–,–,–,56.86,−2.564,−0.705
+Superior longitudinal fasciculus L,–,–,–,52.94,−2.570,−0.637
+Superior fronto-occipital fasciculus R,–,–,–,72.19,−2.654,−0.665
+Superior fronto-occipital fasciculus L,–,–,–,74.36,−2.880,−0.649

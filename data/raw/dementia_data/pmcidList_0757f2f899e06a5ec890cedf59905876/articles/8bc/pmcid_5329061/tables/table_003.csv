@@ -1,0 +1,7 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Classification task,Classification task,Classification task
+Unnamed: 0_level_1,Unnamed: 1_level_1,AD-CT,AD-MCI,MCI-CT
+Median [95% Confidence Interval],Accuracy,"0.75 [0.743, 0.757]","0.767 [0.759, 0.774]","0.667 [0.662, 0.671]"
+,Recall,"0.8 [0.792, 0.808]","0.73 [0.718, 0.742]","0.6 [0.589, 0.611]"
+,Specificity,"0.67 [0.617, 0.723]","0.67 [0.626, 0.714]","0.43 [0.384, 0.476]"
+,F-1,"0.77 [0.763, 0.777]","0.74 [0.729, 0.751]","0.56 [0.553, 0.567]"
+,ROC AUC,"0.76 [0.754, 0.767]","0.78 [0.775, 0.785]","0.56 [0.557, 0.563]"

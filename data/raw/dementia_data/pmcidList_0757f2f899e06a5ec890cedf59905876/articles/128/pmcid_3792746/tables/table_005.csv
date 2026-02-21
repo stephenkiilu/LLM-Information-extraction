@@ -1,0 +1,12 @@
+Genu of corpus callosum,GCC,Posterior thalamic radiation,"PTR L,R"
+Body of corpus callosum,BCC,Sagittal stratum,"SS L,R"
+Splenium of corpus callosum,SCC,External capsule,"EC L,R"
+Full corpus callosum,CC,Cingulum (cingulate gyrus),"CGC L,R"
+Corticospinal tract,"CST L,R",Cingulum (hippocampus),"CGH L,R"
+Cerebral peduncle,"CP L,R",Fornix (crus)/Stria terminalis,"FX/ST L,R"
+Anterior limb of internal capsule,"ALIC L,R",Superior longitudinal fasciculus,"SLF L,R"
+Posterior limb of internal capsule,"PLIC L,R",Superior fronto-occipital fasciculus,"SFO L,R"
+Retrolenticular part of internal capsule,"RLIC L,R",Inferior fronto-occipital fasciculus,"IFO L,R"
+Anterior corona radiata,"ACR L,R",Uncinate fasciculus,"UNC L,R"
+Superior corona radiata,"SCR L,R",Tapetum,"TAP L,R"
+Posterior corona radiata,"PCR L,R",All ROIs,TOTAL

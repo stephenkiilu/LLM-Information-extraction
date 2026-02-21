@@ -1,0 +1,9 @@
+Unnamed: 0,Time 1,Time 2,Patient change
+Age,65,67,+2
+Height (cm),175,175,0
+Weight (kg),91,90,−1
+BMI,30,29,−1
+BP SYS,165,162,−3
+BP DIA,100,93,−7
+Pulse,55,64,+9
+Medical Management,"Simvastatin 40 mg, Bendroflumethiazide 2.5 mg, Clopidogrel 75 mg, Losartan 100mg","Simvastatin 40 mg, Bendroflumethiazide 2.5 mg, Bisoprolol 1.25 mg, Clopidogrel 75 mg, Losartan 100 mg, Levothyroxine 100 mg, Finasteride 5mg",+3

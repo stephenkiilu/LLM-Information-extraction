@@ -1,0 +1,7 @@
+Comparison,Values,Sensitivity,1-Specificity,AUC,Youden Index,cutoff value
+HC vs. m&lCAP,MK of splenium of corpus callosum,0.786,0.125,0.848,0.661,1.09024
+HC vs. m&lCAP,FA of right posterior thalamic radiation,0.714,0.0,0.92,0.714,0.52181
+HC vs. m&lCAP,MK of Splenium of corpus callosum combined with FA of Posterior thalamic radiation R,1.0,0.214,0.911,0.786,0.25174
+hCAP vs. m&lCAP,MK of left superior longitudinal fasciculus,0.875,0.143,0.911,0.732,1.05361
+hCAP vs. m&lCAP,FA of left tapetum,0.625,0.0,0.83,0.625,0.43369
+hCAP vs. m&lCAP,MK of left superior longitudinal fasciculus combined with FA of left tapetum,0.929,0.125,0.902,0.804,0.47341

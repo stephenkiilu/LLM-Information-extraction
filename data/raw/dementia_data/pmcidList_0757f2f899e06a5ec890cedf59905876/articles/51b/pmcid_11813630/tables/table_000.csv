@@ -1,0 +1,57 @@
+Study,Study design,Country,Study groups (frailty score),Sample size F/M,Age (years) mean ± SD,Mean MMSE ± SD,Modality,Frailty measurements,Cognitive status,Matched for
+"Avila‐Funes, 2016",Cohort,Mexico,Robust,51/92,75.0 ± 5.0,27.2 ± 2.1,"MRI, DTI",Fried criteria,MMSE > 15,—
+"Avila‐Funes, 2016",Cohort,Mexico,Frail,19/14,76.0 ± 5.7,26.4 ± 2.7,"MRI, DTI",Fried criteria,MMSE > 15,—
+"Chen, 2015",Cohort,Taiwan,Robust (0),119/140,62.5 ± 7.7,26.9 ± 2.9,MRI,Fried criteria,Dementia excluded based on MMSE score,—
+"Chen, 2015",Cohort,Taiwan,Prefrail (1–2),89/89,65.2 ± 9.0,25.8 ± 3.4,MRI,Fried criteria,Dementia excluded based on MMSE score,—
+"Chen, 2015",Cohort,Taiwan,Frail (≥ 3),9/10,73.6 ± 7.4,23.1 ± 3.8,MRI,Fried criteria,Dementia excluded based on MMSE score,—
+"Chung, 2016",Cohort,Taiwan,Robust (0),348/263,60.34 ± 7.28,—,MRI,"Fried criteria, CHS score",Score > 24 in well‐educated subjectsMMSE score > 14 in less‐educated subjects,—
+"Chung, 2016",Cohort,Taiwan,Prefrail (1–2),173/146,65.28 ± 9.00,—,MRI,"Fried criteria, CHS score",Score > 24 in well‐educated subjectsMMSE score > 14 in less‐educated subjects,—
+"Chung, 2016",Cohort,Taiwan,Frail (≥ 3),16/16,74.90 ± 7.86,—,MRI,"Fried criteria, CHS score",Score > 24 in well‐educated subjectsMMSE score > 14 in less‐educated subjects,—
+"Ducca, 2022",Cohort,United States,Robust (< 3),954/671,76.0 ± 4.7,—,"MRI, DTI",Fried criteria,Participants who did not meet criteria for MCI or dementia according to expert adjudications,—
+"Ducca, 2022",Cohort,United States,Frail (≥ 3),87/42,78.5 ± 5.5,—,"MRI, DTI",Fried criteria,Participants who did not meet criteria for MCI or dementia according to expert adjudications,—
+"Kant, 2019",Cohort,Netherlands,Robust (0),12/43,70 ± 4,29,MRI,Fried criteria,MMSE > 24,—
+"Kant, 2019",Cohort,Netherlands,Prefrail (1–2),24/61,72 ± 5,29,MRI,Fried criteria,MMSE > 24,—
+"Kant, 2019",Cohort,Netherlands,Frail (≥ 3),16/14,74 ± 5,28,MRI,Fried criteria,MMSE > 24,—
+"Suárez‐Méndez, 2020",Case–control,Spain,Robust,21/13,78.50,27.0,"MEG, MRI",Fried criteria,MMSE > 24,Age and gender
+"Suárez‐Méndez, 2020",Case–control,Spain,Frail,15/5,81,26.0,"MEG, MRI",Fried criteria,MMSE > 24,Age and gender
+"Kant, 2018",Cohort,Netherlands,Robust (0),24/51,71.6 ± 4.5,29,MRI,Modified version of Fried criteria,MMSE > 24,—
+"Kant, 2018",Cohort,Netherlands,Prefrail (1–2),37/70,72.3 ± 5.0,29,MRI,Modified version of Fried criteria,MMSE > 24,—
+"Kant, 2018",Cohort,Netherlands,Frail (≥ 3),19/13,74.7 ± 5.4,28,MRI,Modified version of Fried criteria,MMSE > 24,—
+"Lammers, 2020",Cohort,Germany,Robust (0),19/41,70.5,29,fMRI,Modified version of Fried criteria,MMSE > 24,—
+"Lammers, 2020",Cohort,Germany,Prefrail (1–2),37/33,71.5,29,fMRI,Modified version of Fried criteria,MMSE > 24,—
+"Lammers, 2020",Cohort,Germany,Frail (≥ 3),8/5,74.0,28,fMRI,Modified version of Fried criteria,MMSE > 24,—
+"Lammers, 2022",Cohort,Germany,Improving,10/9,73,28,fMRI,Modified version of Fried criteria,MMSE ≥ 23,—
+"Lammers, 2022",Cohort,Germany,Stable,25/52,71,29,fMRI,Modified version of Fried criteria,MMSE ≥ 23,—
+"Lammers, 2022",Cohort,Germany,Progressing,10/14,71,29,fMRI,Modified version of Fried criteria,MMSE ≥ 23,—
+"Li, 2021",Case–control,China,Nonfrail (≥ 8),7/15,75.0 ± 6.2,24.6 ± 5.3,MRI,EFS,MMSE > 15,—
+"Li, 2021",Case–control,China,Frail (< 8),12/6,77.9 ± 4.3,20.8 ± 4.7,MRI,EFS,MMSE > 15,—
+"Maltais, 2019",Case–control,France,Robust (0),71/42,74.9 ± 4.1,—,MRI,Fried criteria,Dementia excluded,—
+"Maltais, 2019",Case–control,France,Prefrail (1–2),71/42,74.9 ± 4.1,—,MRI,Fried criteria,Dementia excluded,—
+"Maltais, 2019",Case–control,France,Frail (≥ 3),71/42,74.9 ± 4.1,—,MRI,Fried criteria,Dementia excluded,—
+"Maltais, 2019",Cohort,France,—,162/269,74.7 ± 4.3,—,PET,Frailty index,CDR < 1,—
+"Maltais, 2020",Case–control,France,Robust (0),136/91,74.7 ± 3.9,28.1 ± 1.5,DTI,Fried criteria,Dementia excluded,—
+"Maltais, 2020",Case–control,France,Prefrail (1–2),136/91,74.7 ± 3.9,28.1 ± 1.5,DTI,Fried criteria,Dementia excluded,—
+"Maltais, 2020",Case–control,France,Frail (≥ 3),136/91,74.7 ± 3.9,28.1 ± 1.5,DTI,Fried criteria,Dementia excluded,—
+"Siejka, 2020",Cohort,Australia,Lower frailty,85/108,69.5 ± 6,—,MRI,Rockwood and Mitnitski frailty index,Dementia excluded,—
+"Siejka, 2020",Cohort,Australia,Higher frailty,87/108,74.5 ± 7.1,—,MRI,Rockwood and Mitnitski frailty index,Dementia excluded,—
+"Siejka, 2017",Cohort,Australia,—,172/216,72.0 ± 7.0,—,MRI,Cumulative deficit model of frailty index,Dementia excluded,—
+"Sourdet, 2021",Cohort,France,—,—,—,—,"Amyloid PET, MRI",Fried criteria,MMSE > 20,—
+"Suárez‐Méndez, 2021",Cohort,Spain,Robust,21/13,78.50,27.00,"MEG, MRI",Fried criteria,MMSE ≥ 24,Age and gender
+"Suárez‐Méndez, 2021",Cohort,Spain,Frail,15/5,81.00,26.00,"MEG, MRI",Fried criteria,MMSE ≥ 24,Age and gender
+"Sugimoto, 2019",Case–control,Japan,Healthy older adults,120/77,75.5 ± 5.6,28.2 ± 2.1,MRI,Fried criteria,Alzheimer disease ruled out based on criteria of the National Institute on Aging‐Alzheimer's Association (NIA/AA),—
+"Sugimoto, 2019",Case–control,Japan,With CF,86/50,73.4 ± 5.2,25.3 ± 2.5,MRI,Fried criteria,Alzheimer disease ruled out based on criteria of the National Institute on Aging‐Alzheimer's Association (NIA/AA),—
+"Tian, 2020",Case–control,United States,Robust (0),185/177,70.2 ± 6.9,—,DTI,Fried criteria,MCI excluded based on Peterson criteriaDementia excluded based on DSM‐III‐RAlzheimer disease excluded based on NINCDS‐ADRDA criteria,Age
+"Tian, 2020",Case–control,United States,Prefrail (1–2),168/111,77.2 ± 7.8,—,DTI,Fried criteria,MCI excluded based on Peterson criteriaDementia excluded based on DSM‐III‐RAlzheimer disease excluded based on NINCDS‐ADRDA criteria,Age
+"Tian, 2020",Case–control,United States,Frail (≥ 3),21/8,81.3 ± 8.0,—,DTI,Fried criteria,MCI excluded based on Peterson criteriaDementia excluded based on DSM‐III‐RAlzheimer disease excluded based on NINCDS‐ADRDA criteria,Age
+"Nishita, 2019",Cohort,Japan,Robust (0),137/192,72.7 ± 5.1,—,MRI,Modified version of Fried criteria,Dementia excluded,Age and sex
+"Nishita, 2019",Cohort,Japan,Prefrail (1–2),224/204,74.6 ± 5.8,—,MRI,Modified version of Fried criteria,Dementia excluded,Age and sex
+"Nishita, 2019",Cohort,Japan,Frail (≥ 3),54/24,79.2 ± 6.3,—,MRI,Modified version of Fried criteria,Dementia excluded,Age and sex
+"Zhao, 2021",Cohort,China,Robust (0),206/161,64.3 ± 5.9,—,MRI,Fried criteria,Alzheimer disease excluded,—
+"Zhao, 2021",Cohort,China,Prefrail (1–2),199/111,66.5 ± 6.9,—,MRI,Fried criteria,Alzheimer disease excluded,—
+"Zhao, 2021",Cohort,China,Frail (≥ 3),29/20,68.3 ± 6.2,—,MRI,Fried criteria,Alzheimer disease excluded,—
+"Isernia, 2023",Cohort,Italy,Robust (0),17/17,"71.5, 6.75???","27.0, 3.5???",MRI,Fried criteria,Severe dementia excluded,—
+"Isernia, 2023",Cohort,Italy,Prefrail (1–2),27/18,"75.0, 10.0???","26.0, 3.0???",MRI,Fried criteria,Severe dementia excluded,—
+"Isernia, 2023",Cohort,Italy,Frail (≥ 3),14/3,"78.0, 11.0???","25.7, 3.9???",MRI,Fried criteria,Severe dementia excluded,—
+"Gutiérrez‐Zúñiga, 2023",Cohort,Ireland,Robust (FI < 0.10),143/152,66.9 ± 7.0,—,"MRI, DTI",A self‐reported 32‐item FI,Neurodegenerative diseases excluded,—
+"Gutiérrez‐Zúñiga, 2023",Cohort,Ireland,Prefrail (FI 0.10–0.24),103/87,70.7 ± 7.0,—,"MRI, DTI",A self‐reported 32‐item FI,Neurodegenerative diseases excluded,—
+"Gutiérrez‐Zúñiga, 2023",Cohort,Ireland,Frail (FI ≥ 0.25),23/15,74.3 ± 6.9,—,"MRI, DTI",A self‐reported 32‐item FI,Neurodegenerative diseases excluded,—

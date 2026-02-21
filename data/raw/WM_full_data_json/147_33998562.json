@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "title": "White matter connectivity for early prediction of Alzheimers disease",
+    "authors": [
+      "Jude P J Savarraj",
+      "Ryan Kitagawa",
+      "Dong H Kim",
+      "Huimahn A Choi"
+    ],
+    "abstract": "Background: Early diagnosis of Alzheimers disease (AD) remains challenging. It is speculated that structural atrophy in white matter tracts commences prior to the onset of AD symptoms. Objective: We hypothesize that disruptions in white matter tract connectivity precedes the onset of AD symptoms and these disruptions could be leveraged for early prediction of AD. Methods: Diffusion tensor images (DTI) from 52 subjects with mild cognitive impairment (MCI) were selected. Subjects were dichotomized into two age and gender matched groups; the MCI-AD group (22 subjects who progressed to develop AD) and the MCI-control group (who did not develop AD). DTI images were anatomically parcellated into 90 distinct regions ROIs followed by tractography methods to obtain different biophysical networks. Features extracted from these networks were used to train predictive algorithms with the objective of discriminating the MCI-AD and MCI-control groups. Model performance and best features are reported. Results: Up to 80 prediction accuracy was achieved using a combination of features from the right anterior cingulum and right frontal superior medial . Additionally, local network features were more useful than global in improving the models performance. Conclusion: Connectivity-based characterization of white matter tracts offers potential for early detection of MCI-AD and in the discovery of novel imaging biomarkers.",
+    "publication_date": ""
+  },
+  "content": {}
+}

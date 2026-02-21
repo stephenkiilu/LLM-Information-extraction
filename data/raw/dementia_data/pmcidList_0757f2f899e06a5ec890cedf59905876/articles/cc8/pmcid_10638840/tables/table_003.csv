@@ -1,0 +1,6 @@
+Methods,Specificity (%),Specificity (%)
+Methods,Discovery,Replicated
+SVM [???],80,92
+LDA [???],69,94
+XGB [???],69,90
+MM + MR-DTI [proposed],94,97

@@ -1,0 +1,30 @@
+Biomarker,"MNI Coordinats (x,y,z)",Peak T value,k (mm3),Region
+pTau181,"(-41, -24, -8)",4.54,140,L inferior frontal-occipital fasciculus
+pTau181,"(-29, -23, 23)",4.67,136,L posterior corona radiate
+pTau181,"(-50, -31, -20)",4.81,128,L inferior temporal gyrus white matter
+tTau / Aβ42,"(-35, -48, -12)",6.69,3223,L fusiform gyrus white matter
+tTau / Aβ42,"(-20, 45, 5)",4.73,355,L anterior corona radiate
+tTau / Aβ42,"(-36, -76, -5)",5.15,69,L inferior occipital gyrus white matter
+pTau181 / Aβ42,"(-35, -48, -12)",7.94,31689,L fusiform gyrus white matter
+pTau181 / Aβ42,"(38, -40, -17)",5.64,1338,R fusiform gyrus white matter
+pTau181 / Aβ42,"(-36, -3, -31)",5.47,1178,L inferior temporal gyrus white matter
+pTau181 / Aβ42,"(36, -3, 24)",5.42,522,R inferior temporal gyrus white matter
+pTau181 / Aβ42,"(-35, -8, -7)",4.64,379,L insular gyrus
+pTau181 / Aβ42,"(17, 56, 10)",5.99,135,R superior frontal gyrus white matter
+pTau181 / Aβ42,"(40, 12, 21)",4.38,122,R inferior frontal gyrus white matter
+pTau181 / Aβ42,"(-8, -12, 40)",3.13,68,L cingulate gyrus
+sAPPβ / Aβ42,"(-36, -49, -12)",6.21,11941,L fusiform gyrus white matter
+sAPPβ / Aβ42,"(-15, 49, 10)",5.71,4845,L superior frontal gyrus white matter
+sAPPβ / Aβ42,"(38, -40, -17)",5.72,1572,R fusiform gyrus white matter
+sAPPβ / Aβ42,"(-27, 22, 28)",4.8,1562,L middle frontal gyrus white matter
+sAPPβ / Aβ42,"(-36, -3, -32)",6.05,1306,L inferior temporal gyrus white matter
+sAPPβ / Aβ42,"(-32, -11, 36)",5.16,1044,L precentral gyrus white matter
+sAPPβ / Aβ42,"(22, 52, 5)",5.11,547,R superior frontal gyrus white matter
+sAPPβ / Aβ42,"(37, 1, 27)",4.92,506,R precentral gyrus white matter
+sAPPβ / Aβ42,"(-17, -6, 48)",3.77,450,L superior frontal gyrus white matter
+sAPPβ / Aβ42,"(30, 19, 27)",4.26,395,R middle frontal gyrus white matter
+sAPPβ / Aβ42,"(27, 43, 5)",4.17,378,R middle frontal gyrus white matter
+sAPPβ / Aβ42,"(-13, -25, 54)",4.91,234,L precentral gyrus white matter
+sAPPβ / Aβ42,"(47, -38, 30)",4.55,137,R supramarginal gyrus white matter
+sAPPβ / Aβ42,"(-15, 0, 58)",3.7,81,L superior frontal gyrus white matter
+sAPPβ / Aβ42,"(-51, -8, 20)",4.82,78,L postcentral gyrus white matter

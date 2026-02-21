@@ -1,0 +1,6 @@
+Methods,Sensitivity (%),Sensitivity (%)
+Methods,Discovery,Replicated
+SVM [???],85,70
+LDA [???],72,46
+XGB [???],77,62
+MM + MR-DTI [proposed],99,96

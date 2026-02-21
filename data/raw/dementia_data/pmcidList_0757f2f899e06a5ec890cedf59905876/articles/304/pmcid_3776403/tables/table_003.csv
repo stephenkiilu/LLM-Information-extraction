@@ -1,0 +1,16 @@
+Neuropsychological test,White matter tract,Side,DTI metric,β,p value
+DRS-2,DRS-2,DRS-2,DRS-2,DRS-2,DRS-2
+Total score,corpus callosum-body,R,AD,333.83,0.00484
+Total score,SFO,R,AD,339.85,0.00005
+Total score,SFO,R,RD,274.92,0.00480
+Memory score,IFO,L,AD,30.64,0.00706
+Memory score,IFO,R,AD,26.46,0.00718
+Memory score,PTR,R,FA,–0.07,0.00554
+D-KEFS principal components,D-KEFS principal components,D-KEFS principal components,D-KEFS principal components,D-KEFS principal components,
+Fluency (PC1),SLF,L,AD,15.49,0.00871
+Sorting (PC2),corpus callosum-splenium,L,AD,114.56,0.00276
+D-KEFS scaled scores,D-KEFS scaled scores,D-KEFS scaled scores,D-KEFS scaled scores,D-KEFS scaled scores,
+Letter fluency,PTR,R,RD,52.71,0.00742
+Fluency correct response,cingulum-hippocampal portion,L,AD,34.47,0.00556
+Fluency correct response,corpus callosum-splenium,L,AD,34.89,0.00760
+Fluency switch accuracy,cingulum-hippocampal portion,L,AD,27.69,0.00799

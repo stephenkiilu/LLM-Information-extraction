@@ -1,0 +1,16 @@
+Whole brain analyses,Whole brain analyses,Whole brain analyses,Whole brain analyses,Whole brain analyses
+DTI metric,Group comparison,Significant region,Cluster Size,p(FWE)???
+FA,Aβ+ > Aβ−,Superior longitudinal fasciculus (right),262,0.0
+FA,Aβ+ > Aβ−,"Corpus callosum, genu",299,0.0
+FA,Aβ+ > Aβ−,"Corpus callosum, body",121,0.005
+FA,Aβ+ > Aβ−,Inferior longitudinal fasciculus (right),262,0.0
+FA,Aβ+ > Aβ−,Fornix (left),71,0.045
+FA,Aβ+ > Aβ−,Posterior cingulate (right),166,0.001
+FA,Aβ+ > Aβ−,Thalamus (right),80,0.029
+FA,Aβ+ > Aβ−,Superior corona radiata (left),108,0.008
+FA,Aβi > Aβ−,External capsule (left),88,0.02
+FA,Aβi > Aβ−,Posterior cingulum (right),122,0.004
+FA,Aβi > Aβ−,"Corpus callosum, body",122,0.058
+FA,Aβi > Aβ−,Thalamus (right),65,0.061
+FA,Aβi > Aβ−,Fronto-lateral GM (right),145,0.033
+MD,Aβ− > Aβ+,Fronto-lateral GM (right),145,0.033

@@ -1,0 +1,12 @@
+Variable,Control,SD,MCIna,SD,MCIa,SD,F-value,P-value,CON>MCIa,CON>MCIna,MCIna>MCIa
+Unnamed: 0_level_1,n = 40,Unnamed: 2_level_1,n = 19,Unnamed: 4_level_1,n = 14,Unnamed: 6_level_1,Unnamed: 7_level_1,Unnamed: 8_level_1,Unnamed: 9_level_1,Unnamed: 10_level_1,Unnamed: 11_level_1
+Age (years),66,8.0,68,6.0,68,8.0,0.89,>0.05,,,
+Gender (m/f),16/24 (0.2),,5/14 (0.039),,7/7 (1),,,,,,
+Education,13,5.0,12,2.0,13,4.0,0.19,>0.05,,,
+MMSE,29.27,1.11,28.26,2.86,27.93,3.69,2.46,>0.05,,,
+Verbal Fluency,17.60,4.02,14.26,4.75,14.36,4.61,5.24,0.01,√,√,
+Boston,14.68,0.57,12.63,1.54,12.71,2.02,23.64,<0.0001,√,√,
+Word List Average,7.43,1.06,6.81,1.4,5.21,2.04,13.39,<0.0001,√,√,
+Word Recall,8.38,1.25,6.95,1.68,4.79,2.64,23.67,<0.0001,√,√,√
+Praxis,10.63,0.7,9.89,1.33,9.36,1.91,6.74,<0.0001,√,√,
+Praxis Recall,10.55,1.93,8.84,2.99,9.57,4.16,2.61,>0.05,,,

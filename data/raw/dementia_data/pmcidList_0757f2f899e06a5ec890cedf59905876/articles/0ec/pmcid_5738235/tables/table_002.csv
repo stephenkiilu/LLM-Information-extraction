@@ -1,0 +1,20 @@
+Unnamed: 0,Global ADCmean,p-Value,CMRGlc,p-Value.1
+Clinical and BP variables,,,,
+Age (years),0.522???,< 0.01,− 0.315???,0.01
+Duration of hypertension (years),0.243,0.06,− 0.109,0.41
+Number of antihypertensive medications,0.041,0.76,− 0.144,0.27
+Peripheral systolic BP (mm Hg),0.272???,0.04,− 0.210,0.11
+Peripheral diastolic BP (mm Hg),0.234,0.07,− 0.142,0.28
+Peripheral pulse pressure (mm Hg),0.194,0.14,− 0.178,0.17
+Central BP (mm Hg)???,0.388???,< 0.01,− 0.362???,0.01
+Central pulse pressure (mm Hg)???,0.302???,0.02,− 0.244,0.07
+Neuropsychological test scores,,,,
+MMSE (/30),− 0.173,0.19,0.262???,0.04
+Benton score,− 0.045,0.73,0.056,0.67
+Gröber and Buschke free recall (/48),− 0.432???,< 0.01,0.498???,< 0.01
+Gröber and Buschke cued recall,0.429???,< 0.01,− 0.406???,< 0.01
+Trail making test A (sec),0.435???,< 0.01,− 0.333???,< 0.01
+Trail making test B (sec),0.384???,< 0.01,− 0.518???,< 0.01
+Trail making test (B-A) (sec),0.300???,0.02,− 0.534???,< 0.01
+Verbal fluency test score (P letter),− 0.250,0.05,0.217,0.10
+Verbal Fluency Test score (R letter),− 0.235,0.07,0.202,0.12

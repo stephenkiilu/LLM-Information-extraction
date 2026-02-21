@@ -1,0 +1,5 @@
+Pipeline name/differences,1: Erosionkernel,2: Registrationalgorithm,3: Registration targets,4: Transforming to standardspace,5: Masking of voxels,6: Skeletonprojection
+FSL TBSS,3 × 3 × 3,FNIRT,Most-representative subject,Affine registration (FLIRT),Voxels in all subjects,Yes
+ANTS-GW TBSS,3 × 3 × 1,ANTS SyN,ANTS groupwise Template,Nonlinear registration,Voxels in ≥ 50% of subjects,Yes
+FSL VBA,3 × 3 × 3,FNIRT,Most-representative subject,Affine registration (FLIRT),Voxels in all subjects,No
+ANTS-GW VBA,3 × 3 × 1,ANTS SyN,ANTS groupwise Template,Nonlinear registration,Voxels in ≥ 50% of subjects,No

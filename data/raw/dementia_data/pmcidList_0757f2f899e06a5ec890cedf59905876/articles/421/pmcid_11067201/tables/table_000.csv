@@ -1,0 +1,11 @@
+Characteristics,Characteristics,ALL cohort (n = 121),Training cohort (n = 84),Training cohort (n = 84),Training cohort (n = 84),Test cohort (n = 37),Test cohort (n = 37),Test cohort (n = 37),Training VS TestP value
+Characteristics,Characteristics.1,ALL cohort (n = 121),MCI stable (n = 62),MCI progression(n = 22),Pvalue,MCI stable (n = 27),MCI progression(n = 10),Pvalue,Training VS TestP value
+"Gender (n, %)",Male,73 (60.33),39 (62.9),11 (50),0.289,16 (59.26),7 (70.00),0.71,0.785
+"Gender (n, %)",Female,48 (39.67),23 (37.1),11 (50),0.289,11 (40.74),3 (30.00),0.71,0.785
+"APOE4(n, %)",negative,56 (46.28),29 (46.77),8 (36.36),0.398,19 (70.37),0 (00.00),0.001,0.458
+"APOE4(n, %)",positive,65 (53.72),33 (53.23),14 (63.64),0.398,8 (29.63),10 (100.00),0.001,0.458
+Age (year),Age (year),72.74 ± 7.3,71.1 ± 7.86,73.68 ± 7.38,0.072,73.95 ± 5.89,73.17 ± 4.52,0.707,0.254
+MMSE,MMSE,27.88 ± 1.65,28.06 ± 1.76,27 ± 1.51,0.014*,28.41 ± 1.12,27.20 ± 1.69,0.057,0.323
+CDRS,CDRS,1.37 ± 0.78,1.27 ± 0.81,1.73 ± 0.69,0.019*,1.09 ± 0.50,1.95 ± 0.90,0.015*,0.685
+ADAS,ADAS,9.65 ± 4.61,8.66 ± 3.43,13.49 ± 5.84,0.001*,7.81 ± 3.83,12.30 ± 4.62,0.005*,0.328
+Education (years),Education (years),15.88 ± 2.68,15.73 ± 2.6,16.45 ± 2.76,0.269,16.04 ± 2.81,15.10 ± 2.77,0.372,0.803

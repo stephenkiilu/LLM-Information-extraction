@@ -1,0 +1,6 @@
+Unnamed: 0_level_0,WMH Volume detected in ROI (left and right side combined),WMH Volume detected in ROI (left and right side combined),WMH Volume detected in ROI (left and right side combined),WMH Volume detected in ROI (left and right side combined),WMH Volume detected in ROI (left and right side combined),WMH Volume detected in ROI (left and right side combined)
+Unnamed: 0_level_1,ActiGlia (n = 2),ActiGlia (n = 2),ADNI (n = 36),ADNI (n = 36),DELCODE (n = 10),DELCODE (n = 10)
+Unnamed: 0_level_2,β,p-value,β,p-value,β,p-value
+ALPS_comb,0.067,0.675,-0.103,0.373,-0.215,0.014*
+ALPS_R,0.072,0.625,-0.217,0.040*,-0.208,0.022*
+ALPS_L,0.047,0.784,-0.068,0.562,-0.171,0.049*

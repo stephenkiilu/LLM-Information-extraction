@@ -1,0 +1,40 @@
+Unnamed: 0,All mTBI,CT-negative,CT-positive,p-value,Complete recovery,Incomplete recovery,p-value.1,OI controls,p-value.2
+No. of patients (%),93*,53* (57.0),40 (43.0),,35*,58*,,21,
+Years of Age,Years of Age,Years of Age,Years of Age,0.111 a,,,0.791a,,0.870a
+Median (IQR),47.00 (36),46.0 (34),52.00 (43),,47.00 (44),47.00 (31),,43 (29),
+Mean (SD),45.99 (19.59),43.17 (18.4),49.73 (20.72) (20.72)(20.72),,45.26 (21.91),46.43 (18.24),,45.24 (16.1),
+Sex n (%),Sex n (%),Sex n (%),Sex n (%),0.043 b,,,0.178b,,0.305b
+Male,64 (68.8),32 (60.4),32 (80.0),,27 (77.1),37 (63.8),,12 (57.1),
+Female,29 (31.2),21 (39.6),8 (20.0),,8 (22.9),21 (36.3),,9 (42.9),
+Worst GCS n (%),Worst GCS n (%),Worst GCS n (%),Worst GCS n (%),0.106 c,,,0.775c,,0.004c
+15,62 (66.7),40 (75.5),22 (55.0),,22 (62.)),40 (69.0),,21 (100),
+14,25 (26.9),10 (18.9),15 (37.5),,11 (31.4),14 (24.1),,0,
+13,6 (6.5),3 (5.7),3 (7.5),,2 (5.7),4 (6.9),,0,
+Cause of injury n (%),Cause of injury n (%),Cause of injury n (%),Cause of injury n (%),0.031 c,,,0.399c,,0.057c
+Road traffic crash,28 (30.1),17 (32.1),11 (27.5),,7 (20.0),21 (36.2),,4 (19.0),
+Incidental fall,49 (52.7),22 (41.5),27 (67.5),,22 (62.9),27 (46.6),,12 (57.1),
+Violence/assault,9 (9.7),8 (15.1),1 (2.5),,4 (11.4),5 (8.6),,0,
+Other non-intentional injury,4 (4.3),4 (7.5),0,,2 (5.7),2 (3.4),,5 (23.8),
+Suicide attempt,1 (1.1),1 (1.9),0,,0,1 (1.7),,0,
+Other,2 (2.2),1 (1.9),1 (2.5),,0,2 (3.4),,0,
+Isolated TBI n (%),51 (54.8),32 (60.4),19 (47.5),0.217 b,22 (62.9),29 (50.0),0.227b,-,-
+Extracranial injuries with TBI n (%),42 (45.2),21 (39.6),21 (52.5),0.217 b,13 (37.1),29 (50.0),0.227b,-,-
+"CT findings (Marshall Grade), n (%)","CT findings (Marshall Grade), n (%)","CT findings (Marshall Grade), n (%)","CT findings (Marshall Grade), n (%)","CT findings (Marshall Grade), n (%)","CT findings (Marshall Grade), n (%)","CT findings (Marshall Grade), n (%)",0.333c,,-
+"Diffuse injury I, no visual pathology",53 (57.0),53 (100),0,,24 (68.6),29 (50.0),,-,
+Diffuse injury II,25 (26.9),0,25 (62.5),,8 (22.9),17 (29.3),,-,
+Diffuse injury III,3 (3.2),0,3 (7.5),,0,3 (5.2),,-,
+Diffuse injury IV,2 (2.2),0,2 (5.0),,1 (2.9),1 (1.7),,-,
+Evacuated mass lesions,6 (6.5),0,6 (15.0),,2 (5.7),4 (6.9),,-,
+Non-evacuated mass lesions,4 (4.3),0,4 (10.0),,0,4 (6.9),,-,
+GOSE n (%),GOSE n (%),GOSE n (%),GOSE n (%),0.086c,,,0.000c,,-
+8,35 (37.6),24 (45.3),11 (27.5),,35 (100),0,,-,
+7,32 (34.4),16 (30.2),16 (40.0),,,32 (55.2),,-,
+6,13 (14.0),9 (17.0),4 (10.0),,,13 (22.4),,-,
+5,4 (4.3),2 (3.8),2 (5.0),,,4 (6.9),,-,
+4,5 (5.4),2 (3.8),3 (7.5),,,5 (8.6),,-,
+3,4 (4.3),0,4 (10.0),,,4 (6.9),,-,
+Injury Severity Score,Injury Severity Score,Injury Severity Score,Injury Severity Score,0.001d,,,0.037d,,0.001d
+Median (IQR),11.00 (15),6.00 (11),13.50 (9),,6.00 (12.00),11.00 (13.00),,4.00 (0),
+Mean (SD),12.12 (9.88),9.55 (9.218),15.40 (0.83),,9.56 (9.05),13.65 (10.11),,4.57 (2.89),
+Admitted to hospital,68 (73.1),32 (60.4),36 (90.0),0.001b,24 (31.4),44 (75.9),0.442b,17 (81.0),0.457b
+Discharged from the emergency department,25 (26.9),21 (39.6),4 (10.0),0.001b,11 (68.6),14 (24.1),0.442b,4 (19.0),

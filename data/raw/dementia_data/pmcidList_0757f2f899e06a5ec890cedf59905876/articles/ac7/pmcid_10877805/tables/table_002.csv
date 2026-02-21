@@ -1,0 +1,6 @@
+Unnamed: 0_level_0,DTI-ALPS,DTI-ALPS,Choroid plexus,Choroid plexus,Basal ganglia PVS,Basal ganglia PVS,White matter PVS,White matter PVS
+Unnamed: 0_level_1,r,FDR-p,r,FDR-p,Rho,FDR-p,Rho,FDR-p
+Memory,0.47,< 0.001,− 0.315,0.007,0.060,0.704,0.054,0.788
+Executive function,0.358,0.001,− 0.321,0.007,− 0.042,0.704,0.114,0.601
+Visual-spatial,0.223,0.040,− 0.233,0.031,− 0.076,0.704,− 0.030,0.261
+Language,0.419,< 0.001,− 0.261,0.021,− 0.082,0.704,0.201,0.788

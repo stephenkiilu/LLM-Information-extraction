@@ -1,0 +1,6 @@
+Cluster,Size,Max t-statistic,MNI coordinates,MNI coordinates,MNI coordinates,L/R,Area (peak voxel)
+Cluster,Size,Max t-statistic,x,y,z,L/R,Area (peak voxel)
+1,64,4.14,54,101,72,R,IFOF
+2,44,3.19,71,79,95,R,Splenium
+3,32,3.58,63,73,87,R,Splenium
+4,22,4.19,74,87,98,R,Splenium

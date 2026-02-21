@@ -1,0 +1,6 @@
+Measurements,Tract,Diffusion,Correlation coefficient,p
+Unnamed: 0_level_1,Unnamed: 1_level_1,index,(rs),Unnamed: 4_level_1
+Intradaily variability (IV),PCR (R),FA,−0.757,0.001???
+,PCR (L),FA,−0.875,<0.001???
+,SCR (L),FA,−0.811,<0.001???
+Interdaily stability (IS),PCR (R),FA,0.771,0.001???

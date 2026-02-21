@@ -1,0 +1,8 @@
+Unnamed: 0_level_0,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition,Global Cognition
+Unnamed: 0_level_1,SCANS,SCANS,SCANS,SCANS,RUN DMC,RUN DMC,RUN DMC,RUN DMC,HARMONISATION,HARMONISATION,HARMONISATION,HARMONISATION
+BaselineMarkers,β(95 % CI),P-Value,Adjusted R2,AIC,β(95 % CI),P-Value,Adjusted R2,AIC,β(95 % CI),P-Value,Adjusted R2,AIC
+MD median,"−0.25(-0.38, −0.12)",<0.001,0.518,245.19,"−0.22(-0.31, -0.14)",<0.001,0.45,981.32,"−0.31(-0.47, −0.15)",<0.001,0.417,296.58
+PC1,"−0.30(-0.43, -0.18)",<0.001,0.546,238.33,"−0.25(-0.34, -0.16)",<0.001,0.455,977.51,"−0.33(-0.49, −0.17)",<0.001,0.424,294.92
+PSMD,"−0.30(-0.42, -0.17)",<0.001,0.545,238.67,"−0.24(-0.33, -0.16)",<0.001,0.456,976.24,"−0.33(-0.47, −0.18)",<0.001,0.437,291.98
+DSEG θ,"−0.38(-0.53, -0.23)",<0.001,0.556,235.75,"−0.12(-0.22, -0.02)",0.02,0.424,1001.23,"−0.44(-0.62, −0.25)",<0.001,0.444,290.44
+Geff,"0.35(0.22, 0.48)",<0.001,0.569,232.4,"0.22(0.14, 0.31)",<0.001,0.451,980.45,"0.15(0.01, 0.30)",0.04,0.368,306.64

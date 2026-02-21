@@ -1,0 +1,10 @@
+Map temporal association,Coefficient,Standard error,z-value,P-value*,95% Confidence interval
+In-time correlated,,,,,
+Left corticospinal tract (FA) and right corticospinal tract (FA) in-time,0.907,0.064,14.26,<0.001,0.783–1.032
+Left corticospinal tract (AD) and right corticospinal tract (AD) in-time,0.776,0.15,5.18,<0.001,0.482–1.070
+Left corticospinal tract (RD) and right corticospinal tract (RD) in-time,0.757,0.04,19.07,<0.001,0.680–0.835
+Left cerebellum (FA) and right cerebellum (FA) in-time,0.829,0.049,16.79,<0.001,0.732–0.925
+Left cerebellum (MD) and right cerebellum (MD) in-time,1.02,0.049,20.88,<0.001,0.925–1.116
+Correlated with a time shift of one prior timepoint,,,,,
+Left corticospinal tract (FA) on the right cerebellum (FA) on the following timepoint,0.598,0.11,4.37,<0.001,0.383–0.813
+Right corticospinal tract (FA) on the left cerebellum (FA) on the following timepoint,0.39,0.112,3.49,0.008,0.171–0.609

@@ -1,0 +1,7 @@
+Pathology,Method,Overall % - Selected cases,Overall % - Unselected cases
+AD detection (over HC),Atlas-based,0.89,0.91
+,TBSS,0.86,0.87
+aMCI detection (over HC),Atlas-based,0.81,0.75
+,TBSS,0.74,0.75
+AD detection (over aMCI),Atlas-based,0.85,0.78
+,TBSS,0.79,0.78

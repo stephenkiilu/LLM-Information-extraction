@@ -1,0 +1,6 @@
+Unnamed: 0,rh SLFP,lh SLFP,rh SLFT,lh SLFT,Motion
+Patient RK,0.41,0.41,0.44,0.45,0.28
+Controls,0.44 (0.02),0.44 (0.03),0.45 (0.02),0.47 (0.02),0.34 (0.07)
+Significance,0.08,0.06,0.26,0.17,0.17
+Size effects (Z_cc),−1.65,−1.73,−0.63,−1.04,−1.01
+Normal population falling below RK's score,10.1%%,5.90%,26.04%,17.80%,17.26%

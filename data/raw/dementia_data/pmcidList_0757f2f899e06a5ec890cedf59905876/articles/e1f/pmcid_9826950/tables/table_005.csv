@@ -1,0 +1,13 @@
+Test,RK's Score,Normative sample mean score,Reference
+TMT A,66.0,39.14 (11.84),"Tombaugh, T. N. (2004). Trail Making Test A and B: normative data stratified by age and education. Archives of clinical neuropsychology, 19(2), 203–214."
+TMT B,92.0,91.32 (28.89),"Tombaugh, T. N. (2004). Trail Making Test A and B: normative data stratified by age and education. Archives of clinical neuropsychology, 19(2), 203–214."
+VOSP: dot counting,9.0,9.9 (0.2),"Elizabeth K.. Warrington, & James, M. (1991). VOSP: the visual object and space perception battery. Pearson.."
+VOSP: position discrim,20.0,19.6 (0.9),"Elizabeth K.. Warrington, & James, M. (1991). VOSP: the visual object and space perception battery. Pearson.."
+VOSP: cube analysis,10.0,19.2 (1.2),"Elizabeth K.. Warrington, & James, M. (1991). VOSP: the visual object and space perception battery. Pearson.."
+,,Clinical mean score,
+ACE-III,82.0,<82 cut off for mild dementia,"Beishon, L. C., Batterham, A. P., Quinn, T. J., Nelson, C. P., Panerai, R. B., Robinson, T., & Haunton, V. J. (2019). Addenbrooke's Cognitive Examination III (ACE‐III) and mini‐ACE for the detection of dementia and mild cognitive impairment. Cochrane Database of Systematic Reviews, (12)."
+FCSRT: Free recall,15.0,22.1 (4) VaD mean score,"Grober, E., Sanders, A. E., Hall, C., & Lipton, R. B. (2010). Free and cued selective reminding identifies very mild dementia in primary care. Alzheimer disease and associated disorders, 24(3), 284."
+FCSRT: Cued recall,33.0,45.8 (4) VaD mean score,"Grober, E., Sanders, A. E., Hall, C., & Lipton, R. B. (2010). Free and cued selective reminding identifies very mild dementia in primary care. Alzheimer disease and associated disorders, 24(3), 284."
+INECO total,20.0,<25 cut off for dementia,"Sierra Sanjurjo, N., Saraniti, A. B., Gleichgerrcht, E., Roca, M., Manes, F., & Torralva, T. (2019). The IFS (INECO Frontal Screening) and level of education: Normative data. Applied Neuropsychology: Adult, 26(4), 331–339."
+ROCF: Copy,29.0,>99 percentile,"Knight, J. A. (Ed.). (2003). The handbook of Rey-Osterrieth Complex Figure usage: Clinical and research applications. Psychological Assessment Resources, Incorporated."
+ROCF: Recall,12.0,27th percentile,"Knight, J. A. (Ed.). (2003). The handbook of Rey-Osterrieth Complex Figure usage: Clinical and research applications. Psychological Assessment Resources, Incorporated."

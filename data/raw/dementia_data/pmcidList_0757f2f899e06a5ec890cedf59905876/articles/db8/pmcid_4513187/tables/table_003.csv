@@ -1,0 +1,4 @@
+BehaviouralCorrelate,Brain region,Cerebral hemisphere,Cluster size (voxels),p value
+Combined groups,"Anterior TL, OFC",R,"107,453",0.02
+bvFTD only,"Anterior TL, OFC",Bilateral,"318,805",0.01
+bvFTD > svPPA,"Parahippocampal, fusiform gyri",L,"61,222",0.03
