@@ -1,177 +1,161 @@
 #%%
-"""White matter tract extraction from research papers using OpenAI API."""
+"""White matter tract extraction from research papers using OpenAI API.
+
+Two processing modes are supported:
+  - ProcessingMode.ABSTRACT   : uses only the title + abstract
+  - ProcessingMode.FULL_TEXT  : uses title, abstract, and the full cleaned body
+"""
 
 import json
 import csv
 import time
+from enum import Enum
 from typing import List, Dict, Any, Tuple
-import pandas as pd
 
 from openai import OpenAI
 from dotenv import load_dotenv
 
-from config import OPENAI_API_KEY
-from prompts.brain_extraction import SYSTEM_PROMPT
+from config import OPENAI_API_KEY1
+from prompts.brain_extraction_no_lut import SYSTEM_PROMPT
+
+print(SYSTEM_PROMPT)
 
 # Load environment variables
 load_dotenv()
 
 # Initialize OpenAI client
-client = OpenAI(api_key=OPENAI_API_KEY)
+client = OpenAI(api_key=OPENAI_API_KEY1)
 
-# Constants
-WHITEMATTER_JSON_PATH = "data/processed/whitematter_data.json"
-DEFAULT_OUTPUT_CSV = "data/processed/whittematter_predicted_data.csv"
+# ── Constants ──────────────────────────────────────────────────────────────────
+WHITEMATTER_JSON_PATH = "data/processed/whitematter_full_data.json"
 
-# Define all extraction fields
+OUTPUT_CSV = {
+    "abstract":  "data/processed/whitematter_no_lut_predicted_data_GPT_5_mini.csv",
+    "full_text": "data/processed/whitematter_no_lut_predicted_data_GPT_5_mini.csv",
+}
+
+
+# ── Processing mode ────────────────────────────────────────────────────────────
+class ProcessingMode(str, Enum):
+    ABSTRACT  = "abstract"   # title + abstract only
+    FULL_TEXT = "full_text"  # title + abstract + full body content
+
+# ── Extraction fields ──────────────────────────────────────────────────────────
 EXTRACTION_FIELDS = [
-    "subjects",
-    "patient_groups",
-    "imaging_modalities",
-    "whitematter_tracts",
-    "analysis_software",
-    "study_type",
-    "diffusion_measures",
-    "template_space",
-    "results_method",
-    "white_integrity",
-    "question_of_study",
-    "DTI_study",
-    "Human_study",
-    "Dementia_study",
-    "Disease_study"
+    "whitematter_tracts"
 ]
 
-# CSV fieldnames (paper metadata + extraction fields)
-CSV_FIELDNAMES = ["pmcid", "title"] + EXTRACTION_FIELDS
+CSV_FIELDNAMES = ["PMID", "title"] + EXTRACTION_FIELDS
 
-# Load white matter data
+# ── Load data ──────────────────────────────────────────────────────────────────
 with open(WHITEMATTER_JSON_PATH, "r", encoding="utf-8") as f:
     whitematter_json = json.load(f)
 
+
+# ── Helper utilities ───────────────────────────────────────────────────────────
+
 def _get_paper_field(paper: Dict[str, Any], field: str) -> str:
     """Extract and convert a paper field to string, handling None values."""
-    value = paper.get(field)
+    metadata = paper.get("metadata", {})
+    value = metadata.get(field) if field in metadata else paper.get(field)
     return str(value) if value is not None else ""
 
 
-def process_data(paper: Dict[str, Any], processing_mode: int) -> Tuple[str, List[str]]:
+def _clean_content(content: Dict[str, Any]) -> Dict[str, Any]:
     """
-    Preprocess paper data according to the selected processing mode.
-    
+    Recursively clean the body content structure.
+    Removes empty sections and subsections.
+    """
+    cleaned = {}
+    for section_title, section_data in content.items():
+        new_section = {}
+        if "text" in section_data and section_data["text"]:
+            new_section["text"] = section_data["text"]
+        if "subsections" in section_data and isinstance(section_data["subsections"], dict):
+            cleaned_subs = _clean_content(section_data["subsections"])
+            if cleaned_subs:
+                new_section["subsections"] = cleaned_subs
+        if new_section:
+            cleaned[section_title] = new_section
+    return cleaned
+
+
+# ── Payload builders ───────────────────────────────────────────────────────────
+
+def _build_abstract_payload(paper: Dict[str, Any]) -> str:
+    """
+    Build a JSON payload containing ONLY the title and abstract.
+    The full body/content is intentionally excluded.
+    """
+    metadata = paper.get("metadata", {})
+    title    = metadata.get("title")    or paper.get("title", "")
+    abstract = metadata.get("abstract") or paper.get("abstract", "")
+
+    return json.dumps({"title": title, "abstract": abstract}, ensure_ascii=False)
+
+
+def _build_fulltext_payload(paper: Dict[str, Any]) -> str:
+    """
+    Build a JSON payload containing the title, abstract (via metadata),
+    and the full cleaned body content.
+    """
+    metadata = paper.get("metadata", {}).copy()
+    metadata.pop("authors", None)  # strip author list to save tokens
+
+    # Fallback: ensure title/abstract are in metadata
+    if "title" not in metadata and "title" in paper:
+        metadata["title"] = paper["title"]
+    if "abstract" not in metadata and "abstract" in paper:
+        metadata["abstract"] = paper["abstract"]
+
+    content         = paper.get("content", {})
+    cleaned_content = _clean_content(content)
+
+    final_structure = {
+        "metadata": metadata,
+        "body":     cleaned_content,
+    }
+    return json.dumps(final_structure, ensure_ascii=False)
+
+
+def prepare_payload(paper: Dict[str, Any], mode: ProcessingMode) -> str:
+    """
+    Return the appropriate JSON payload string for the given processing mode.
+
     Args:
-        paper: Dictionary containing paper details (title, abstract, keywords, body)
-        processing_mode: Processing strategy
-            1 - Combine all fields without chunking
-            2 - Split body into sections for chunking
-            3 - Title, abstract, and keywords only (no body)
-    
+        paper: Dictionary containing paper details
+        mode:  ProcessingMode.ABSTRACT or ProcessingMode.FULL_TEXT
+
     Returns:
-        Tuple of (combined_data, body_chunks)
+        JSON string ready to be sent to the OpenAI API
     """
-    # Extract paper fields
-    body = _get_paper_field(paper, "body")
-    abstract = _get_paper_field(paper, "abstract")
-    title = _get_paper_field(paper, "title")
-    keywords = _get_paper_field(paper, "keywords")
-
-    if processing_mode == 1:
-        # Mode 1: Combine all fields without chunking
-        data = f"Title: {title}\n\nAbstract: {abstract}\n\nKeywords: {keywords}\n\nBody:\n{body}"
-        return data, []
-
-    elif processing_mode == 2:
-        # Mode 2: Split body into sections for chunking
-        data = f"Title: {title}\n\nAbstract: {abstract}\n\nKeywords: {keywords}"
-        body_chunks = _split_body_into_chunks(body)
-        return data, body_chunks
-
-    elif processing_mode == 3:
-        # Mode 3: Only metadata (no body)
-        data = f"Title: {title}\n\nAbstract: {abstract}\n\nKeywords: {keywords}"
-        return data, []
-
-    return "", []
+    if mode == ProcessingMode.ABSTRACT:
+        return _build_abstract_payload(paper)
+    elif mode == ProcessingMode.FULL_TEXT:
+        return _build_fulltext_payload(paper)
+    else:
+        raise ValueError(f"Unknown processing mode: {mode!r}")
 
 
-def _split_body_into_chunks(body: str) -> List[str]:
-    """Split body text into chunks based on section markers (##)."""
-    sections = body.split("##")
-    body_chunks = []
-    current_section = ""
 
-    for section in sections:
-        section = section.strip()
-        if not section:
-            continue
-        
-        if section.startswith("#"):
-            # Subsection - append to current section
-            current_section += " " + section
-        else:
-            # New section - save current and start new
-            if current_section:
-                body_chunks.append(current_section.strip())
-            current_section = section.strip()
-
-    # Add final section if exists
-    if current_section:
-        body_chunks.append(current_section.strip())
-    
-    return body_chunks
-
-
-def extract_one(WM_paper: Dict[str, Any], 
-                model: str = "gpt-4o-mini", 
-                processing_mode: int = 1) -> Dict[str, Any]:
-    """
-    Extract structured data from a single paper using OpenAI API.
-    
-    Args:
-        WM_paper: Dictionary containing paper details
-        model: OpenAI model identifier (default: gpt-4o-mini)
-        processing_mode: Data processing mode (1=all, 2=chunked, 3=metadata only)
-    
-    Returns:
-        Dictionary containing extracted fields with lists of values
-    """
-    data, body_chunks = process_data(WM_paper, processing_mode)
-
-    # Prepare chunks for processing
-    chunks = [data] if processing_mode in [1, 3] else [data] + body_chunks
-
-    # Initialize results dictionary
-    all_data = {field: [] for field in EXTRACTION_FIELDS}
-
-    # Process each chunk through OpenAI API
-    for chunk in chunks:
-        chunk_result = _process_chunk_with_api(chunk, model)
-        _merge_chunk_results(all_data, chunk_result)
-
-    # Remove duplicates from aggregated results
-    for key in all_data:
-        all_data[key] = list(set(all_data[key]))
-
-    return all_data
-
+# ── API interaction ────────────────────────────────────────────────────────────
 
 def _process_chunk_with_api(chunk: str, model: str) -> Dict[str, Any]:
-    """Send a text chunk to OpenAI API and parse the response."""
+    """Send a text chunk to the OpenAI API and parse the JSON response."""
     user_payload = {"body": chunk}
-    
+    content = ""
     try:
         resp = client.chat.completions.create(
             model=model,
             temperature=1,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": json.dumps(user_payload, ensure_ascii=False)}
-            ]
+                {"role": "user",   "content": json.dumps(user_payload, ensure_ascii=False)},
+            ],
         )
-        
         content = resp.choices[0].message.content
         return json.loads(content)
-    
+
     except json.JSONDecodeError as e:
         print(f"JSON parsing error: {e}")
         print(f"Raw content: {content}")
@@ -182,7 +166,7 @@ def _process_chunk_with_api(chunk: str, model: str) -> Dict[str, Any]:
 
 
 def _merge_chunk_results(all_data: Dict[str, List], chunk_result: Dict[str, Any]) -> None:
-    """Merge results from a single chunk into the aggregated results."""
+    """Merge results from a single API response into the aggregated results dict."""
     for key in all_data:
         value = chunk_result.get(key)
         if isinstance(value, list):
@@ -191,59 +175,47 @@ def _merge_chunk_results(all_data: Dict[str, List], chunk_result: Dict[str, Any]
             all_data[key].append(value)
 
 
+# ── Single-paper extraction ────────────────────────────────────────────────────
+
+def extract_one(WM_paper: Dict[str, Any],
+                model: str = "gpt-5-mini",
+                mode: ProcessingMode = ProcessingMode.ABSTRACT) -> Dict[str, Any]:
+    """
+    Extract structured data from a single paper using the OpenAI API.
+
+    Args:
+        WM_paper: Dictionary containing paper details
+        model:    OpenAI model identifier (default: gpt-4o-mini)
+        mode:     ProcessingMode.ABSTRACT  → title + abstract only
+                  ProcessingMode.FULL_TEXT → title + abstract + full body
+
+    Returns:
+        Dictionary containing extracted fields with lists of values
+    """
+    data = prepare_payload(WM_paper, mode)
+
+    all_data = {field: [] for field in EXTRACTION_FIELDS}
+    chunk_result = _process_chunk_with_api(data, model)
+    _merge_chunk_results(all_data, chunk_result)
+
+    # Deduplicate
+    for key in all_data:
+        all_data[key] = list(set(all_data[key]))
+
+    return all_data
+
+
+# ── CSV helpers ────────────────────────────────────────────────────────────────
+
 def _build_csv_row(paper: Dict[str, Any], extracted_data: Dict[str, List]) -> Dict[str, str]:
     """Build a CSV row from paper metadata and extracted data."""
     row = {
-        "pmcid": paper.get("pmcid", ""),
-        "title": paper.get("title", "")
+        "PMID":  _get_paper_field(paper, "PMID"),
+        "title": _get_paper_field(paper, "title"),
     }
-    
-    # Add extracted fields with semicolon-separated values
     for field in EXTRACTION_FIELDS:
         row[field] = ";".join(extracted_data.get(field, []))
-    
     return row
-
-#gpt-4o-mini
-def extract_all(WM_papers: List[Dict[str, Any]],
-                out_csv: str = DEFAULT_OUTPUT_CSV,
-                model: str = "gpt-4o-mini",
-                sleep_sec: float = 0.001,
-                processing_mode: int = 1) -> List[Dict[str, str]]:
-    """
-    Extract data from multiple papers and save results to CSV.
-    
-    Args:
-        WM_papers: List of paper dictionaries to process
-        out_csv: Output CSV file path
-        model: OpenAI model identifier
-        sleep_sec: Delay between API calls to avoid rate limits
-        processing_mode: Data processing mode (1=all, 2=chunked, 3=metadata only)
-    
-    Returns:
-        List of CSV row dictionaries
-    """
-    results = []
-    total_papers = len(WM_papers)
-    
-    for i, paper in enumerate(WM_papers, 1):
-        # Extract data from paper
-        extracted_data = extract_one(paper, model=model, processing_mode=processing_mode)
-        
-        # Build CSV row
-        row = _build_csv_row(paper, extracted_data)
-        print(row)
-        results.append(row)
-        
-        print(f"Processed {i}/{total_papers}: {paper.get('pmcid', 'Unknown')}")
-        time.sleep(sleep_sec)
-       
-    
-    # Write results to CSV
-    _write_results_to_csv(results, out_csv)
-    print(f"✅ Successfully saved {len(results)} records to {out_csv}")
-
-    return results
 
 
 def _write_results_to_csv(results: List[Dict[str, str]], output_path: str) -> None:
@@ -252,16 +224,59 @@ def _write_results_to_csv(results: List[Dict[str, str]], output_path: str) -> No
         writer = csv.DictWriter(f, fieldnames=CSV_FIELDNAMES)
         writer.writeheader()
         writer.writerows(results)
-    
-def main():
-    """Main execution function."""
-    print(f"Starting extraction for {len(whitematter_json)} papers...")
-    extract_all(whitematter_json[0:50], processing_mode=1)
-    print("Extraction complete!")
 
+
+# ── Batch extraction ───────────────────────────────────────────────────────────
+
+def extract_all(WM_papers: List[Dict[str, Any]],
+                out_csv: str | None = None,
+                model: str = "gpt-5-mini",
+                sleep_sec: float = 0.001,
+                mode: ProcessingMode = ProcessingMode.ABSTRACT) -> List[Dict[str, str]]:
+    """
+    Extract data from multiple papers and save results to CSV.
+
+    Args:
+        WM_papers:  List of paper dictionaries to process
+        out_csv:    Output CSV file path (auto-selected from mode if None)
+        model:      OpenAI model identifier
+        sleep_sec:  Delay between API calls to avoid rate limits
+        mode:       ProcessingMode.ABSTRACT  → abstract-only extraction
+                    ProcessingMode.FULL_TEXT → full-text extraction
+
+    Returns:
+        List of CSV row dictionaries
+    """
+    if out_csv is None:
+        out_csv = OUTPUT_CSV[mode.value]
+
+    results      = []
+    total_papers = len(WM_papers)
+    mode_label   = "ABSTRACT-ONLY" if mode == ProcessingMode.ABSTRACT else "FULL-TEXT"
+
+    print(f"Starting {mode_label} extraction for {total_papers} papers...")
+    print(f"Output → {out_csv}\n")
+
+    for i, paper in enumerate(WM_papers, 1):
+        extracted_data = extract_one(paper, model=model, mode=mode)
+        row = _build_csv_row(paper, extracted_data)
+        print(row)
+        results.append(row)
+        print(f"Processed {i}/{total_papers}: {row.get('PMID', 'Unknown')}")
+        time.sleep(sleep_sec)
+
+    _write_results_to_csv(results, out_csv)
+    print(f"\n✅ Successfully saved {len(results)} records to {out_csv}")
+    return results
+
+
+# ── Entry point ────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    main()
-
-
-
+    # ── Choose your mode here ──────────────────────────────────────────────────
+    #
+    #   ProcessingMode.ABSTRACT   → sends only title + abstract to the API
+    #   ProcessingMode.FULL_TEXT  → sends title + abstract + full body content
+    #
+    extract_all(whitematter_json, mode=ProcessingMode.FULL_TEXT)
+    # extract_all(whitematter_json, mode=ProcessingMode.FULL_TEXT)
